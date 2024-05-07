@@ -1,0 +1,9 @@
+title: ss
+description: >- # this means to ignore newlines until "baseurl:"
+ Download the dataset and reproduce the figures
+baseurl: "/Network_Web" # the subpath of your site, e.g. /blog
+url: "https://s-mahdihosseini.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  s-mahdihosseini
+
+# Build settings
+theme: jekyll-theme-cayman
