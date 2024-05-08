@@ -1,4 +1,3 @@
-The Global Network of Liquidity Lines
 
 # Summary
 A central bank cross-border liquidity line is an agreement between two central banks to provide a collateralised loan of currency from one to the other. They have been around for
