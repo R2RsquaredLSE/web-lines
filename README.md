@@ -2,20 +2,25 @@
 A central bank cross-border liquidity line is an agreement between two central banks to provide a collateralised loan of currency from one to the other. They have been around for
 a long time, but have risen in prominence over the last twenty years. This dataset provides a comprehensive (to the best of our knolwedge and sbility) repository for all lines in place since 2000. This dataset was collated from public sources, so it can be **freely used** by other researchers.
 
-The dataset was last updated in April 2024 to cover lines in place until December 2023. It will be updated regularly to reflect the latest data
+The dataset was last updated in April 2024 to cover lines in place until December 2023. It will be updated regularly to reflect the latest data.
 
 # Authors and Reference:
-- [The Global Network of Liquidity Lines](https://personal.lse.ac.uk/reisr/papers/99-lines.pdf) (2024), CEPR discussion paper XXXX 
+[The Global Network of Liquidity Lines](https://personal.lse.ac.uk/reisr/papers/99-lines.pdf) (2024), CEPR discussion paper XXXX, [bibtex](https://www.r2rsquared.com/](https://personal.lse.ac.uk/reisr/papers/99-lines-bib.bib ) 
 - [Saleem Bahaj](https://sites.google.com/site/saleembahaj/home)
 - [Marie Fuchs](https://www.lse.ac.uk/economics/people/research-students/marie-fuchs)
 - [Ricardo Reis](https://www.r2rsquared.com/)
-- [bibtex]([https://www.r2rsquared.com/](https://personal.lse.ac.uk/reisr/papers/99-lines-bib.bib))  
-- Acknolwedgments: Marina Feliciano, Seyed Mehdi Hosseini, and Xiaoton Wu provided excellent research assistance.
+- Acknowledgments: Marina Feliciano, Seyed Mehdi Hosseini, and Xiaoton Wu provided excellent research assistance.
 
 ---
 
+# Full Dataset
+Download in three formats:
+- [Excel](liquidity_lines_0524.xlsx)
+- [csv](liquidity_lines_0524.csv)
+- [dta](liquidity_lins_0524.dta)
+  
 # Variables
-The data is att the agreement level: by date and duration (2000-23), by source currency (USD,EUR, RMB, others), by type (bilateral or multilateral), by funding structure (pooled or
+The data is at the agreement level: by date and duration (2000-23), by source currency (USD,EUR, RMB, others), by type (bilateral or multilateral), by funding structure (pooled or
 by individual bank), by counterparties (central banks), and by some terms (like the collateral).
 
 <table>
@@ -109,29 +114,44 @@ by individual bank), by counterparties (central banks), and by some terms (like 
   </tr>
 </table>
 
-# Full Dataset
-
-Download in three formats:
-- [Excel](liquidity_lines_0524.xlsx)
-- [csv](liquidity_lines_0524.csv)
-- [dta](liquidity_lins_0524.dta)
-
 ---
 
-# Updated Figures
-
-## The evolution over time of the liquidity lines
-
-![Description of the image](Map_Network.png)
-
-hgj
-![Description of the image](combined_TotalConnections.png) 
-
-## The evolution over time of the liquidity lines, by currency
-
-![Description of the image](combined_TotalConnections_bycurrency.png) 
+# Latest Figures
 
 ## Geographical coverage of the liquidity lines
+![Description of the image](Map_Network.png)
+Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
 
-![Description of the image](2020.png)
+## Geographical coverage of the USD liquidity lines by degree
+![Description of the image](Map_Network.png)
+Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
+
+## Geographical coverage of the EUR liquidity lines by degree
+![Description of the image](Map_Network.png)
+Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
+
+## Geographical coverage of the RMB liquidity lines by degree
+![Description of the image](Map_Network.png)
+Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
+
+## The evolution over time of the liquidity lines
+![Description of the image](combined_TotalConnections_bycurrency.png)
+Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
+
+## The evolution over time of the USD liquidity lines 
+![Description of the image](combined_TotalConnections_bycurrency.png) 
+Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
+
+## The evolution over time of the EUR liquidity lines 
+![Description of the image](combined_TotalConnections_bycurrency.png) 
+Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
+
+## The evolution over time of the RMB liquidity lines 
+![Description of the image](combined_TotalConnections_bycurrency.png) 
+Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
+
+
+# Usage
+Please cite if use, and e-mail the authors with suggested corrections.
+
 
