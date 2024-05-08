@@ -1,4 +1,5 @@
-.
+---
+
 # Summary
 A central bank cross-border liquidity line is an agreement between two central banks to provide a collateralised loan of currency from one to the other. They have been around for
 a long time, but have risen in prominence since the globla financial crisis. This dataset provides a comprehensive (to the best of our knolwedge and ability) repository for all lines in place since 2000. This dataset was collated from public sources, so it can be **freely used** by other researchers.
@@ -8,13 +9,12 @@ The dataset was last updated in April 2024 to cover lines in place until Decembe
 ---
 
 # Authors and Reference:
-[The Global Network of Liquidity Lines](https://personal.lse.ac.uk/reisr/papers/99-lines.pdf) (2024), CEPR discussion paper XXXX,
-
+[The Global Network of Liquidity Lines](https://personal.lse.ac.uk/reisr/papers/99-lines.pdf) (2024), CEPR discussion paper XXXX, 
+[bibtex](https://personal.lse.ac.uk/reisr/papers/99-lines-bib.bib)
 - [Saleem Bahaj](https://sites.google.com/site/saleembahaj/home)
 - [Marie Fuchs](https://www.lse.ac.uk/economics/people/research-students/marie-fuchs)
 - [Ricardo Reis](https://www.r2rsquared.com/)
 - Acknowledgments: Marina Feliciano, Seyed Mehdi Hosseini, and Xiaoton Wu provided excellent research assistance.
-- [bibtex](https://www.r2rsquared.com/](https://personal.lse.ac.uk/reisr/papers/99-lines-bib.bib )
 
 ---
 
