@@ -127,24 +127,28 @@ by individual bank), by counterparties (central banks), and by some terms (like 
 
 ## Geographical coverage of the liquidity lines
 ![Description of the image](map_temp_2023.pdf)
+
 Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
 
 ---
 
 ## Geographical coverage of the USD liquidity lines by degree
-![Description of the image](network_bilateral2023_USA.png)
+![Description of the image](network_bilateral2023_USA.pdf)
+
 Data for replication: [Excel](/network_bilateral2023_USA.xlsx), [csv](/network_bilateral2023_USA.csv), [dta](/network_bilateral2023_USA.dta) 
 
 ---
 
 ## Geographical coverage of the EUR liquidity lines by degree
-![Description of the image](network_bilateral2023_EA.png)
+![Description of the image](network_bilateral2023_EA.pdf)
+
 Data for replication: [Excel](network_bilateral2023_EA.xlsx), [csv](network_bilateral2023_EA.csv), [dta](network_bilateral2023_EA.dta) 
 
 ---
 
 ## Geographical coverage of the RMB liquidity lines by degree
-![Description of the image](network_bilateral2023_CNH.png)
+![Description of the image](network_bilateral2023_CNH.pdf)
+
 Data for replication: [Excel](network_bilateral2023_CHN.xlsx), [csv](network_bilateral2023_CHN.csv), [dta](network_bilateral2023_CHN.dta) 
 
 ---
