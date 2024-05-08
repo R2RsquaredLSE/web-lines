@@ -9,11 +9,12 @@ The dataset was last updated in April 2024 to cover lines in place until Decembe
 
 # Authors and Reference:
 [The Global Network of Liquidity Lines](https://personal.lse.ac.uk/reisr/papers/99-lines.pdf) (2024), CEPR discussion paper XXXX,
-[bibtex](https://www.r2rsquared.com/](https://personal.lse.ac.uk/reisr/papers/99-lines-bib.bib )
+
 - [Saleem Bahaj](https://sites.google.com/site/saleembahaj/home)
 - [Marie Fuchs](https://www.lse.ac.uk/economics/people/research-students/marie-fuchs)
 - [Ricardo Reis](https://www.r2rsquared.com/)
 - Acknowledgments: Marina Feliciano, Seyed Mehdi Hosseini, and Xiaoton Wu provided excellent research assistance.
+- [bibtex](https://www.r2rsquared.com/](https://personal.lse.ac.uk/reisr/papers/99-lines-bib.bib )
 
 ---
 
