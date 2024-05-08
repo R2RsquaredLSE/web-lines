@@ -4,7 +4,8 @@
 A central bank cross-border liquidity line is an agreement between two central banks to provide a collateralised loan of currency from one to the other. They have been around for
 a long time, but have risen in prominence since the globla financial crisis. This dataset provides a comprehensive (to the best of our knolwedge and ability) repository for all lines in place since 2000. This dataset was collated from public sources, so it can be **freely used** by other researchers.
 
-The dataset was last updated in April 2024 to cover lines in place until December 2023. It will be updated regularly to reflect the latest data.
+The dataset will be updated regularly to reflect the latest data.
+- **Vintage 1:** The dataset was last updated in April 2024 to cover lines in place until December 2023. 
 
 ---
 
@@ -14,13 +15,13 @@ The dataset was last updated in April 2024 to cover lines in place until Decembe
 - [Saleem Bahaj](https://sites.google.com/site/saleembahaj/home)
 - [Marie Fuchs](https://www.lse.ac.uk/economics/people/research-students/marie-fuchs)
 - [Ricardo Reis](https://www.r2rsquared.com/)
-- Acknowledgments: Marina Feliciano, Seyed Mahdi Hosseini, and Xiaoton Wu provided excellent research assistance.
+- Acknowledgments: Marina Feliciano, Seyed Mahdi Hosseini, and Xiaotong Wu provided excellent research assistance.
 
 ---
 
 # Full Dataset
 Download in three formats:
-- [Excel](liquidity_lines_0524.xlsx)
+- [Excel](liquidity_lines_0524.xlsx) (with meta data)
 - [csv](liquidity_lines_0524.csv)
 - [dta](liquidity_lins_0524.dta)
 
@@ -101,7 +102,7 @@ by individual bank), by counterparties (central banks), and by some terms (like 
   </tr>
   <tr style="background-color: #f5f5f5;">
     <td style="border: 2px solid #68b684; padding: 8px;"><code>source_currency_deal</code></td>
-    <td style="border: 2px solid #68b684; padding: 8px;">Dummy variable</td>
+    <td style="border: 2px solid #68b684; padding: 8px;">Dummy variable if deal and source are same currency</td>
   </tr>
   <tr style="background-color: #d4f4d3;">
     <td style="border: 2px solid #68b684; padding: 8px;"><code>deal_currency_amount</code></td>
@@ -123,7 +124,7 @@ by individual bank), by counterparties (central banks), and by some terms (like 
 
 ---
 
-# Latest Figures
+# Latest Figures (as of 2023)
 
 ## Geographical coverage of the liquidity lines
 ![Description of the image](Map_Network.png)
