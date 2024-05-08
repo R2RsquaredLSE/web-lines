@@ -1,4 +1,3 @@
-.
 
 # Summary
 A central bank cross-border liquidity line is an agreement between two central banks to provide a collateralised loan of currency from one to the other. They have been around for
@@ -127,50 +126,50 @@ by individual bank), by counterparties (central banks), and by some terms (like 
 # Latest Figures (as of 2023)
 
 ## Geographical coverage of the liquidity lines
-![Description of the image](Map_Network.png)
+![Description of the image](map_temp_2023.pdf)
 Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
 
 ---
 
 ## Geographical coverage of the USD liquidity lines by degree
-![Description of the image](Map_Network.png)
-Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
+![Description of the image](network_bilateral2023_USA.png)
+Data for replication: [Excel](/network_bilateral2023_USA.xlsx), [csv](/network_bilateral2023_USA.csv), [dta](/network_bilateral2023_USA.dta) 
 
 ---
 
 ## Geographical coverage of the EUR liquidity lines by degree
-![Description of the image](Map_Network.png)
-Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
+![Description of the image](network_bilateral2023_EA.png)
+Data for replication: [Excel](network_bilateral2023_EA.xlsx), [csv](network_bilateral2023_EA.csv), [dta](network_bilateral2023_EA.dta) 
 
 ---
 
 ## Geographical coverage of the RMB liquidity lines by degree
-![Description of the image](Map_Network.png)
-Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
+![Description of the image](network_bilateral2023_CNH.png)
+Data for replication: [Excel](network_bilateral2023_CHN.xlsx), [csv](network_bilateral2023_CHN.csv), [dta](network_bilateral2023_CHN.dta) 
 
 ---
 
 ## The evolution over time of the liquidity lines
-![Description of the image](combined_TotalConnections_bycurrency.png)
-Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
+![Description of the image](combined_TotalConnections.png)
+Data for replication: [Excel](combined_TotalConnections.xlsx), [csv](combined_TotalConnections.csv), [dta](combined_TotalConnections.dta) 
 
 ---
 
 ## The evolution over time of the USD liquidity lines 
-![Description of the image](combined_TotalConnections_bycurrency.png) 
-Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
+![Description of the image](bilateral_USAcoverage_GDP.png) 
+Data for replication: [Excel](bilateral_USAcoverage_GDP.xlsx), [csv](bilateral_USAcoverage_GDP.csv), [dta](bilateral_USAcoverage_GDP.dta) 
 
 ---
 
 ## The evolution over time of the EUR liquidity lines 
-![Description of the image](combined_TotalConnections_bycurrency.png) 
-Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
+![Description of the image](bilateral_EAcoverage_GDP.png) 
+Data for replication: [Excel](bilateral_EAcoverage_GDP.xlsx), [csv](bilateral_EAcoverage_GDP.csv), [dta](bilateral_EAcoverage_GDPdta) 
 
 ---
 
 ## The evolution over time of the RMB liquidity lines 
-![Description of the image](combined_TotalConnections_bycurrency.png) 
-Data for replication: [Excel](Map_Network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
+![Description of the image](bilateral_CHNcoverage_GDP.png) 
+Data for replication: [Excel](bilateral_CHNcoverage_GDP.xlsx), [csv](bilateral_CHNcoverage_GDP.csv), [dta](bilateral_CHNcoverage_GDP.dta) 
 
 ---
 
