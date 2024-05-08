@@ -1,13 +1,6 @@
-title: 
-  Dataset on the Global Network of Liquidity Lines
-description: >- # this means to ignore newlines until "baseurl:"
- Download the dataset and view figures using it
-baseurl: 
-  "/web-lines" # the subpath of your site, e.g. /blog
-url: 
-  "https://R2RsquaredLSE.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  
-  R2RsquaredLSE
-
-# Build settings
+title: Dataset on the Global Network of Liquidity Lines
+description: Download the dataset and view figures using it
 theme: jekyll-theme-cayman
+baseurl: "/web-lines" 
+url: "https://R2RsquaredLSE.github.io"
+github_username: R2RsquaredLSE
