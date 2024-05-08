@@ -1,4 +1,5 @@
 
+
 # Summary
 A central bank cross-border liquidity line is an agreement between two central banks to provide a collateralised loan of currency from one to the other. They have been around for
 a long time, but have risen in prominence since the globla financial crisis. This dataset provides a comprehensive (to the best of our knolwedge and ability) repository for all lines in place since 2000. This dataset was collated from public sources, so it can be **freely used** by other researchers.
