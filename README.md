@@ -14,7 +14,7 @@ The dataset was last updated in April 2024 to cover lines in place until Decembe
 - [Saleem Bahaj](https://sites.google.com/site/saleembahaj/home)
 - [Marie Fuchs](https://www.lse.ac.uk/economics/people/research-students/marie-fuchs)
 - [Ricardo Reis](https://www.r2rsquared.com/)
-- Acknowledgments: Marina Feliciano, Seyed Mehdi Hosseini, and Xiaoton Wu provided excellent research assistance.
+- Acknowledgments: Marina Feliciano, Seyed Mahdi Hosseini, and Xiaoton Wu provided excellent research assistance.
 
 ---
 
