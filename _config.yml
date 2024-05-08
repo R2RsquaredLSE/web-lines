@@ -1,4 +1,4 @@
-title: Dataset on the Global Netowrk of Liquidity Lines
+title: Dataset on the Global Network of Liquidity Lines
 description: >- # this means to ignore newlines until "baseurl:"
  Download the dataset and reproduce the figures
 baseurl: "/web-lines" # the subpath of your site, e.g. /blog
