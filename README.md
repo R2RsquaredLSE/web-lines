@@ -147,7 +147,7 @@ Data for replication: [Excel](network_bilateral2023_EA.xlsx), [csv](network_bila
 ---
 
 ## Geographical coverage of the RMB liquidity lines by degree
-![Description of the image](network_bilateral2023_CNH.pdf)
+![Description of the image](network_bilateral2023_CHN.pdf)
 
 Data for replication: [Excel](network_bilateral2023_CHN.xlsx), [csv](network_bilateral2023_CHN.csv), [dta](network_bilateral2023_CHN.dta) 
 
