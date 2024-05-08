@@ -1,52 +1,22 @@
-# Dataset for: The Global Network of Liquidity Lines
+# Summary
+A central bank cross-border liquidity line is an agreement between two central banks to provide a collateralised loan of currency from one to the other. They have been around for
+a long time, but have risen in prominence over the last twenty years. This dataset provides a comprehensive (to the best of our knolwedge and sbility) repository for all lines in place since 2000. This dataset was collated from public sources, so it can be **freely used** by other researchers.
 
-This is a test!
+The dataset was last updated in April 2024 to cover lines in place until December 2023. It will be updated regularly to reflect the latest data
 
-- [Draft, coming soon!](https://personal.lse.ac.uk/reisr/papers/99-infdis.pdf)
-
-![Description of the image](Map_Network.png)
-
-
-## Authors:
-
+# Authors and Reference:
+- [The Global Network of Liquidity Lines](https://personal.lse.ac.uk/reisr/papers/99-lines.pdf) (2024), CEPR discussion paper XXXX 
 - [Saleem Bahaj](https://sites.google.com/site/saleembahaj/home)
 - [Marie Fuchs](https://www.lse.ac.uk/economics/people/research-students/marie-fuchs)
 - [Ricardo Reis](https://www.r2rsquared.com/)
+- [bibtex]([https://www.r2rsquared.com/](https://personal.lse.ac.uk/reisr/papers/99-lines-bib.bib))  
+- Acknolwedgments: Marina Feliciano, Seyed Mehdi Hosseini, and Xiaoton Wu provided excellent research assistance.
 
-## Date:
+---
 
-April 2024
-
-## Summary
-- A central bank cross-border liquidity line is an agreement between two central banks to
-provide a collateralised loan of currency from one to the other. They have been around for
-a long time, but have risen in prominence over the last twenty years. Following both the
-great financial crisis and the pandemic, central banks expanded the number of lines and
-relied on them to restore financial stability. By 2023, the funds committed to the liquidity
-lines were well above the lending capacity of the International Monetary Fund (IMF). 
-
-- These agreements are varied in their signatories and in their characteristics. For instance, while swap lines get most of the attention, there are many repurchase agreements
-as well. Also, while borrowing from a line usually means money issuance by one of the
-central banks, there are some large lines that instead lend out existing USD central bank
-reserves. Finally, the People’s Bank of China (PBoC) has many bilateral lines, while the
-Federal Reserve (Fed)’s lines are concentrated in one large multilateral arrangement, and
-the European Central Bank (ECB) has a mix in between.
-
-- This paper provides a comprehensive dataset of central bank cross-border liquidity
-lines at the agreement level: by date and duration (2000-23), by source currency (USD,
-EUR, RMB, others), by type (bilateral or multilateral), by funding structure (pooled or
-by individual bank), by counterparties (central banks), and by some terms (like the collateral). This dataset was collated from public sources, and is **freely available for other
-researchers to use**. We use these data to establish three novel sets of facts.
-
-
-## Dataset
-
-Download:
-- [Excel](liquidity_lines_current_v19_upload.xlsx)
-- [csv](liquidity_lines_current_v19_upload.csv)
-- [dta](data.dta)
-
-Variable Description:
+# Variables
+The data is att the agreement level: by date and duration (2000-23), by source currency (USD,EUR, RMB, others), by type (bilateral or multilateral), by funding structure (pooled or
+by individual bank), by counterparties (central banks), and by some terms (like the collateral).
 
 <table>
   <tr style="background-color: #d4f4d3;">
@@ -139,8 +109,16 @@ Variable Description:
   </tr>
 </table>
 
+# Full Dataset
 
-## Figures
+Download in three formats:
+- [Excel](liquidity_lines_0524.xlsx)
+- [csv](liquidity_lines_0524.csv)
+- [dta](liquidity_lins_0524.dta)
+
+---
+
+# Updated Figures
 
 ## The evolution over time of the liquidity lines
 
@@ -157,17 +135,3 @@ hgj
 
 ![Description of the image](2020.png)
 
-
-
-
-## Updates
-
-This research is updated regularly to reflect the latest data and analysis.
-
-## Acknowledgment
-
-We thank Marina Feliciano, and other people who helped!
-
----
-
-*This website is for test purposes for Ricardo and the team.*
