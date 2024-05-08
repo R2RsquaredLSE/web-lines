@@ -1,6 +1,7 @@
 title: Dataset on the Global Network of Liquidity Lines
 description: Download the dataset and view figures using it
-theme: jekyll-theme-cayman
 baseurl: "/web-lines" 
 url: "https://R2RsquaredLSE.github.io"
 github_username: R2RsquaredLSE
+
+theme: jekyll-theme-cayman
