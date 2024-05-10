@@ -161,19 +161,19 @@ Data for replication: [Excel](combined_TotalConnections.xlsx), [csv](combined_To
 
 ## The evolution over time of the USD liquidity lines 
 ![Description of the image](bilateral_USAcoverage_GDP.png) 
-Data for replication: [Excel](bilateral_USAcoverage_GDP.xlsx), [csv](bilateral_USAcoverage_GDP.csv), [dta](bilateral_USAcoverage_GDP.dta) 
+Data for replication: [Excel](bilateral_USAcoverage_GDP.xls), [csv](bilateral_USAcoverage_GDP.csv), [dta](bilateral_USAcoverage_GDP.dta) 
 
 ---
 
 ## The evolution over time of the EUR liquidity lines 
 ![Description of the image](bilateral_EAcoverage_GDP.png) 
-Data for replication: [Excel](bilateral_EAcoverage_GDP.xlsx), [csv](bilateral_EAcoverage_GDP.csv), [dta](bilateral_EAcoverage_GDP.dta) 
+Data for replication: [Excel](bilateral_EAcoverage_GDP.xls), [csv](bilateral_EAcoverage_GDP.csv), [dta](bilateral_EAcoverage_GDP.dta) 
 
 ---
 
 ## The evolution over time of the RMB liquidity lines 
 ![Description of the image](bilateral_CHNcoverage_GDP.png) 
-Data for replication: [Excel](bilateral_CHNcoverage_GDP.xlsx), [csv](bilateral_CHNcoverage_GDP.csv), [dta](bilateral_CHNcoverage_GDP.dta) 
+Data for replication: [Excel](bilateral_CHNcoverage_GDP.xls), [csv](bilateral_CHNcoverage_GDP.csv), [dta](bilateral_CHNcoverage_GDP.dta) 
 
 ---
 
