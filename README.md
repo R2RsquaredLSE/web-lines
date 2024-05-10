@@ -128,7 +128,7 @@ by individual bank), by counterparties (central banks), and by some terms (like 
 ## Geographical coverage of the liquidity lines
 ![Description of the image](map_temp_2023.png)
 
-Data for replication: [Excel](Map_network.xlsx), [csv](Map_network.csv), [dta](Map_network.dta) 
+Data for replication: [Excel](Map_network_xlsx.zip), [csv](Map_network_csv.zip), [dta](Map_network_dta.zip) 
 
 ---
 
