@@ -167,7 +167,7 @@ Data for replication: [Excel](bilateral_USAcoverage_GDP.xlsx), [csv](bilateral_U
 
 ## The evolution over time of the EUR liquidity lines 
 ![Description of the image](bilateral_EAcoverage_GDP.png) 
-Data for replication: [Excel](bilateral_EAcoverage_GDP.xlsx), [csv](bilateral_EAcoverage_GDP.csv), [dta](bilateral_EAcoverage_GDPdta) 
+Data for replication: [Excel](bilateral_EAcoverage_GDP.xlsx), [csv](bilateral_EAcoverage_GDP.csv), [dta](bilateral_EAcoverage_GDP.dta) 
 
 ---
 
