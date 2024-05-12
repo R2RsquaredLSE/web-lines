@@ -1,7 +1,7 @@
 .
 # Summary
 A central bank cross-border liquidity line is an agreement between two central banks to provide a collateralised loan of currency from one to the other. They have been around for
-a long time, but have risen in prominence since the global financial crisis. This dataset provides a comprehensive (to the best of our knolwedge and ability) repository for all lines in place since 2000. This dataset was collated from public sources, so it can be **freely used** by other researchers.
+a long time, but have risen in prominence since the global financial crisis. This dataset provides a comprehensive (to the best of our knowledge and ability) repository for all lines in place since 2000. This dataset was collated from public sources, so it can be **freely used** by other researchers.
 
 The dataset will be updated regularly to reflect the latest data.
 - **Vintage 1:** The dataset was last updated in May 2024 to cover lines in place until December 2023. 
@@ -9,7 +9,7 @@ The dataset will be updated regularly to reflect the latest data.
 ---
 
 # Authors and Reference:
-[The Global Network of Liquidity Lines](https://personal.lse.ac.uk/reisr/papers/99-lines.pdf) (2024), CEPR discussion paper XXXX, 
+[The Global Network of Liquidity Lines](https://personal.lse.ac.uk/reisr/papers/99-lines.pdf) (2024), CEPR discussion paper. 
 [bibtex](https://personal.lse.ac.uk/reisr/papers/99-lines-bib.bib)
 - [Saleem Bahaj](https://sites.google.com/site/saleembahaj/home)
 - [Marie Fuchs](https://www.lse.ac.uk/economics/people/research-students/marie-fuchs)
@@ -28,7 +28,7 @@ Download in three formats:
 
 # Variables
 The data is at the agreement level: by date and duration (2000-23), by source currency (USD,EUR, RMB, others), by type (bilateral or multilateral), by funding structure (pooled or
-by individual bank), by counterparties (central banks), and by some terms (like the collateral).
+by individual bank), by counterparties (central banks), and by some terms (like collateral).
 
 <table>
   <tr style="background-color: #d4f4d3;">
@@ -126,53 +126,53 @@ by individual bank), by counterparties (central banks), and by some terms (like 
 # Latest Figures (as of 2023)
 
 ## Geographical coverage of the liquidity lines
-![Description of the image](map_temp_2023_edit.png)
+![Map of the lines](map_temp_2023_edit.png)
 
 Data for replication: [Excel](Map_network_xlsx.zip), [csv](Map_network_csv.zip), [dta](Map_network_dta.zip) 
 
 ---
 
 ## Geographical coverage of the USD liquidity lines by degree
-![Description of the image](network_bilateral2023_USA.png)
+![Map of USD lines](network_bilateral2023_USA.png)
 
 Data for replication: [Excel](/network_bilateral2023_USA.xlsx), [csv](/network_bilateral2023_USA.csv), [dta](/network_bilateral2023_USA.dta) 
 
 ---
 
 ## Geographical coverage of the EUR liquidity lines by degree
-![Description of the image](network_bilateral2023_EA.png)
+![Map of EUR lines](network_bilateral2023_EA.png)
 
 Data for replication: [Excel](network_bilateral2023_EA.xlsx), [csv](network_bilateral2023_EA.csv), [dta](network_bilateral2023_EA.dta) 
 
 ---
 
 ## Geographical coverage of the RMB liquidity lines by degree
-![Description of the image](network_bilateral2023_CHN.png)
+![Map of RMB lines](network_bilateral2023_CHN.png)
 
 Data for replication: [Excel](network_bilateral2023_CHN.xlsx), [csv](network_bilateral2023_CHN.csv), [dta](network_bilateral2023_CHN.dta) 
 
 ---
 
 ## The evolution over time of the liquidity lines
-![Description of the image](combined_TotalConnections.png)
+![Lines over time](combined_TotalConnections.png)
 Data for replication: [Excel](combined_TotalConnections.xlsx), [csv](combined_TotalConnections.csv), [dta](combined_TotalConnections.dta) 
 
 ---
 
 ## The evolution over time of the USD liquidity lines 
-![Description of the image](bilateral_USAcoverage_GDP.png) 
+![USD lines over time](bilateral_USAcoverage_GDP.png) 
 Data for replication: [Excel](bilateral_USAcoverage_GDP.xls), [csv](bilateral_USAcoverage_GDP.csv), [dta](bilateral_USAcoverage_GDP.dta) 
 
 ---
 
 ## The evolution over time of the EUR liquidity lines 
-![Description of the image](bilateral_EAcoverage_GDP.png) 
+![EUR lines over time](bilateral_EAcoverage_GDP.png) 
 Data for replication: [Excel](bilateral_EAcoverage_GDP.xls), [csv](bilateral_EAcoverage_GDP.csv), [dta](bilateral_EAcoverage_GDP.dta) 
 
 ---
 
 ## The evolution over time of the RMB liquidity lines 
-![Description of the image](bilateral_CHNcoverage_GDP.png) 
+![RMB lines over time](bilateral_CHNcoverage_GDP.png) 
 Data for replication: [Excel](bilateral_CHNcoverage_GDP.xls), [csv](bilateral_CHNcoverage_GDP.csv), [dta](bilateral_CHNcoverage_GDP.dta) 
 
 ---
