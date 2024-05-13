@@ -9,7 +9,7 @@ The dataset will be updated regularly to reflect the latest data.
 ---
 
 # Authors and Reference:
-[The Global Network of Liquidity Lines](https://personal.lse.ac.uk/reisr/papers/99-lines.pdf) (2024), CEPR discussion paper. 
+[The Global Network of Liquidity Lines](https://r2rsquaredlse.github.io/web-lines/DP19070.pdf) (2024), CEPR discussion paper 19070. 
 [bibtex](https://personal.lse.ac.uk/reisr/papers/99-lines-bib.bib)
 - [Saleem Bahaj](https://sites.google.com/site/saleembahaj/home)
 - [Marie Fuchs](https://www.lse.ac.uk/economics/people/research-students/marie-fuchs)
