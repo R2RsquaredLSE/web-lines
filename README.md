@@ -52,7 +52,7 @@ by individual bank), by counterparties (central banks), and by some terms (like 
     <td style="border: 2px solid #68b684; padding: 8px;">If deal is reciprocal, numeric value indicating matching reciprocal deal</td>
   </tr>
   <tr style="background-color: #f5f5f5;">
-    <td style="border: 2px solid #68b684; padding: 8px;"><code>collaterepoal</code></td>
+    <td style="border: 2px solid #68b684; padding: 8px;"><code>collateral</code></td>
     <td style="border: 2px solid #68b684; padding: 8px;">String indicating type of collateral underlying each deal</td>
   </tr>
   <tr style="background-color: #d4f4d3;">
@@ -132,21 +132,21 @@ Data for replication: [Excel](Map_network_xlsx.zip), [csv](Map_network_csv.zip),
 
 ---
 
-## Geographical coverage of the USD liquidity lines by degree
+## Geographical coverage of the USD bilateral liquidity lines by degree
 ![Map of USD lines](network_bilateral2023_USA.png)
 
 Data for replication: [Excel](/network_bilateral2023_USA.xlsx), [csv](/network_bilateral2023_USA.csv), [dta](/network_bilateral2023_USA.dta) 
 
 ---
 
-## Geographical coverage of the EUR liquidity lines by degree
+## Geographical coverage of the EUR bilateral liquidity lines by degree
 ![Map of EUR lines](network_bilateral2023_EA.png)
 
 Data for replication: [Excel](network_bilateral2023_EA.xlsx), [csv](network_bilateral2023_EA.csv), [dta](network_bilateral2023_EA.dta) 
 
 ---
 
-## Geographical coverage of the RMB liquidity lines by degree
+## Geographical coverage of the RMB bilateral liquidity lines by degree
 ![Map of RMB lines](network_bilateral2023_CHN.png)
 
 Data for replication: [Excel](network_bilateral2023_CHN.xlsx), [csv](network_bilateral2023_CHN.csv), [dta](network_bilateral2023_CHN.dta) 
@@ -159,19 +159,19 @@ Data for replication: [Excel](combined_TotalConnections.xlsx), [csv](combined_To
 
 ---
 
-## The evolution over time of the USD liquidity lines 
+## The evolution over time of the USD bilateral liquidity lines 
 ![USD lines over time](bilateral_USAcoverage_GDP.png) 
 Data for replication: [Excel](bilateral_USAcoverage_GDP.xls), [csv](bilateral_USAcoverage_GDP.csv), [dta](bilateral_USAcoverage_GDP.dta) 
 
 ---
 
-## The evolution over time of the EUR liquidity lines 
+## The evolution over time of the EUR bilateral liquidity lines 
 ![EUR lines over time](bilateral_EAcoverage_GDP.png) 
 Data for replication: [Excel](bilateral_EAcoverage_GDP.xls), [csv](bilateral_EAcoverage_GDP.csv), [dta](bilateral_EAcoverage_GDP.dta) 
 
 ---
 
-## The evolution over time of the RMB liquidity lines 
+## The evolution over time of the RMB bilateral liquidity lines 
 ![RMB lines over time](bilateral_CHNcoverage_GDP.png) 
 Data for replication: [Excel](bilateral_CHNcoverage_GDP.xls), [csv](bilateral_CHNcoverage_GDP.csv), [dta](bilateral_CHNcoverage_GDP.dta) 
 
