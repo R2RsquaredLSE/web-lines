@@ -6,7 +6,8 @@ a long time, but have risen in prominence since the global financial crisis. Thi
 The dataset will be updated regularly to reflect the latest data.
 - **Vintage 1:** The dataset was last updated in May 2024 to cover lines in place until December 2023. 
 - **Vintage 2:** The dataset was last updated in January 2025 to cover lines in place until December 2024.
-- **Vintage 3:** The dataset was last updated in January 2026 to cover lines in place until December 2025. 
+- **Vintage 3:** The dataset was last updated in January 2026 to cover lines in place until December 2025.
+
 ---
 
 # Authors and Reference:
