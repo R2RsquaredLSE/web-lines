@@ -1,0 +1,1641 @@
+﻿deal_ID,deal_type,framework,reciprocal_deal,collateral,Helper-pair,ISO_source,source_country,ISO_recipient,recipient_country,start_date,end_date,existence_previous_deal,deal_action,previous_deal,currency_of_deal,source_currency,source_currency_deal,deal_currency_amount,USD_amount,unlimited,initiative,note
+1,reciprocal,0,4,swap,CAN-MEX,CAN,Canada,MEX,Mexico,26/04/1994,31/12/9999,0,NA,,CAD,CAD,1,1,NA,0,NAFA,no
+2,unidirectional,0,,swap,CAN-USA,USA,USA,CAN,Canada,26/04/1994,31/12/9999,0,NA,,USD,USD,1,2,2,0,NAFA,no
+3,unidirectional,0,,swap,MEX-USA,USA,USA,MEX,Mexico,26/04/1994,31/12/9999,0,NA,,USD,USD,1,3,3,0,NAFA,no
+4,reciprocal,0,1,swap,CAN-MEX,MEX,Mexico,CAN,Canada,26/04/1994,31/12/9999,0,NA,,CAD,MXN,0,1,NA,0,NAFA,no
+5,unidirectional,0,,swap,JPN-KOR,JPN,Japan,KOR,South Korea,01/06/1999,23/02/2006,0,NA,,USD,JPY,0,5,5,0,Miyazawa,no
+6,unidirectional,0,,swap,JPN-MYS,JPN,Japan,MYS,Malaysia,06/06/1999,24/03/2010,0,NA,,USD,JPY,0,2.5,2.5,0,Miyazawa,yes
+7,pooled fund,1,,swap,IDN-MYS,IDN,Indonesia,MYS,Malaysia,05/08/1978,17/11/2000,0,NA,,USD,IDR,0,0.08,0.08,0,ASEAN,no
+8,pooled fund,1,,swap,IDN-PHL,IDN,Indonesia,PHL,Philippines,05/08/1978,17/11/2000,0,NA,,USD,IDR,0,0.08,0.08,0,ASEAN,no
+9,pooled fund,1,,swap,IDN-SGP,IDN,Indonesia,SGP,Singapore,05/08/1978,17/11/2000,0,NA,,USD,IDR,0,0.08,0.08,0,ASEAN,no
+10,pooled fund,1,,swap,IDN-THA,IDN,Indonesia,THA,Thailand,05/08/1978,17/11/2000,0,NA,,USD,IDR,0,0.08,0.08,0,ASEAN,no
+11,pooled fund,1,,swap,IDN-MYS,MYS,Malaysia,IDN,Indonesia,05/08/1978,17/11/2000,0,NA,,USD,MYR,0,0.08,0.08,0,ASEAN,no
+12,pooled fund,1,,swap,MYS-PHL,MYS,Malaysia,PHL,Philippines,05/08/1978,17/11/2000,0,NA,,USD,MYR,0,0.08,0.08,0,ASEAN,no
+13,pooled fund,1,,swap,MYS-SGP,MYS,Malaysia,SGP,Singapore,05/08/1978,17/11/2000,0,NA,,USD,MYR,0,0.08,0.08,0,ASEAN,no
+14,pooled fund,1,,swap,MYS-THA,MYS,Malaysia,THA,Thailand,05/08/1978,17/11/2000,0,NA,,USD,MYR,0,0.08,0.08,0,ASEAN,no
+15,pooled fund,1,,swap,IDN-PHL,PHL,Philippines,IDN,Indonesia,05/08/1978,17/11/2000,0,NA,,USD,PHP,0,0.08,0.08,0,ASEAN,no
+16,pooled fund,1,,swap,MYS-PHL,PHL,Philippines,MYS,Malaysia,05/08/1978,17/11/2000,0,NA,,USD,PHP,0,0.08,0.08,0,ASEAN,no
+17,pooled fund,1,,swap,PHL-SGP,PHL,Philippines,SGP,Singapore,05/08/1978,17/11/2000,0,NA,,USD,PHP,0,0.08,0.08,0,ASEAN,no
+18,pooled fund,1,,swap,PHL-THA,PHL,Philippines,THA,Thailand,05/08/1978,17/11/2000,0,NA,,USD,PHP,0,0.08,0.08,0,ASEAN,no
+19,pooled fund,1,,swap,IDN-SGP,SGP,Singapore,IDN,Indonesia,05/08/1978,17/11/2000,0,NA,,USD,SGD,0,0.08,0.08,0,ASEAN,no
+20,pooled fund,1,,swap,MYS-SGP,SGP,Singapore,MYS,Malaysia,05/08/1978,17/11/2000,0,NA,,USD,SGD,0,0.08,0.08,0,ASEAN,no
+21,pooled fund,1,,swap,PHL-SGP,SGP,Singapore,PHL,Philippines,05/08/1978,17/11/2000,0,NA,,USD,SGD,0,0.08,0.08,0,ASEAN,no
+22,pooled fund,1,,swap,SGP-THA,SGP,Singapore,THA,Thailand,05/08/1978,17/11/2000,0,NA,,USD,SGD,0,0.08,0.08,0,ASEAN,no
+23,pooled fund,1,,swap,IDN-THA,THA,Thailand,IDN,Indonesia,05/08/1978,17/11/2000,0,NA,,USD,THB,0,0.08,0.08,0,ASEAN,no
+24,pooled fund,1,,swap,MYS-THA,THA,Thailand,MYS,Malaysia,05/08/1978,17/11/2000,0,NA,,USD,THB,0,0.08,0.08,0,ASEAN,no
+25,pooled fund,1,,swap,PHL-THA,THA,Thailand,PHL,Philippines,05/08/1978,17/11/2000,0,NA,,USD,THB,0,0.08,0.08,0,ASEAN,no
+26,pooled fund,1,,swap,SGP-THA,THA,Thailand,SGP,Singapore,05/08/1978,17/11/2000,0,NA,,USD,THB,0,0.08,0.08,0,ASEAN,no
+27,pooled fund,1,,swap,THA-VNM,THA,Thailand,VNM,Vietnam,05/08/1978,17/11/2000,0,NA,,USD,THB,0,0.08,0.08,0,ASEAN,no
+28,pooled fund,1,,swap,BRN-KHM,BRN,Brunei,KHM,Cambodia,17/11/2000,17/11/2005,0,NA,,USD,BND,0,0.03,0.03,0,ASEAN,no
+29,pooled fund,1,,swap,BRN-IDN,BRN,Brunei,IDN,Indonesia,17/11/2000,17/11/2005,0,NA,,USD,BND,0,0.3,0.3,0,ASEAN,no
+30,pooled fund,1,,swap,BRN-LAO,BRN,Brunei,LAO,Lao People's Democratic Republic,17/11/2000,17/11/2005,0,NA,,USD,BND,0,0.01,0.01,0,ASEAN,no
+31,pooled fund,1,,swap,BRN-MMR,BRN,Brunei,MMR,Myanmar,17/11/2000,17/11/2005,0,NA,,USD,BND,0,0.04,0.04,0,ASEAN,no
+32,pooled fund,1,,swap,BRN-MYS,BRN,Brunei,MYS,Malaysia,17/11/2000,17/11/2005,0,NA,,USD,BND,0,0.3,0.3,0,ASEAN,no
+33,pooled fund,1,,swap,BRN-PHL,BRN,Brunei,PHL,Philippines,17/11/2000,17/11/2005,0,NA,,USD,BND,0,0.3,0.3,0,ASEAN,no
+34,pooled fund,1,,swap,BRN-SGP,BRN,Brunei,SGP,Singapore,17/11/2000,17/11/2005,0,NA,,USD,BND,0,0.3,0.3,0,ASEAN,no
+35,pooled fund,1,,swap,BRN-THA,BRN,Brunei,THA,Thailand,17/11/2000,17/11/2005,0,NA,,USD,BND,0,0.3,0.3,0,ASEAN,no
+36,pooled fund,1,,swap,BRN-VNM,BRN,Brunei,VNM,Vietnam,17/11/2000,17/11/2005,0,NA,,USD,BND,0,0.12,0.12,0,ASEAN,no
+37,pooled fund,1,,swap,BRN-KHM,KHM,Cambodia,BRN,Brunei,17/11/2000,17/11/2005,0,NA,,USD,KHR,0,0.3,0.3,0,ASEAN,no
+38,pooled fund,1,,swap,IDN-KHM,KHM,Cambodia,IDN,Indonesia,17/11/2000,17/11/2005,0,NA,,USD,KHR,0,0.3,0.3,0,ASEAN,no
+39,pooled fund,1,,swap,KHM-LAO,KHM,Cambodia,LAO,Lao People's Democratic Republic,17/11/2000,17/11/2005,0,NA,,USD,KHR,0,0.01,0.01,0,ASEAN,no
+40,pooled fund,1,,swap,KHM-MMR,KHM,Cambodia,MMR,Myanmar,17/11/2000,17/11/2005,0,NA,,USD,KHR,0,0.04,0.04,0,ASEAN,no
+41,pooled fund,1,,swap,KHM-MYS,KHM,Cambodia,MYS,Malaysia,17/11/2000,17/11/2005,0,NA,,USD,KHR,0,0.3,0.3,0,ASEAN,no
+42,pooled fund,1,,swap,KHM-PHL,KHM,Cambodia,PHL,Philippines,17/11/2000,17/11/2005,0,NA,,USD,KHR,0,0.3,0.3,0,ASEAN,no
+43,pooled fund,1,,swap,KHM-SGP,KHM,Cambodia,SGP,Singapore,17/11/2000,17/11/2005,0,NA,,USD,KHR,0,0.3,0.3,0,ASEAN,no
+44,pooled fund,1,,swap,KHM-THA,KHM,Cambodia,THA,Thailand,17/11/2000,17/11/2005,0,NA,,USD,KHR,0,0.3,0.3,0,ASEAN,no
+45,pooled fund,1,,swap,KHM-VNM,KHM,Cambodia,VNM,Vietnam,17/11/2000,17/11/2005,0,NA,,USD,KHR,0,0.12,0.12,0,ASEAN,no
+46,pooled fund,1,,swap,BRN-IDN,IDN,Indonesia,BRN,Brunei,17/11/2000,17/11/2005,0,NA,,USD,IDR,0,0.3,0.3,0,ASEAN,no
+47,pooled fund,1,,swap,IDN-KHM,IDN,Indonesia,KHM,Cambodia,17/11/2000,17/11/2005,0,NA,,USD,IDR,0,0.03,0.03,0,ASEAN,no
+48,pooled fund,1,,swap,IDN-LAO,IDN,Indonesia,LAO,Lao People's Democratic Republic,17/11/2000,17/11/2005,0,NA,,USD,IDR,0,0.01,0.01,0,ASEAN,no
+49,pooled fund,1,,swap,IDN-MMR,IDN,Indonesia,MMR,Myanmar,17/11/2000,17/11/2005,0,NA,,USD,IDR,0,0.04,0.04,0,ASEAN,no
+50,pooled fund,1,,swap,IDN-MYS,IDN,Indonesia,MYS,Malaysia,17/11/2000,17/11/2005,1,renew,7,USD,IDR,0,0.3,0.3,0,ASEAN,no
+51,pooled fund,1,,swap,IDN-PHL,IDN,Indonesia,PHL,Philippines,17/11/2000,17/11/2005,1,renew,8,USD,IDR,0,0.3,0.3,0,ASEAN,no
+52,pooled fund,1,,swap,IDN-SGP,IDN,Indonesia,SGP,Singapore,17/11/2000,17/11/2005,1,renew,9,USD,IDR,0,0.3,0.3,0,ASEAN,no
+53,pooled fund,1,,swap,IDN-THA,IDN,Indonesia,THA,Thailand,17/11/2000,17/11/2005,1,renew,10,USD,IDR,0,0.3,0.3,0,ASEAN,no
+54,pooled fund,1,,swap,IDN-VNM,IDN,Indonesia,VNM,Vietnam,17/11/2000,17/11/2005,0,NA,,USD,IDR,0,0.12,0.12,0,ASEAN,no
+55,pooled fund,1,,swap,BRN-LAO,LAO,Lao People's Democratic Republic,BRN,Brunei,17/11/2000,17/11/2005,0,NA,,USD,LAK,0,0.3,0.3,0,ASEAN,no
+56,pooled fund,1,,swap,KHM-LAO,LAO,Lao People's Democratic Republic,KHM,Cambodia,17/11/2000,17/11/2005,0,NA,,USD,LAK,0,0.03,0.03,0,ASEAN,no
+57,pooled fund,1,,swap,IDN-LAO,LAO,Lao People's Democratic Republic,IDN,Indonesia,17/11/2000,17/11/2005,0,NA,,USD,LAK,0,0.3,0.3,0,ASEAN,no
+58,pooled fund,1,,swap,LAO-MMR,LAO,Lao People's Democratic Republic,MMR,Myanmar,17/11/2000,17/11/2005,0,NA,,USD,LAK,0,0.04,0.04,0,ASEAN,no
+59,pooled fund,1,,swap,LAO-MYS,LAO,Lao People's Democratic Republic,MYS,Malaysia,17/11/2000,17/11/2005,0,NA,,USD,LAK,0,0.3,0.3,0,ASEAN,no
+60,pooled fund,1,,swap,LAO-PHL,LAO,Lao People's Democratic Republic,PHL,Philippines,17/11/2000,17/11/2005,0,NA,,USD,LAK,0,0.3,0.3,0,ASEAN,no
+61,pooled fund,1,,swap,LAO-SGP,LAO,Lao People's Democratic Republic,SGP,Singapore,17/11/2000,17/11/2005,0,NA,,USD,LAK,0,0.3,0.3,0,ASEAN,no
+62,pooled fund,1,,swap,LAO-THA,LAO,Lao People's Democratic Republic,THA,Thailand,17/11/2000,17/11/2005,0,NA,,USD,LAK,0,0.3,0.3,0,ASEAN,no
+63,pooled fund,1,,swap,LAO-VNM,LAO,Lao People's Democratic Republic,VNM,Vietnam,17/11/2000,17/11/2005,0,NA,,USD,LAK,0,0.12,0.12,0,ASEAN,no
+64,pooled fund,1,,swap,BRN-MMR,MMR,Myanmar,BRN,Brunei,17/11/2000,17/11/2005,0,NA,,USD,MMK,0,0.3,0.3,0,ASEAN,no
+65,pooled fund,1,,swap,KHM-MMR,MMR,Myanmar,KHM,Cambodia,17/11/2000,17/11/2005,0,NA,,USD,MMK,0,0.03,0.03,0,ASEAN,no
+66,pooled fund,1,,swap,IDN-MMR,MMR,Myanmar,IDN,Indonesia,17/11/2000,17/11/2005,0,NA,,USD,MMK,0,0.3,0.3,0,ASEAN,no
+67,pooled fund,1,,swap,LAO-MMR,MMR,Myanmar,LAO,Lao People's Democratic Republic,17/11/2000,17/11/2005,0,NA,,USD,MMK,0,0.01,0.01,0,ASEAN,no
+68,pooled fund,1,,swap,MMR-MYS,MMR,Myanmar,MYS,Malaysia,17/11/2000,17/11/2005,0,NA,,USD,MMK,0,0.3,0.3,0,ASEAN,no
+69,pooled fund,1,,swap,MMR-PHL,MMR,Myanmar,PHL,Philippines,17/11/2000,17/11/2005,0,NA,,USD,MMK,0,0.3,0.3,0,ASEAN,no
+70,pooled fund,1,,swap,MMR-SGP,MMR,Myanmar,SGP,Singapore,17/11/2000,17/11/2005,0,NA,,USD,MMK,0,0.3,0.3,0,ASEAN,no
+71,pooled fund,1,,swap,MMR-THA,MMR,Myanmar,THA,Thailand,17/11/2000,17/11/2005,0,NA,,USD,MMK,0,0.3,0.3,0,ASEAN,no
+72,pooled fund,1,,swap,MMR-VNM,MMR,Myanmar,VNM,Vietnam,17/11/2000,17/11/2005,0,NA,,USD,MMK,0,0.12,0.12,0,ASEAN,no
+73,pooled fund,1,,swap,BRN-MYS,MYS,Malaysia,BRN,Brunei,17/11/2000,17/11/2005,0,NA,,USD,MYR,0,0.3,0.3,0,ASEAN,no
+74,pooled fund,1,,swap,KHM-MYS,MYS,Malaysia,KHM,Cambodia,17/11/2000,17/11/2005,0,NA,,USD,MYR,0,0.03,0.03,0,ASEAN,no
+75,pooled fund,1,,swap,IDN-MYS,MYS,Malaysia,IDN,Indonesia,17/11/2000,17/11/2005,1,renew,11,USD,MYR,0,0.3,0.3,0,ASEAN,no
+76,pooled fund,1,,swap,LAO-MYS,MYS,Malaysia,LAO,Lao People's Democratic Republic,17/11/2000,17/11/2005,0,NA,,USD,MYR,0,0.01,0.01,0,ASEAN,no
+77,pooled fund,1,,swap,MMR-MYS,MYS,Malaysia,MMR,Myanmar,17/11/2000,17/11/2005,0,NA,,USD,MYR,0,0.04,0.04,0,ASEAN,no
+78,pooled fund,1,,swap,MYS-PHL,MYS,Malaysia,PHL,Philippines,17/11/2000,17/11/2005,1,renew,12,USD,MYR,0,0.3,0.3,0,ASEAN,no
+79,pooled fund,1,,swap,MYS-SGP,MYS,Malaysia,SGP,Singapore,17/11/2000,17/11/2005,1,renew,13,USD,MYR,0,0.3,0.3,0,ASEAN,no
+80,pooled fund,1,,swap,MYS-THA,MYS,Malaysia,THA,Thailand,17/11/2000,17/11/2005,1,renew,14,USD,MYR,0,0.3,0.3,0,ASEAN,no
+81,pooled fund,1,,swap,MYS-VNM,MYS,Malaysia,VNM,Vietnam,17/11/2000,17/11/2005,0,NA,,USD,MYR,0,0.12,0.12,0,ASEAN,no
+82,pooled fund,1,,swap,BRN-PHL,PHL,Philippines,BRN,Brunei,17/11/2000,17/11/2005,0,NA,,USD,PHP,0,0.3,0.3,0,ASEAN,no
+83,pooled fund,1,,swap,KHM-PHL,PHL,Philippines,KHM,Cambodia,17/11/2000,17/11/2005,0,NA,,USD,PHP,0,0.03,0.03,0,ASEAN,no
+84,pooled fund,1,,swap,IDN-PHL,PHL,Philippines,IDN,Indonesia,17/11/2000,17/11/2005,1,renew,15,USD,PHP,0,0.3,0.3,0,ASEAN,no
+85,pooled fund,1,,swap,LAO-PHL,PHL,Philippines,LAO,Lao People's Democratic Republic,17/11/2000,17/11/2005,0,NA,,USD,PHP,0,0.01,0.01,0,ASEAN,no
+86,pooled fund,1,,swap,MMR-PHL,PHL,Philippines,MMR,Myanmar,17/11/2000,17/11/2005,0,NA,,USD,PHP,0,0.04,0.04,0,ASEAN,no
+87,pooled fund,1,,swap,MYS-PHL,PHL,Philippines,MYS,Malaysia,17/11/2000,17/11/2005,1,renew,16,USD,PHP,0,0.3,0.3,0,ASEAN,no
+88,pooled fund,1,,swap,PHL-SGP,PHL,Philippines,SGP,Singapore,17/11/2000,17/11/2005,1,renew,17,USD,PHP,0,0.3,0.3,0,ASEAN,no
+89,pooled fund,1,,swap,PHL-THA,PHL,Philippines,THA,Thailand,17/11/2000,17/11/2005,1,renew,18,USD,PHP,0,0.3,0.3,0,ASEAN,no
+90,pooled fund,1,,swap,PHL-VNM,PHL,Philippines,VNM,Vietnam,17/11/2000,17/11/2005,1,NA,,USD,PHP,0,0.12,0.12,0,ASEAN,no
+91,pooled fund,1,,swap,BRN-SGP,SGP,Singapore,BRN,Brunei,17/11/2000,17/11/2005,0,NA,,USD,SGD,0,0.3,0.3,0,ASEAN,no
+92,pooled fund,1,,swap,KHM-SGP,SGP,Singapore,KHM,Cambodia,17/11/2000,17/11/2005,0,NA,,USD,SGD,0,0.03,0.03,0,ASEAN,no
+93,pooled fund,1,,swap,IDN-SGP,SGP,Singapore,IDN,Indonesia,17/11/2000,17/11/2005,1,renew,19,USD,SGD,0,0.3,0.3,0,ASEAN,no
+94,pooled fund,1,,swap,LAO-SGP,SGP,Singapore,LAO,Lao People's Democratic Republic,17/11/2000,17/11/2005,0,NA,,USD,SGD,0,0.01,0.01,0,ASEAN,no
+95,pooled fund,1,,swap,MMR-SGP,SGP,Singapore,MMR,Myanmar,17/11/2000,17/11/2005,0,NA,,USD,SGD,0,0.04,0.04,0,ASEAN,no
+96,pooled fund,1,,swap,MYS-SGP,SGP,Singapore,MYS,Malaysia,17/11/2000,17/11/2005,1,renew,20,USD,SGD,0,0.3,0.3,0,ASEAN,no
+97,pooled fund,1,,swap,PHL-SGP,SGP,Singapore,PHL,Philippines,17/11/2000,17/11/2005,1,renew,21,USD,SGD,0,0.3,0.3,0,ASEAN,no
+98,pooled fund,1,,swap,SGP-THA,SGP,Singapore,THA,Thailand,17/11/2000,17/11/2005,1,renew,22,USD,SGD,0,0.3,0.3,0,ASEAN,no
+99,pooled fund,1,,swap,SGP-VNM,SGP,Singapore,VNM,Vietnam,17/11/2000,17/11/2005,0,NA,,USD,SGD,0,0.12,0.12,0,ASEAN,no
+100,pooled fund,1,,swap,BRN-THA,THA,Thailand,BRN,Brunei,17/11/2000,17/11/2005,0,NA,,USD,THB,0,0.3,0.3,0,ASEAN,no
+101,pooled fund,1,,swap,KHM-THA,THA,Thailand,KHM,Cambodia,17/11/2000,17/11/2005,0,NA,,USD,THB,0,0.03,0.03,0,ASEAN,no
+102,pooled fund,1,,swap,IDN-THA,THA,Thailand,IDN,Indonesia,17/11/2000,17/11/2005,1,renew,23,USD,THB,0,0.3,0.3,0,ASEAN,no
+103,pooled fund,1,,swap,LAO-THA,THA,Thailand,LAO,Lao People's Democratic Republic,17/11/2000,17/11/2005,0,NA,,USD,THB,0,0.01,0.01,0,ASEAN,no
+104,pooled fund,1,,swap,MMR-THA,THA,Thailand,MMR,Myanmar,17/11/2000,17/11/2005,0,NA,,USD,THB,0,0.04,0.04,0,ASEAN,no
+105,pooled fund,1,,swap,MYS-THA,THA,Thailand,MYS,Malaysia,17/11/2000,17/11/2005,1,renew,24,USD,THB,0,0.3,0.3,0,ASEAN,no
+106,pooled fund,1,,swap,PHL-THA,THA,Thailand,PHL,Philippines,17/11/2000,17/11/2005,1,renew,25,USD,THB,0,0.3,0.3,0,ASEAN,no
+107,pooled fund,1,,swap,SGP-THA,THA,Thailand,SGP,Singapore,17/11/2000,17/11/2005,1,renew,26,USD,THB,0,0.3,0.3,0,ASEAN,no
+108,pooled fund,1,,swap,THA-VNM,THA,Thailand,VNM,Vietnam,17/11/2000,17/11/2005,1,renew,27,USD,THB,0,0.12,0.12,0,ASEAN,no
+109,pooled fund,1,,swap,BRN-VNM,VNM,Vietnam,BRN,Brunei,17/11/2000,17/11/2005,0,NA,,USD,VND,0,0.3,0.3,0,ASEAN,no
+110,pooled fund,1,,swap,KHM-VNM,VNM,Vietnam,KHM,Cambodia,17/11/2000,17/11/2005,0,NA,,USD,VND,0,0.03,0.03,0,ASEAN,no
+111,pooled fund,1,,swap,IDN-VNM,VNM,Vietnam,IDN,Indonesia,17/11/2000,17/11/2005,0,NA,,USD,VND,0,0.3,0.3,0,ASEAN,no
+112,pooled fund,1,,swap,LAO-VNM,VNM,Vietnam,LAO,Lao People's Democratic Republic,17/11/2000,17/11/2005,0,NA,,USD,VND,0,0.01,0.01,0,ASEAN,no
+113,pooled fund,1,,swap,MMR-VNM,VNM,Vietnam,MMR,Myanmar,17/11/2000,17/11/2005,0,NA,,USD,VND,0,0.04,0.04,0,ASEAN,no
+114,pooled fund,1,,swap,MYS-VNM,VNM,Vietnam,MYS,Malaysia,17/11/2000,17/11/2005,0,NA,,USD,VND,0,0.3,0.3,0,ASEAN,no
+115,pooled fund,1,,swap,PHL-VNM,VNM,Vietnam,PHL,Philippines,17/11/2000,17/11/2005,1,NA,,USD,VND,0,0.3,0.3,0,ASEAN,no
+116,pooled fund,1,,swap,SGP-VNM,VNM,Vietnam,SGP,Singapore,17/11/2000,17/11/2005,0,NA,,USD,VND,0,0.3,0.3,0,ASEAN,no
+117,pooled fund,1,,swap,THA-VNM,VNM,Vietnam,THA,Thailand,17/11/2000,17/11/2005,1,renew,108,USD,VND,0,0.3,0.3,0,ASEAN,no
+118,unidirectional,0,,swap,JPN-KOR,JPN,Japan,KOR,South Korea,04/07/2001,23/02/2006,1,NA,,USD,JPY,0,2,2,0,CMI_BSA,no
+119,unidirectional,0,,swap,JPN-THA,JPN,Japan,THA,Thailand,30/07/2001,24/01/2005,0,NA,,USD,JPY,0,3,3,0,CMI_BSA,no
+120,unidirectional,0,,swap,JPN-PHL,JPN,Japan,PHL,Philippines,01/08/2001,03/05/2006,0,NA,,USD,JPY,0,3,3,0,CMI_BSA,no
+121,unidirectional,0,,swap,EA-USA,USA,USA,EA,EA,13/09/2001,13/10/2001,0,NA,,USD,USD,1,50,50,0,,no
+122,unidirectional,0,,swap,GBR-USA,USA,USA,GBR,UK,14/09/2001,14/10/2001,0,NA,,USD,USD,1,30,30,0,,no
+123,unidirectional,0,,swap,JPN-MYS,JPN,Japan,MYS,Malaysia,05/10/2001,24/03/2010,1,supplement,,USD,JPY,0,1,1,0,CMI_BSA,yes
+124,unidirectional,0,,swap,CHN-THA,CHN,China,THA,Thailand,06/12/2001,06/12/2004,0,NA,,USD,CNY,0,2,2,0,CMI_BSA,no
+125,reciprocal,0,126,swap,CHN-JPN,JPN,Japan,CHN,China,28/03/2002,24/03/2010,0,NA,,JPY,JPY,1,NA,3,0,CMI_BSA,yes
+126,reciprocal,0,125,swap,CHN-JPN,CHN,China,JPN,Japan,28/03/2002,24/03/2010,0,NA,,CNY,CNY,1,NA,3,0,CMI_BSA,yes
+127,reciprocal,0,128,swap,KOR-THA,KOR,South Korea,THA,Thailand,11/06/2002,31/08/2005,0,NA,,USD,KRW,0,1,1,0,CMI_BSA,no
+128,reciprocal,0,127,swap,KOR-THA,THA,Thailand,KOR,South Korea,11/06/2002,31/08/2005,0,NA,,USD,THB,0,1,1,0,CMI_BSA,no
+129,reciprocal,0,130,swap,CHN-KOR,KOR,South Korea,CHN,China,24/06/2002,24/06/2005,0,NA,,KRW,KRW,1,NA,2,0,CMI_BSA,no
+130,reciprocal,0,129,swap,CHN-KOR,CHN,China,KOR,South Korea,24/06/2002,24/06/2005,0,NA,,CNY,CNY,1,NA,2,0,CMI_BSA,no
+131,reciprocal,0,132,swap,KOR-MYS,MYS,Malaysia,KOR,South Korea,26/06/2002,31/08/2005,0,NA,,USD,MYR,0,1,1,0,CMI_BSA,no
+132,reciprocal,0,131,swap,KOR-MYS,KOR,South Korea,MYS,Malaysia,26/07/2002,31/08/2005,0,NA,,USD,KRW,0,1,1,0,CMI_BSA,no
+133,reciprocal,0,134,swap,KOR-PHL,KOR,South Korea,PHL,Philippines,09/08/2002,30/08/2005,0,NA,,USD,KRW,0,1,1,0,CMI_BSA,no
+134,reciprocal,0,133,swap,KOR-PHL,PHL,Philippines,KOR,South Korea,09/08/2002,30/08/2005,0,NA,,USD,PHP,0,1,1,0,CMI_BSA,no
+135,unidirectional,0,,swap,CHN-MYS,CHN,China,MYS,Malaysia,09/10/2002,31/10/2005,0,NA,,USD,CNY,0,1.5,1.5,0,CMI_BSA,no
+136,unidirectional,0,,swap,IDN-JPN,JPN,Japan,IDN,Indonesia,01/02/2003,30/08/2005,0,NA,,USD,JPY,0,3,3,0,CMI_BSA,no
+137,unidirectional,0,,swap,CHN-PHL,CHN,China,PHL,Philippines,31/08/2003,30/04/2007,0,NA,,CNY,CNY,1,NA,1,0,CMI_BSA,no
+138,unidirectional,0,,swap,JPN-SGP,JPN,Japan,SGP,Singapore,01/11/2003,08/11/2005,0,NA,,USD,JPY,0,1,1,0,CMI_BSA,no
+139,reciprocal,0,140,swap,IDN-KOR,KOR,South Korea,IDN,Indonesia,24/12/2003,09/07/2007,0,NA,,USD,KRW,0,1,1,0,CMI_BSA,yes
+140,reciprocal,0,139,swap,IDN-KOR,IDN,Indonesia,KOR,South Korea,24/12/2003,09/07/2007,0,NA,,USD,IDR,0,1,1,0,CMI_BSA,yes
+141,unidirectional,0,,swap,CHN-IDN,CHN,China,IDN,Indonesia,30/12/2003,16/10/2005,0,NA,,USD,CNY,0,1,1,0,CMI_BSA,yes
+142,reciprocal,0,143,swap,JPN-THA,JPN,Japan,THA,Thailand,25/01/2005,09/07/2007,0,NA,,USD,JPY,0,3,3,0,CMI_BSA,no
+143,reciprocal,0,142,swap,JPN-THA,THA,Thailand,JPN,Japan,25/01/2005,09/07/2007,0,NA,,USD,THB,0,3,3,0,CMI_BSA,no
+144,pooled fund,1,,swap,BRN-KHM,BRN,Brunei,KHM,Cambodia,17/11/2005,17/11/2021,1,renew,29,USD/JPY/EUR,BND,0,0.06,0.06,0,ASEAN,no
+145,pooled fund,1,,swap,BRN-IDN,BRN,Brunei,IDN,Indonesia,17/11/2005,17/11/2021,1,renew,29,USD/JPY/EUR,BND,0,0.3,0.3,0,ASEAN,no
+146,pooled fund,1,,swap,BRN-LAO,BRN,Brunei,LAO,Lao People's Democratic Republic,17/11/2005,17/11/2021,1,renew,30,USD/JPY/EUR,BND,0,0.02,0.02,0,ASEAN,no
+147,pooled fund,1,,swap,BRN-MMR,BRN,Brunei,MMR,Myanmar,17/11/2005,17/11/2021,1,renew,31,USD/JPY/EUR,BND,0,0.08,0.08,0,ASEAN,no
+148,pooled fund,1,,swap,BRN-MYS,BRN,Brunei,MYS,Malaysia,17/11/2005,17/11/2021,1,renew,32,USD/JPY/EUR,BND,0,0.6,0.6,0,ASEAN,no
+149,pooled fund,1,,swap,BRN-PHL,BRN,Brunei,PHL,Philippines,17/11/2005,17/11/2021,1,renew,33,USD/JPY/EUR,BND,0,0.6,0.6,0,ASEAN,no
+150,pooled fund,1,,swap,BRN-SGP,BRN,Brunei,SGP,Singapore,17/11/2005,17/11/2021,1,renew,34,USD/JPY/EUR,BND,0,0.6,0.6,0,ASEAN,no
+151,pooled fund,1,,swap,BRN-THA,BRN,Brunei,THA,Thailand,17/11/2005,17/11/2021,1,renew,35,USD/JPY/EUR,BND,0,0.6,0.6,0,ASEAN,no
+152,pooled fund,1,,swap,BRN-VNM,BRN,Brunei,VNM,Vietnam,17/11/2005,17/11/2021,1,renew,36,USD/JPY/EUR,BND,0,0.24,0.24,0,ASEAN,no
+153,pooled fund,1,,swap,BRN-KHM,KHM,Cambodia,BRN,Brunei,17/11/2005,17/11/2021,1,renew,37,USD/JPY/EUR,KHR,0,0.6,0.6,0,ASEAN,no
+154,pooled fund,1,,swap,IDN-KHM,KHM,Cambodia,IDN,Indonesia,17/11/2005,17/11/2021,1,renew,38,USD/JPY/EUR,KHR,0,0.6,0.6,0,ASEAN,no
+155,pooled fund,1,,swap,KHM-LAO,KHM,Cambodia,LAO,Lao People's Democratic Republic,17/11/2005,17/11/2021,1,renew,39,USD/JPY/EUR,KHR,0,0.02,0.02,0,ASEAN,no
+156,pooled fund,1,,swap,KHM-MMR,KHM,Cambodia,MMR,Myanmar,17/11/2005,17/11/2021,1,renew,40,USD/JPY/EUR,KHR,0,0.08,0.08,0,ASEAN,no
+157,pooled fund,1,,swap,KHM-MYS,KHM,Cambodia,MYS,Malaysia,17/11/2005,17/11/2021,1,renew,41,USD/JPY/EUR,KHR,0,0.6,0.6,0,ASEAN,no
+158,pooled fund,1,,swap,KHM-PHL,KHM,Cambodia,PHL,Philippines,17/11/2005,17/11/2021,1,renew,42,USD/JPY/EUR,KHR,0,0.6,0.6,0,ASEAN,no
+159,pooled fund,1,,swap,KHM-SGP,KHM,Cambodia,SGP,Singapore,17/11/2005,17/11/2021,1,renew,43,USD/JPY/EUR,KHR,0,0.6,0.6,0,ASEAN,no
+160,pooled fund,1,,swap,KHM-THA,KHM,Cambodia,THA,Thailand,17/11/2005,17/11/2021,1,renew,44,USD/JPY/EUR,KHR,0,0.6,0.6,0,ASEAN,no
+161,pooled fund,1,,swap,KHM-VNM,KHM,Cambodia,VNM,Vietnam,17/11/2005,17/11/2021,1,renew,45,USD/JPY/EUR,KHR,0,0.24,0.24,0,ASEAN,no
+162,pooled fund,1,,swap,BRN-IDN,IDN,Indonesia,BRN,Brunei,17/11/2005,17/11/2021,1,renew,46,USD/JPY/EUR,IDR,0,0.6,0.6,0,ASEAN,no
+163,pooled fund,1,,swap,IDN-KHM,IDN,Indonesia,KHM,Cambodia,17/11/2005,17/11/2021,1,renew,47,USD/JPY/EUR,IDR,0,0.06,0.06,0,ASEAN,no
+164,pooled fund,1,,swap,IDN-LAO,IDN,Indonesia,LAO,Lao People's Democratic Republic,17/11/2005,17/11/2021,1,renew,48,USD/JPY/EUR,IDR,0,0.02,0.02,0,ASEAN,no
+165,pooled fund,1,,swap,IDN-MMR,IDN,Indonesia,MMR,Myanmar,17/11/2005,17/11/2021,1,renew,49,USD/JPY/EUR,IDR,0,0.08,0.08,0,ASEAN,no
+166,pooled fund,1,,swap,IDN-MYS,IDN,Indonesia,MYS,Malaysia,17/11/2005,17/11/2021,1,renew,50,USD/JPY/EUR,IDR,0,0.6,0.6,0,ASEAN,no
+167,pooled fund,1,,swap,IDN-PHL,IDN,Indonesia,PHL,Philippines,17/11/2005,17/11/2021,1,renew,51,USD/JPY/EUR,IDR,0,0.6,0.6,0,ASEAN,no
+168,pooled fund,1,,swap,IDN-SGP,IDN,Indonesia,SGP,Singapore,17/11/2005,17/11/2021,1,renew,52,USD/JPY/EUR,IDR,0,0.6,0.6,0,ASEAN,no
+169,pooled fund,1,,swap,IDN-THA,IDN,Indonesia,THA,Thailand,17/11/2005,17/11/2021,1,renew,53,USD/JPY/EUR,IDR,0,0.6,0.6,0,ASEAN,no
+170,pooled fund,1,,swap,IDN-VNM,IDN,Indonesia,VNM,Vietnam,17/11/2005,17/11/2021,1,renew,54,USD/JPY/EUR,IDR,0,0.24,0.24,0,ASEAN,no
+171,pooled fund,1,,swap,BRN-LAO,LAO,Lao People's Democratic Republic,BRN,Brunei,17/11/2005,17/11/2021,1,renew,55,USD/JPY/EUR,LAK,0,0.6,0.6,0,ASEAN,no
+172,pooled fund,1,,swap,KHM-LAO,LAO,Lao People's Democratic Republic,KHM,Cambodia,17/11/2005,17/11/2021,1,renew,56,USD/JPY/EUR,LAK,0,0.06,0.06,0,ASEAN,no
+173,pooled fund,1,,swap,IDN-LAO,LAO,Lao People's Democratic Republic,IDN,Indonesia,17/11/2005,17/11/2021,1,renew,57,USD/JPY/EUR,LAK,0,0.6,0.6,0,ASEAN,no
+174,pooled fund,1,,swap,LAO-MMR,LAO,Lao People's Democratic Republic,MMR,Myanmar,17/11/2005,17/11/2021,1,renew,58,USD/JPY/EUR,LAK,0,0.08,0.08,0,ASEAN,no
+175,pooled fund,1,,swap,LAO-MYS,LAO,Lao People's Democratic Republic,MYS,Malaysia,17/11/2005,17/11/2021,1,renew,59,USD/JPY/EUR,LAK,0,0.6,0.6,0,ASEAN,no
+176,pooled fund,1,,swap,LAO-PHL,LAO,Lao People's Democratic Republic,PHL,Philippines,17/11/2005,17/11/2021,1,renew,60,USD/JPY/EUR,LAK,0,0.6,0.6,0,ASEAN,no
+177,pooled fund,1,,swap,LAO-SGP,LAO,Lao People's Democratic Republic,SGP,Singapore,17/11/2005,17/11/2021,1,renew,61,USD/JPY/EUR,LAK,0,0.6,0.6,0,ASEAN,no
+178,pooled fund,1,,swap,LAO-THA,LAO,Lao People's Democratic Republic,THA,Thailand,17/11/2005,17/11/2021,1,renew,62,USD/JPY/EUR,LAK,0,0.6,0.6,0,ASEAN,no
+179,pooled fund,1,,swap,LAO-VNM,LAO,Lao People's Democratic Republic,VNM,Vietnam,17/11/2005,17/11/2021,1,renew,63,USD/JPY/EUR,LAK,0,0.24,0.24,0,ASEAN,no
+180,pooled fund,1,,swap,BRN-MMR,MMR,Myanmar,BRN,Brunei,17/11/2005,17/11/2021,1,renew,64,USD/JPY/EUR,MMK,0,0.6,0.6,0,ASEAN,no
+181,pooled fund,1,,swap,KHM-MMR,MMR,Myanmar,KHM,Cambodia,17/11/2005,17/11/2021,1,renew,65,USD/JPY/EUR,MMK,0,0.06,0.06,0,ASEAN,no
+182,pooled fund,1,,swap,IDN-MMR,MMR,Myanmar,IDN,Indonesia,17/11/2005,17/11/2021,1,renew,66,USD/JPY/EUR,MMK,0,0.6,0.6,0,ASEAN,no
+183,pooled fund,1,,swap,LAO-MMR,MMR,Myanmar,LAO,Lao People's Democratic Republic,17/11/2005,17/11/2021,1,renew,67,USD/JPY/EUR,MMK,0,0.02,0.02,0,ASEAN,no
+184,pooled fund,1,,swap,MMR-MYS,MMR,Myanmar,MYS,Malaysia,17/11/2005,17/11/2021,1,renew,68,USD/JPY/EUR,MMK,0,0.6,0.6,0,ASEAN,no
+185,pooled fund,1,,swap,MMR-PHL,MMR,Myanmar,PHL,Philippines,17/11/2005,17/11/2021,1,renew,69,USD/JPY/EUR,MMK,0,0.6,0.6,0,ASEAN,no
+186,pooled fund,1,,swap,MMR-SGP,MMR,Myanmar,SGP,Singapore,17/11/2005,17/11/2021,1,renew,70,USD/JPY/EUR,MMK,0,0.6,0.6,0,ASEAN,no
+187,pooled fund,1,,swap,MMR-THA,MMR,Myanmar,THA,Thailand,17/11/2005,17/11/2021,1,renew,71,USD/JPY/EUR,MMK,0,0.6,0.6,0,ASEAN,no
+188,pooled fund,1,,swap,MMR-VNM,MMR,Myanmar,VNM,Vietnam,17/11/2005,17/11/2021,1,renew,72,USD/JPY/EUR,MMK,0,0.24,0.24,0,ASEAN,no
+189,pooled fund,1,,swap,BRN-MYS,MYS,Malaysia,BRN,Brunei,17/11/2005,17/11/2021,1,renew,73,USD/JPY/EUR,MYR,0,0.6,0.6,0,ASEAN,no
+190,pooled fund,1,,swap,KHM-MYS,MYS,Malaysia,KHM,Cambodia,17/11/2005,17/11/2021,1,renew,74,USD/JPY/EUR,MYR,0,0.06,0.06,0,ASEAN,no
+191,pooled fund,1,,swap,IDN-MYS,MYS,Malaysia,IDN,Indonesia,17/11/2005,17/11/2021,1,renew,75,USD/JPY/EUR,MYR,0,0.6,0.6,0,ASEAN,no
+192,pooled fund,1,,swap,LAO-MYS,MYS,Malaysia,LAO,Lao People's Democratic Republic,17/11/2005,17/11/2021,1,renew,76,USD/JPY/EUR,MYR,0,0.02,0.02,0,ASEAN,no
+193,pooled fund,1,,swap,MMR-MYS,MYS,Malaysia,MMR,Myanmar,17/11/2005,17/11/2021,1,renew,77,USD/JPY/EUR,MYR,0,0.08,0.08,0,ASEAN,no
+194,pooled fund,1,,swap,MYS-PHL,MYS,Malaysia,PHL,Philippines,17/11/2005,17/11/2021,1,renew,78,USD/JPY/EUR,MYR,0,0.6,0.6,0,ASEAN,no
+195,pooled fund,1,,swap,MYS-SGP,MYS,Malaysia,SGP,Singapore,17/11/2005,17/11/2021,1,renew,79,USD/JPY/EUR,MYR,0,0.6,0.6,0,ASEAN,no
+196,pooled fund,1,,swap,MYS-THA,MYS,Malaysia,THA,Thailand,17/11/2005,17/11/2021,1,renew,80,USD/JPY/EUR,MYR,0,0.6,0.6,0,ASEAN,no
+197,pooled fund,1,,swap,MYS-VNM,MYS,Malaysia,VNM,Vietnam,17/11/2005,17/11/2021,1,renew,81,USD/JPY/EUR,MYR,0,0.24,0.24,0,ASEAN,no
+198,pooled fund,1,,swap,BRN-PHL,PHL,Philippines,BRN,Brunei,17/11/2005,17/11/2021,1,renew,82,USD/JPY/EUR,PHP,0,0.6,0.6,0,ASEAN,no
+199,pooled fund,1,,swap,KHM-PHL,PHL,Philippines,KHM,Cambodia,17/11/2005,17/11/2021,1,renew,83,USD/JPY/EUR,PHP,0,0.06,0.06,0,ASEAN,no
+200,pooled fund,1,,swap,IDN-PHL,PHL,Philippines,IDN,Indonesia,17/11/2005,17/11/2021,1,renew,84,USD/JPY/EUR,PHP,0,0.6,0.6,0,ASEAN,no
+201,pooled fund,1,,swap,LAO-PHL,PHL,Philippines,LAO,Lao People's Democratic Republic,17/11/2005,17/11/2021,1,renew,85,USD/JPY/EUR,PHP,0,0.02,0.02,0,ASEAN,no
+202,pooled fund,1,,swap,MMR-PHL,PHL,Philippines,MMR,Myanmar,17/11/2005,17/11/2021,1,renew,86,USD/JPY/EUR,PHP,0,0.08,0.08,0,ASEAN,no
+203,pooled fund,1,,swap,MYS-PHL,PHL,Philippines,MYS,Malaysia,17/11/2005,17/11/2021,1,renew,87,USD/JPY/EUR,PHP,0,0.6,0.6,0,ASEAN,no
+204,pooled fund,1,,swap,PHL-SGP,PHL,Philippines,SGP,Singapore,17/11/2005,17/11/2021,1,renew,88,USD/JPY/EUR,PHP,0,0.6,0.6,0,ASEAN,no
+205,pooled fund,1,,swap,PHL-THA,PHL,Philippines,THA,Thailand,17/11/2005,17/11/2021,1,renew,89,USD/JPY/EUR,PHP,0,0.6,0.6,0,ASEAN,no
+206,pooled fund,1,,swap,PHL-VNM,PHL,Philippines,VNM,Vietnam,17/11/2005,17/11/2021,1,renew,90,USD/JPY/EUR,PHP,0,0.24,0.24,0,ASEAN,no
+207,pooled fund,1,,swap,BRN-SGP,SGP,Singapore,BRN,Brunei,17/11/2005,17/11/2021,1,renew,91,USD/JPY/EUR,SGD,0,0.6,0.6,0,ASEAN,no
+208,pooled fund,1,,swap,KHM-SGP,SGP,Singapore,KHM,Cambodia,17/11/2005,17/11/2021,1,renew,92,USD/JPY/EUR,SGD,0,0.06,0.06,0,ASEAN,no
+209,pooled fund,1,,swap,IDN-SGP,SGP,Singapore,IDN,Indonesia,17/11/2005,17/11/2021,1,renew,93,USD/JPY/EUR,SGD,0,0.6,0.6,0,ASEAN,no
+210,pooled fund,1,,swap,LAO-SGP,SGP,Singapore,LAO,Lao People's Democratic Republic,17/11/2005,17/11/2021,1,renew,94,USD/JPY/EUR,SGD,0,0.02,0.02,0,ASEAN,no
+211,pooled fund,1,,swap,MMR-SGP,SGP,Singapore,MMR,Myanmar,17/11/2005,17/11/2021,1,renew,95,USD/JPY/EUR,SGD,0,0.08,0.08,0,ASEAN,no
+212,pooled fund,1,,swap,MYS-SGP,SGP,Singapore,MYS,Malaysia,17/11/2005,17/11/2021,1,renew,96,USD/JPY/EUR,SGD,0,0.6,0.6,0,ASEAN,no
+213,pooled fund,1,,swap,PHL-SGP,SGP,Singapore,PHL,Philippines,17/11/2005,17/11/2021,1,renew,97,USD/JPY/EUR,SGD,0,0.6,0.6,0,ASEAN,no
+214,pooled fund,1,,swap,SGP-THA,SGP,Singapore,THA,Thailand,17/11/2005,17/11/2021,1,renew,98,USD/JPY/EUR,SGD,0,0.6,0.6,0,ASEAN,no
+215,pooled fund,1,,swap,SGP-VNM,SGP,Singapore,VNM,Vietnam,17/11/2005,17/11/2021,1,renew,99,USD/JPY/EUR,SGD,0,0.24,0.24,0,ASEAN,no
+216,pooled fund,1,,swap,BRN-THA,THA,Thailand,BRN,Brunei,17/11/2005,17/11/2021,1,renew,100,USD/JPY/EUR,THB,0,0.6,0.6,0,ASEAN,no
+217,pooled fund,1,,swap,KHM-THA,THA,Thailand,KHM,Cambodia,17/11/2005,17/11/2021,1,renew,101,USD/JPY/EUR,THB,0,0.06,0.06,0,ASEAN,no
+218,pooled fund,1,,swap,IDN-THA,THA,Thailand,IDN,Indonesia,17/11/2005,17/11/2021,1,renew,102,USD/JPY/EUR,THB,0,0.6,0.6,0,ASEAN,no
+219,pooled fund,1,,swap,LAO-THA,THA,Thailand,LAO,Lao People's Democratic Republic,17/11/2005,17/11/2021,1,renew,103,USD/JPY/EUR,THB,0,0.02,0.02,0,ASEAN,no
+220,pooled fund,1,,swap,MMR-THA,THA,Thailand,MMR,Myanmar,17/11/2005,17/11/2021,1,renew,104,USD/JPY/EUR,THB,0,0.08,0.08,0,ASEAN,no
+221,pooled fund,1,,swap,MYS-THA,THA,Thailand,MYS,Malaysia,17/11/2005,17/11/2021,1,renew,105,USD/JPY/EUR,THB,0,0.6,0.6,0,ASEAN,no
+222,pooled fund,1,,swap,PHL-THA,THA,Thailand,PHL,Philippines,17/11/2005,17/11/2021,1,renew,106,USD/JPY/EUR,THB,0,0.6,0.6,0,ASEAN,no
+223,pooled fund,1,,swap,SGP-THA,THA,Thailand,SGP,Singapore,17/11/2005,17/11/2021,1,renew,107,USD/JPY/EUR,THB,0,0.6,0.6,0,ASEAN,no
+224,pooled fund,1,,swap,THA-VNM,THA,Thailand,VNM,Vietnam,17/11/2005,17/11/2021,1,renew,117,USD/JPY/EUR,THB,0,0.24,0.24,0,ASEAN,no
+225,pooled fund,1,,swap,BRN-VNM,VNM,Vietnam,BRN,Brunei,17/11/2005,17/11/2021,1,renew,109,USD/JPY/EUR,VND,0,0.6,0.6,0,ASEAN,no
+226,pooled fund,1,,swap,KHM-VNM,VNM,Vietnam,KHM,Cambodia,17/11/2005,17/11/2021,1,renew,110,USD/JPY/EUR,VND,0,0.06,0.06,0,ASEAN,no
+227,pooled fund,1,,swap,IDN-VNM,VNM,Vietnam,IDN,Indonesia,17/11/2005,17/11/2021,1,renew,111,USD/JPY/EUR,VND,0,0.6,0.6,0,ASEAN,no
+228,pooled fund,1,,swap,LAO-VNM,VNM,Vietnam,LAO,Lao People's Democratic Republic,17/11/2005,17/11/2021,1,renew,112,USD/JPY/EUR,VND,0,0.02,0.02,0,ASEAN,no
+229,pooled fund,1,,swap,MMR-VNM,VNM,Vietnam,MMR,Myanmar,17/11/2005,17/11/2021,1,renew,113,USD/JPY/EUR,VND,0,0.08,0.08,0,ASEAN,no
+230,pooled fund,1,,swap,MYS-VNM,VNM,Vietnam,MYS,Malaysia,17/11/2005,17/11/2021,1,renew,114,USD/JPY/EUR,VND,0,0.6,0.6,0,ASEAN,no
+231,pooled fund,1,,swap,PHL-VNM,VNM,Vietnam,PHL,Philippines,17/11/2005,17/11/2021,1,renew,115,USD/JPY/EUR,VND,0,0.6,0.6,0,ASEAN,no
+232,pooled fund,1,,swap,SGP-VNM,VNM,Vietnam,SGP,Singapore,17/11/2005,17/11/2021,1,renew,116,USD/JPY/EUR,VND,0,0.6,0.6,0,ASEAN,no
+233,pooled fund,1,,swap,THA-VNM,VNM,Vietnam,THA,Thailand,17/11/2005,17/11/2021,1,renew,224,USD/JPY/EUR,VND,0,0.6,0.6,0,ASEAN,no
+234,reciprocal,0,235,swap,JPN-KOR,JPN,Japan,KOR,South Korea,27/05/2005,31/07/2007,1,NA,,JPY,JPY,1,NA,3,0,CMI_BSA,no
+235,reciprocal,0,234,swap,JPN-KOR,KOR,South Korea,JPN,Japan,27/05/2005,31/07/2007,1,NA,,KRW,KRW,1,NA,3,0,CMI_BSA,no
+236,reciprocal,0,237,swap,CHN-KOR,KOR,South Korea,CHN,China,27/05/2005,24/03/2010,1,renew,129,KRW,KRW,1,NA,4,0,CMI_BSA,yes
+237,reciprocal,0,236,swap,CHN-KOR,CHN,China,KOR,South Korea,27/05/2005,24/03/2010,1,renew,130,CNY,CNY,1,NA,4,0,CMI_BSA,yes
+238,unidirectional,0,,swap,IDN-JPN,JPN,Japan,IDN,Indonesia,31/08/2005,05/04/2009,1,renew,136,USD,JPY,0,6,6,0,CMI_BSA,yes
+239,reciprocal,0,240,swap,KOR-MYS,KOR,South Korea,MYS,Malaysia,14/10/2005,14/10/2008,1,reactivate,132,USD,KRW,0,1.5,1.5,0,CMI_BSA,no
+240,reciprocal,0,239,swap,KOR-MYS,MYS,Malaysia,KOR,South Korea,14/10/2005,14/10/2008,1,reactivate,131,USD,MYR,0,1.5,1.5,0,CMI_BSA,no
+241,unidirectional,0,,swap,CHN-IDN,CHN,China,IDN,Indonesia,17/10/2005,09/07/2007,1,renew,141,USD,CNY,0,2,2,0,CMI_BSA,yes
+242,reciprocal,0,243,swap,JPN-SGP,JPN,Japan,SGP,Singapore,08/11/2005,24/03/2010,1,NA,,USD,JPY,0,3,3,0,CMI_BSA,yes
+243,reciprocal,0,242,swap,JPN-SGP,SGP,Singapore,JPN,Japan,08/11/2005,24/03/2010,1,NA,,USD,SGD,0,1,1,0,CMI_BSA,yes
+244,reciprocal,0,245,swap,KOR-PHL,KOR,South Korea,PHL,Philippines,09/11/2005,31/03/2009,1,reactivate,133,USD,KRW,0,1.5,1.5,0,CMI_BSA,yes
+245,reciprocal,0,244,swap,KOR-PHL,PHL,Philippines,KOR,South Korea,09/11/2005,31/03/2009,1,reactivate,134,USD,PHP,0,1.5,1.5,0,CMI_BSA,yes
+246,reciprocal,0,247,swap,JPN-KOR,JPN,Japan,KOR,South Korea,31/07/2007,03/07/2010,1,renew,234,JPY,JPY,1,NA,3,0,CMI_BSA,no
+247,reciprocal,0,246,swap,JPN-KOR,KOR,South Korea,JPN,Japan,31/07/2007,03/07/2010,1,renew,235,KRW,KRW,1,NA,3,0,CMI_BSA,no
+248,reciprocal,0,249,swap,JPN-KOR,JPN,Japan,KOR,South Korea,22/06/2010,03/07/2013,1,renew,246,JPY,JPY,1,NA,3,0,CMI_BSA,no
+249,reciprocal,0,248,swap,JPN-KOR,KOR,South Korea,JPN,Japan,22/06/2010,03/07/2013,1,renew,247,KRW,KRW,1,NA,3,0,CMI_BSA,no
+250,reciprocal,0,251,swap,JPN-KOR,JPN,Japan,KOR,South Korea,24/02/2006,23/02/2015,1,NA,,USD,JPY,0,10,10,0,CMI_BSA,no
+251,reciprocal,0,250,swap,JPN-KOR,KOR,South Korea,JPN,Japan,24/02/2006,23/02/2015,1,NA,,USD,KRW,0,5,5,0,CMI_BSA,no
+252,reciprocal,0,253,swap,KOR-THA,KOR,South Korea,THA,Thailand,24/02/2006,24/03/2010,1,reactivate,127,USD,KRW,0,1,1,0,CMI_BSA,yes
+253,reciprocal,0,252,swap,KOR-THA,THA,Thailand,KOR,South Korea,24/02/2006,24/03/2010,1,reactivate,128,USD,THB,0,1,1,0,CMI_BSA,yes
+254,reciprocal,0,255,swap,JPN-PHL,JPN,Japan,PHL,Philippines,04/05/2006,04/05/2009,1,NA,,USD,JPY,0,6,6,0,CMI_BSA,yes
+255,reciprocal,0,254,swap,JPN-PHL,PHL,Philippines,JPN,Japan,04/05/2006,04/05/2009,1,NA,,USD,PHP,0,0.5,0.5,0,CMI_BSA,yes
+256,unidirectional,0,,swap,CHN-PHL,CHN,China,PHL,Philippines,30/04/2007,24/03/2010,1,renew,137,CNY,CNY,1,NA,2,0,CMI_BSA,yes
+257,reciprocal,0,261,swap,JPN-THA,JPN,Japan,THA,Thailand,10/07/2007,24/03/2010,1,renew,142,USD,JPY,0,6,6,0,CMI_BSA,yes
+258,reciprocal,0,259,swap,IDN-KOR,KOR,South Korea,IDN,Indonesia,10/07/2007,24/03/2010,1,renew,139,USD,KRW,0,2,2,0,CMI_BSA,yes
+259,reciprocal,0,258,swap,IDN-KOR,IDN,Indonesia,KOR,South Korea,10/07/2007,24/03/2010,1,renew,140,USD,IDR,0,2,2,0,CMI_BSA,yes
+260,unidirectional,0,,swap,CHN-IDN,CHN,China,IDN,Indonesia,10/07/2007,24/03/2010,1,supplement,,USD,CNY,0,4,4,0,CMI_BSA,yes
+261,reciprocal,0,257,swap,JPN-THA,THA,Thailand,JPN,Japan,10/07/2007,24/03/2010,1,renew,143,USD,THB,0,3,3,0,CMI_BSA,yes
+262,unidirectional,0,,swap,EA-USA,USA,USA,EA,EA,12/12/2007,12/06/2008,1,reactivate,121,USD,USD,1,20,20,0,,no
+263,unidirectional,0,,swap,CHE-USA,USA,USA,CHE,Switzerland,12/12/2007,12/06/2008,0,NA,,USD,USD,1,4,4,0,,no
+264,unidirectional,0,,swap,EA-SWE,EA,EA,SWE,Sweden,20/12/2007,31/12/9999,0,NA,,EUR,EUR,1,10,NA,0,,yes
+265,unidirectional,0,,swap,EA-USA,USA,USA,EA,EA,11/03/2008,30/09/2008,1,renew,262,USD,USD,1,30,30,0,,no
+266,unidirectional,0,,swap,CHE-USA,USA,USA,CHE,Switzerland,11/03/2008,30/09/2008,1,renew,263,USD,USD,1,6,6,0,,no
+267,unidirectional,0,,swap,EA-USA,USA,USA,EA,EA,02/05/2008,30/01/2009,1,renew,265,USD,USD,1,50,50,0,,no
+268,unidirectional,0,,swap,CHE-USA,USA,USA,CHE,Switzerland,02/05/2008,30/01/2009,1,renew,266,USD,USD,1,12,12,0,,no
+269,unidirectional,0,,swap,DNK-ISL,DNK,Denmark,ISL,Iceland,16/05/2008,31/12/2009,0,NA,,EUR,DKK,0,0.5,NA,0,,no
+270,unidirectional,0,,swap,ISL-NOR,NOR,Norway,ISL,Iceland,16/05/2008,31/12/2009,0,NA,,EUR,NOK,0,0.5,NA,0,,no
+271,unidirectional,0,,swap,ISL-SWE,SWE,Sweden,ISL,Iceland,16/05/2008,31/12/2009,0,NA,,EUR,SEK,0,0.5,NA,0,,no
+272,reciprocal,0,273,swap,IND-JPN,JPN,Japan,IND,India,29/06/2008,29/06/2011,0,NA,,USD,JPY,0,3,3,0,,no
+273,reciprocal,0,272,swap,IND-JPN,IND,India,JPN,Japan,29/06/2008,29/06/2011,0,NA,,USD,INR,0,3,3,0,,no
+274,unidirectional,0,,swap,EA-USA,USA,USA,EA,EA,30/07/2008,17/09/2008,1,renew,267,USD,USD,1,55,55,0,,no
+275,unidirectional,0,,swap,CAN-USA,USA,USA,CAN,Canada,18/09/2008,30/01/2009,1,NA,,USD,USD,1,10,10,0,,no
+276,unidirectional,0,,swap,GBR-USA,USA,USA,GBR,UK,18/09/2008,30/01/2009,1,renew,122,USD,USD,1,40,40,0,,no
+277,unidirectional,0,,swap,JPN-USA,USA,USA,JPN,Japan,18/09/2008,30/01/2009,0,NA,,USD,USD,1,60,60,0,,no
+278,unidirectional,0,,swap,EA-USA,USA,USA,EA,EA,18/09/2008,30/01/2009,1,renew,274,USD,USD,1,110,110,0,,no
+279,unidirectional,0,,swap,CHE-USA,USA,USA,CHE,Switzerland,18/09/2008,30/01/2009,1,renew,268,USD,USD,1,27,27,0,,no
+280,unidirectional,0,,swap,DNK-USA,USA,USA,DNK,Denmark,24/09/2008,30/01/2009,0,NA,,USD,USD,1,5,5,0,,no
+281,unidirectional,0,,swap,NOR-USA,USA,USA,NOR,Norway,24/09/2008,30/01/2009,0,NA,,USD,USD,1,5,5,0,,no
+282,unidirectional,0,,swap,AUS-USA,USA,USA,AUS,Australia,24/09/2008,30/01/2009,0,NA,,USD,USD,1,10,10,0,,no
+283,unidirectional,0,,swap,SWE-USA,USA,USA,SWE,Sweden,24/09/2008,30/01/2009,0,NA,,USD,USD,1,10,10,0,,no
+284,unidirectional,0,,swap,EA-USA,USA,USA,EA,EA,26/09/2008,30/01/2009,1,renew,278,USD,USD,1,120,120,0,,no
+285,unidirectional,0,,swap,CHE-USA,USA,USA,CHE,Switzerland,26/09/2008,30/01/2009,1,renew,279,USD,USD,1,30,30,0,,no
+286,unidirectional,0,,swap,CAN-USA,USA,USA,CAN,Canada,29/09/2008,30/04/2009,1,renew,275,USD,USD,1,30,30,0,,no
+287,unidirectional,0,,swap,GBR-USA,USA,USA,GBR,UK,29/09/2008,30/04/2009,1,renew,276,USD,USD,1,80,80,0,,no
+288,unidirectional,0,,swap,JPN-USA,USA,USA,JPN,Japan,29/09/2008,30/04/2009,1,renew,277,USD,USD,1,120,120,0,,no
+289,unidirectional,0,,swap,DNK-USA,USA,USA,DNK,Denmark,29/09/2008,30/04/2009,1,renew,280,USD,USD,1,15,15,0,,no
+290,unidirectional,0,,swap,EA-USA,USA,USA,EA,EA,29/09/2008,30/04/2009,1,renew,284,USD,USD,1,240,240,0,,no
+291,unidirectional,0,,swap,NOR-USA,USA,USA,NOR,Norway,29/09/2008,30/04/2009,1,renew,281,USD,USD,1,15,15,0,,no
+292,unidirectional,0,,swap,AUS-USA,USA,USA,AUS,Australia,29/09/2008,30/04/2009,1,renew,282,USD,USD,1,30,30,0,,no
+293,unidirectional,0,,swap,SWE-USA,USA,USA,SWE,Sweden,29/09/2008,30/04/2009,1,renew,283,USD,USD,1,30,30,0,,no
+294,unidirectional,0,,swap,AUS-USA,USA,USA,AUS,Australia,03/02/2009,30/10/2009,1,renew,292,USD,USD,1,30,30,0,,no
+295,unidirectional,0,,swap,DNK-USA,USA,USA,DNK,Denmark,03/02/2009,30/10/2009,1,renew,289,USD,USD,1,15,15,0,,no
+296,unidirectional,0,,swap,NOR-USA,USA,USA,NOR,Norway,03/02/2009,30/10/2009,1,renew,291,USD,USD,1,15,15,0,,no
+297,unidirectional,0,,swap,SWE-USA,USA,USA,SWE,Sweden,03/02/2009,30/10/2009,1,renew,293,USD,USD,1,30,30,0,,no
+298,unidirectional,0,,swap,NOR-USA,USA,USA,NOR,Norway,25/06/2009,01/02/2010,1,renew,296,USD,USD,1,15,15,0,,no
+299,unidirectional,0,,swap,SWE-USA,USA,USA,SWE,Sweden,25/06/2009,01/02/2010,1,renew,297,USD,USD,1,30,30,0,,no
+300,unidirectional,0,,swap,DNK-USA,USA,USA,DNK,Denmark,25/06/2009,01/02/2010,1,renew,295,USD,USD,1,15,15,0,,no
+301,unidirectional,0,,swap,AUS-USA,USA,USA,AUS,Australia,25/06/2009,01/02/2010,1,renew,294,USD,USD,1,30,30,0,,no
+302,unidirectional,0,,swap,CHE-USA,USA,USA,CHE,Switzerland,29/09/2008,30/04/2009,1,renew,285,USD,USD,1,60,60,0,,no
+303,unidirectional,0,,swap,GBR-USA,USA,USA,GBR,UK,13/10/2008,30/04/2009,1,renew,287,USD,USD,1,NA,NA,1,,no
+304,unidirectional,0,,swap,EA-USA,USA,USA,EA,EA,13/10/2008,30/04/2009,1,renew,290,USD,USD,1,NA,NA,1,,no
+305,unidirectional,0,,swap,CHE-USA,USA,USA,CHE,Switzerland,13/10/2008,30/04/2009,1,renew,302,USD,USD,1,NA,NA,1,,no
+306,unidirectional,0,,swap,JPN-USA,USA,USA,JPN,Japan,14/10/2008,30/04/2009,1,renew,288,USD,USD,1,NA,NA,1,,no
+307,unidirectional,0,,swap,CHE-EA,CHE,Switzerland,EA,EA,15/10/2008,28/01/2009,0,NA,,CHF,CHF,1,25,NA,0,,no
+308,unidirectional,0,,repo,EA-HUN,EA,EA,HUN,Hungary,16/10/2008,31/12/9999,0,NA,,EUR,EUR,1,5,NA,0,,yes
+309,unidirectional,0,,swap,DNK-EA,EA,EA,DNK,Denmark,27/10/2008,31/12/9999,0,NA,,EUR,EUR,1,12,NA,0,,yes
+310,unidirectional,0,,swap,NZL-USA,USA,USA,NZL,New Zealand,28/10/2008,30/04/2009,0,NA,,USD,USD,1,15,15,0,,no
+311,unidirectional,0,,swap,KOR-USA,USA,USA,KOR,South Korea,29/10/2008,30/04/2009,0,NA,,USD,USD,1,30,30,0,,no
+312,unidirectional,0,,swap,BRA-USA,USA,USA,BRA,Brazil,29/10/2008,30/04/2009,0,NA,,USD,USD,1,30,30,0,,no
+313,unidirectional,0,,swap,MEX-USA,USA,USA,MEX,Mexico,29/10/2008,30/04/2009,0,NA,,USD,USD,1,30,30,0,,no
+314,unidirectional,0,,swap,SGP-USA,USA,USA,SGP,Singapore,29/10/2008,30/04/2009,0,NA,,USD,USD,1,30,30,0,,no
+315,unidirectional,0,,repo,EA-LVA,EA,EA,LVA,Latvia,11/11/2008,31/12/2011,0,NA,,EUR,EUR,1,1,NA,0,,yes
+316,unidirectional,0,,swap,CHE-POL,CHE,Switzerland,POL,Poland,17/11/2008,31/01/2009,0,NA,,CHF,CHF,1,NA,NA,1,,no
+317,unidirectional,0,,repo,EA-POL,EA,EA,POL,Poland,21/11/2008,30/04/2010,0,NA,,EUR,EUR,1,10,NA,0,,yes
+318,reciprocal,0,319,swap,JPN-KOR,JPN,Japan,KOR,South Korea,12/12/2008,30/04/2009,1,supplement,,JPY,JPY,1,NA,17,0,CMI_BSA,no
+319,reciprocal,0,318,swap,JPN-KOR,KOR,South Korea,JPN,Japan,12/12/2008,30/04/2009,1,supplement,,KRW,KRW,1,NA,17,0,CMI_BSA,no
+320,reciprocal,0,321,swap,CHN-KOR,KOR,South Korea,CHN,China,12/12/2008,12/12/2011,1,renew,236,KRW,KRW,1,38000,NA,0,,no
+321,reciprocal,0,320,swap,CHN-KOR,CHN,China,KOR,South Korea,12/12/2008,12/12/2011,1,renew,237,CNY,CNY,1,180,NA,0,,no
+322,unidirectional,0,,swap,DNK-LVA,DNK,Denmark,LVA,Latvia,16/12/2008,31/12/2010,0,NA,,EUR,DKK,0,0.125,NA,0,,yes
+323,unidirectional,0,,swap,LVA-SWE,SWE,Sweden,LVA,Latvia,16/12/2008,31/12/2010,0,NA,,EUR,SEK,0,0.375,NA,0,,yes
+324,reciprocal,0,325,swap,CHN-HKG,HKG,Hong Kong,CHN,China,20/01/2009,20/01/2012,0,NA,,HKD,HKD,1,227,NA,0,,no
+325,reciprocal,0,326,swap,CHN-HKG,CHN,China,HKG,Hong Kong,20/01/2009,20/01/2012,0,NA,,CNY,CNY,1,200,NA,0,,no
+326,unidirectional,0,,swap,CHE-HUN,CHE,Switzerland,HUN,Hungary,02/02/2009,30/04/2009,0,NA,,CHF,CHF,1,NA,NA,1,,no
+327,unidirectional,0,,swap,CHN-MYS,CHN,China,MYS,Malaysia,10/07/2007,24/03/2010,1,reactivate,135,USD,CNY,0,1.5,1.5,0,CMI_BSA,yes
+328,reciprocal,0,334,swap,CHN-MYS,MYS,Malaysia,CHN,China,08/02/2009,07/02/2012,1,NA,,MYR,MYR,1,40,NA,0,,no
+329,unidirectional,0,,swap,EST-SWE,SWE,Sweden,EST,Estonia,27/02/2009,27/02/2010,0,NA,,SEK,SEK,1,10,NA,0,,no
+330,reciprocal,0,331,swap,BLR-CHN,BLR,Belarus,CHN,China,11/03/2009,11/03/2012,0,NA,,BYN,BYN,1,8000,NA,0,,no
+331,reciprocal,0,330,swap,BLR-CHN,CHN,China,BLR,Belarus,11/03/2009,11/03/2012,0,NA,,CNY,CNY,1,20,NA,0,,no
+332,reciprocal,0,333,swap,CHN-IDN,IDN,Indonesia,CHN,China,23/03/2009,23/03/2012,1,NA,,IDR,IDR,1,175000,NA,0,,no
+333,reciprocal,0,332,swap,CHN-IDN,CHN,China,IDN,Indonesia,23/03/2009,23/03/2012,1,NA,,CNY,CNY,1,100,NA,0,,no
+334,reciprocal,0,328,swap,CHN-MYS,CHN,China,MYS,Malaysia,08/02/2009,07/02/2012,1,NA,,CNY,CNY,1,80,NA,0,,no
+335,unidirectional,0,,swap,CHN-THA,CHN,China,THA,Thailand,10/07/2007,24/03/2010,1,reactivate,124,USD,CNY,0,2,2,0,CMI_BSA,yes
+336,reciprocal,0,337,swap,ARG-CHN,ARG,Argentina,CHN,China,02/04/2009,02/04/2012,0,NA,,ARS,ARS,1,38,NA,0,,no
+337,reciprocal,0,336,swap,ARG-CHN,CHN,China,ARG,Argentina,02/04/2009,02/04/2012,0,NA,,CNY,CNY,1,70,NA,0,,no
+338,unidirectional,0,343,swap,GBR-USA,USA,USA,GBR,UK,03/02/2009,30/10/2009,1,renew,303,USD,USD,1,NA,NA,1,,yes
+339,unidirectional,0,346,swap,EA-USA,USA,USA,EA,EA,03/02/2009,30/10/2009,1,renew,304,USD,USD,1,NA,NA,1,,yes
+340,unidirectional,0,347,swap,CHE-USA,USA,USA,CHE,Switzerland,03/02/2009,30/10/2009,1,renew,305,USD,USD,1,NA,NA,1,,yes
+341,unidirectional,0,344,swap,JPN-USA,USA,USA,JPN,Japan,03/02/2009,30/10/2009,1,renew,306,USD,USD,1,NA,NA,1,,yes
+342,unidirectional,0,,swap,CAN-USA,USA,USA,CAN,Canada,03/02/2009,30/10/2009,1,renew,286,USD,USD,1,30,30,0,,no
+343,reciprocal,0,338,swap,GBR-USA,GBR,UK,USA,USA,06/04/2009,30/10/2009,1,NA,,GBP,GBP,1,30,NA,0,,no
+344,reciprocal,0,341,swap,JPN-USA,JPN,Japan,USA,USA,06/04/2009,30/10/2009,1,NA,,JPY,JPY,1,10000,NA,0,,no
+345,unidirectional,0,,swap,IDN-JPN,JPN,Japan,IDN,Indonesia,06/04/2009,13/12/2013,1,renew,238,USD,JPY,0,12,12,0,CMI_BSA,yes
+346,reciprocal,0,339,swap,EA-USA,EA,EA,USA,USA,06/04/2009,30/10/2009,1,NA,,EUR,EUR,1,80,NA,0,,no
+347,reciprocal,0,340,swap,CHE-USA,CHE,Switzerland,USA,USA,06/04/2009,30/10/2009,1,NA,,CHF,CHF,1,40,NA,0,,no
+348,pooled fund,1,,swap,JPN-KOR,JPN,Japan,KOR,South Korea,24/03/2010,16/07/2014,1,NA,,USD,JPY,0,19.2,19.2,0,CMIM,no
+349,pooled fund,1,,swap,BRN-JPN,JPN,Japan,BRN,Brunei,24/03/2010,16/07/2014,0,NA,,USD,JPY,0,0.15,0.15,0,CMIM,no
+350,pooled fund,1,,swap,JPN-KHM,JPN,Japan,KHM,Cambodia,24/03/2010,16/07/2014,0,NA,,USD,JPY,0,0.6,0.6,0,CMIM,no
+351,pooled fund,1,,swap,HKG-JPN,JPN,Japan,HKG,Hong Kong,24/03/2010,16/07/2014,0,NA,,USD,JPY,0,10.5,10.5,0,CMIM,no
+352,pooled fund,1,,swap,IDN-JPN,JPN,Japan,IDN,Indonesia,24/03/2010,16/07/2014,1,NA,,USD,JPY,0,11.925,11.925,0,CMIM,no
+353,pooled fund,1,,swap,JPN-LAO,JPN,Japan,LAO,Lao People's Democratic Republic,24/03/2010,16/07/2014,0,NA,,USD,JPY,0,0.15,0.15,0,CMIM,no
+354,pooled fund,1,,swap,JPN-MMR,JPN,Japan,MMR,Myanmar,24/03/2010,16/07/2014,0,NA,,USD,JPY,0,0.3,0.3,0,CMIM,no
+355,pooled fund,1,,swap,JPN-MYS,JPN,Japan,MYS,Malaysia,24/03/2010,16/07/2014,1,NA,,USD,JPY,0,11.925,11.925,0,CMIM,no
+356,pooled fund,1,,swap,CHN-JPN,JPN,Japan,CHN,China,24/03/2010,16/07/2014,1,NA,,USD,JPY,0,17.1,17.1,0,CMIM,no
+357,pooled fund,1,,swap,JPN-PHL,JPN,Japan,PHL,Philippines,24/03/2010,16/07/2014,1,NA,,USD,JPY,0,9.2,9.2,0,CMIM,no
+358,pooled fund,1,,swap,JPN-SGP,JPN,Japan,SGP,Singapore,24/03/2010,16/07/2014,1,NA,,USD,JPY,0,11.925,11.925,0,CMIM,no
+359,pooled fund,1,,swap,JPN-THA,JPN,Japan,THA,Thailand,24/03/2010,16/07/2014,1,NA,,USD,JPY,0,11.925,11.925,0,CMIM,no
+360,pooled fund,1,,swap,JPN-VNM,JPN,Japan,VNM,Vietnam,24/03/2010,16/07/2014,0,NA,,USD,JPY,0,5,5,0,CMIM,no
+361,pooled fund,1,,swap,JPN-KOR,KOR,South Korea,JPN,Japan,24/03/2010,16/07/2014,1,NA,,USD,KRW,0,19.2,19.2,0,CMIM,no
+362,pooled fund,1,,swap,BRN-KOR,KOR,South Korea,BRN,Brunei,24/03/2010,16/07/2014,0,NA,,USD,KRW,0,0.15,0.15,0,CMIM,no
+363,pooled fund,1,,swap,KHM-KOR,KOR,South Korea,KHM,Cambodia,24/03/2010,16/07/2014,0,NA,,USD,KRW,0,0.6,0.6,0,CMIM,no
+364,pooled fund,1,,swap,HKG-KOR,KOR,South Korea,HKG,Hong Kong,24/03/2010,16/07/2014,0,NA,,USD,KRW,0,10.5,10.5,0,CMIM,no
+365,pooled fund,1,,swap,IDN-KOR,KOR,South Korea,IDN,Indonesia,24/03/2010,16/07/2014,1,NA,,USD,KRW,0,11.925,11.925,0,CMIM,no
+366,pooled fund,1,,swap,KOR-LAO,KOR,South Korea,LAO,Lao People's Democratic Republic,24/03/2010,16/07/2014,0,NA,,USD,KRW,0,0.15,0.15,0,CMIM,no
+367,pooled fund,1,,swap,KOR-MMR,KOR,South Korea,MMR,Myanmar,24/03/2010,16/07/2014,0,NA,,USD,KRW,0,0.3,0.3,0,CMIM,no
+368,pooled fund,1,,swap,KOR-MYS,KOR,South Korea,MYS,Malaysia,24/03/2010,16/07/2014,1,NA,,USD,KRW,0,11.925,11.925,0,CMIM,no
+369,pooled fund,1,,swap,CHN-KOR,KOR,South Korea,CHN,China,24/03/2010,16/07/2014,1,NA,,USD,KRW,0,17.1,17.1,0,CMIM,no
+370,pooled fund,1,,swap,KOR-PHL,KOR,South Korea,PHL,Philippines,24/03/2010,16/07/2014,1,NA,,USD,KRW,0,9.2,9.2,0,CMIM,no
+371,pooled fund,1,,swap,KOR-SGP,KOR,South Korea,SGP,Singapore,24/03/2010,16/07/2014,0,NA,,USD,KRW,0,11.925,11.925,0,CMIM,no
+372,pooled fund,1,,swap,KOR-THA,KOR,South Korea,THA,Thailand,24/03/2010,16/07/2014,1,NA,,USD,KRW,0,11.925,11.925,0,CMIM,no
+373,pooled fund,1,,swap,KOR-VNM,KOR,South Korea,VNM,Vietnam,24/03/2010,16/07/2014,0,NA,,USD,KRW,0,5,5,0,CMIM,no
+374,pooled fund,1,,swap,BRN-JPN,BRN,Brunei,JPN,Japan,24/03/2010,16/07/2014,0,NA,,USD,BND,0,19.2,19.2,0,CMIM,no
+375,pooled fund,1,,swap,BRN-KOR,BRN,Brunei,KOR,South Korea,24/03/2010,16/07/2014,0,NA,,USD,BND,0,19.2,19.2,0,CMIM,no
+376,pooled fund,1,,swap,BRN-KHM,BRN,Brunei,KHM,Cambodia,24/03/2010,16/07/2014,1,NA,,USD,BND,0,0.6,0.6,0,CMIM,no
+377,pooled fund,1,,swap,BRN-HKG,BRN,Brunei,HKG,Hong Kong,24/03/2010,16/07/2014,0,NA,,USD,BND,0,10.5,10.5,0,CMIM,no
+378,pooled fund,1,,swap,BRN-IDN,BRN,Brunei,IDN,Indonesia,24/03/2010,16/07/2014,1,NA,,USD,BND,0,11.925,11.925,0,CMIM,no
+379,pooled fund,1,,swap,BRN-LAO,BRN,Brunei,LAO,Lao People's Democratic Republic,24/03/2010,16/07/2014,1,NA,,USD,BND,0,0.15,0.15,0,CMIM,no
+380,pooled fund,1,,swap,BRN-MMR,BRN,Brunei,MMR,Myanmar,24/03/2010,16/07/2014,1,NA,,USD,BND,0,0.3,0.3,0,CMIM,no
+381,pooled fund,1,,swap,BRN-MYS,BRN,Brunei,MYS,Malaysia,24/03/2010,16/07/2014,1,NA,,USD,BND,0,11.925,11.925,0,CMIM,no
+382,pooled fund,1,,swap,BRN-CHN,BRN,Brunei,CHN,China,24/03/2010,16/07/2014,0,NA,,USD,BND,0,17.1,17.1,0,CMIM,no
+383,pooled fund,1,,swap,BRN-PHL,BRN,Brunei,PHL,Philippines,24/03/2010,16/07/2014,1,NA,,USD,BND,0,9.2,9.2,0,CMIM,no
+384,pooled fund,1,,swap,BRN-SGP,BRN,Brunei,SGP,Singapore,24/03/2010,16/07/2014,1,NA,,USD,BND,0,11.925,11.925,0,CMIM,no
+385,pooled fund,1,,swap,BRN-THA,BRN,Brunei,THA,Thailand,24/03/2010,16/07/2014,1,NA,,USD,BND,0,11.925,11.925,0,CMIM,no
+386,pooled fund,1,,swap,BRN-VNM,BRN,Brunei,VNM,Vietnam,24/03/2010,16/07/2014,1,NA,,USD,BND,0,5,5,0,CMIM,no
+387,pooled fund,1,,swap,JPN-KHM,KHM,Cambodia,JPN,Japan,24/03/2010,16/07/2014,0,NA,,USD,KHR,0,19.2,19.2,0,CMIM,no
+388,pooled fund,1,,swap,KHM-KOR,KHM,Cambodia,KOR,South Korea,24/03/2010,16/07/2014,0,NA,,USD,KHR,0,19.2,19.2,0,CMIM,no
+389,pooled fund,1,,swap,BRN-KHM,KHM,Cambodia,BRN,Brunei,24/03/2010,16/07/2014,1,NA,,USD,KHR,0,0.15,0.15,0,CMIM,no
+390,pooled fund,1,,swap,HKG-KHM,KHM,Cambodia,HKG,Hong Kong,24/03/2010,16/07/2014,0,NA,,USD,KHR,0,10.5,10.5,0,CMIM,no
+391,pooled fund,1,,swap,IDN-KHM,KHM,Cambodia,IDN,Indonesia,24/03/2010,16/07/2014,0,NA,,USD,KHR,0,11.925,11.925,0,CMIM,no
+392,pooled fund,1,,swap,KHM-LAO,KHM,Cambodia,LAO,Lao People's Democratic Republic,24/03/2010,16/07/2014,1,NA,,USD,KHR,0,0.15,0.15,0,CMIM,no
+393,pooled fund,1,,swap,KHM-MMR,KHM,Cambodia,MMR,Myanmar,24/03/2010,16/07/2014,1,NA,,USD,KHR,0,0.3,0.3,0,CMIM,no
+394,pooled fund,1,,swap,KHM-MYS,KHM,Cambodia,MYS,Malaysia,24/03/2010,16/07/2014,1,NA,,USD,KHR,0,11.925,11.925,0,CMIM,no
+395,pooled fund,1,,swap,CHN-KHM,KHM,Cambodia,CHN,China,24/03/2010,16/07/2014,0,NA,,USD,KHR,0,17.1,17.1,0,CMIM,no
+396,pooled fund,1,,swap,KHM-PHL,KHM,Cambodia,PHL,Philippines,24/03/2010,16/07/2014,1,NA,,USD,KHR,0,9.2,9.2,0,CMIM,no
+397,pooled fund,1,,swap,KHM-SGP,KHM,Cambodia,SGP,Singapore,24/03/2010,16/07/2014,1,NA,,USD,KHR,0,11.925,11.925,0,CMIM,no
+398,pooled fund,1,,swap,KHM-THA,KHM,Cambodia,THA,Thailand,24/03/2010,16/07/2014,1,NA,,USD,KHR,0,11.925,11.925,0,CMIM,no
+399,pooled fund,1,,swap,KHM-VNM,KHM,Cambodia,VNM,Vietnam,24/03/2010,16/07/2014,1,NA,,USD,KHR,0,5,5,0,CMIM,no
+400,pooled fund,1,,swap,HKG-JPN,HKG,Hong Kong,JPN,Japan,24/03/2010,16/07/2014,0,NA,,USD,HKD,0,19.2,19.2,0,CMIM,no
+401,pooled fund,1,,swap,HKG-KOR,HKG,Hong Kong,KOR,South Korea,24/03/2010,16/07/2014,0,NA,,USD,HKD,0,19.2,19.2,0,CMIM,no
+402,pooled fund,1,,swap,BRN-HKG,HKG,Hong Kong,BRN,Brunei,24/03/2010,16/07/2014,0,NA,,USD,HKD,0,0.15,0.15,0,CMIM,no
+403,pooled fund,1,,swap,HKG-KHM,HKG,Hong Kong,KHM,Cambodia,24/03/2010,16/07/2014,0,NA,,USD,HKD,0,0.6,0.6,0,CMIM,no
+404,pooled fund,1,,swap,HKG-IDN,HKG,Hong Kong,IDN,Indonesia,24/03/2010,16/07/2014,0,NA,,USD,HKD,0,11.925,11.925,0,CMIM,no
+405,pooled fund,1,,swap,HKG-LAO,HKG,Hong Kong,LAO,Lao People's Democratic Republic,24/03/2010,16/07/2014,0,NA,,USD,HKD,0,0.15,0.15,0,CMIM,no
+406,pooled fund,1,,swap,HKG-MMR,HKG,Hong Kong,MMR,Myanmar,24/03/2010,16/07/2014,0,NA,,USD,HKD,0,0.3,0.3,0,CMIM,no
+407,pooled fund,1,,swap,HKG-MYS,HKG,Hong Kong,MYS,Malaysia,24/03/2010,16/07/2014,0,NA,,USD,HKD,0,11.925,11.925,0,CMIM,no
+408,pooled fund,1,,swap,CHN-HKG,HKG,Hong Kong,CHN,China,24/03/2010,16/07/2014,1,NA,,USD,HKD,0,17.1,17.1,0,CMIM,no
+409,pooled fund,1,,swap,HKG-PHL,HKG,Hong Kong,PHL,Philippines,24/03/2010,16/07/2014,0,NA,,USD,HKD,0,9.2,9.2,0,CMIM,no
+410,pooled fund,1,,swap,HKG-SGP,HKG,Hong Kong,SGP,Singapore,24/03/2010,16/07/2014,0,NA,,USD,HKD,0,11.925,11.925,0,CMIM,no
+411,pooled fund,1,,swap,HKG-THA,HKG,Hong Kong,THA,Thailand,24/03/2010,16/07/2014,0,NA,,USD,HKD,0,11.925,11.925,0,CMIM,no
+412,pooled fund,1,,swap,HKG-VNM,HKG,Hong Kong,VNM,Vietnam,24/03/2010,16/07/2014,0,NA,,USD,HKD,0,5,5,0,CMIM,no
+413,pooled fund,1,,swap,IDN-JPN,IDN,Indonesia,JPN,Japan,24/03/2010,16/07/2014,1,NA,,USD,IDR,0,19.2,19.2,0,CMIM,no
+414,pooled fund,1,,swap,IDN-KOR,IDN,Indonesia,KOR,South Korea,24/03/2010,16/07/2014,1,NA,,USD,IDR,0,19.2,19.2,0,CMIM,no
+415,pooled fund,1,,swap,BRN-IDN,IDN,Indonesia,BRN,Brunei,24/03/2010,16/07/2014,1,NA,,USD,IDR,0,0.15,0.15,0,CMIM,no
+416,pooled fund,1,,swap,IDN-KHM,IDN,Indonesia,KHM,Cambodia,24/03/2010,16/07/2014,0,NA,,USD,IDR,0,0.6,0.6,0,CMIM,no
+417,pooled fund,1,,swap,HKG-IDN,IDN,Indonesia,HKG,Hong Kong,24/03/2010,16/07/2014,0,NA,,USD,IDR,0,10.5,10.5,0,CMIM,no
+418,pooled fund,1,,swap,IDN-LAO,IDN,Indonesia,LAO,Lao People's Democratic Republic,24/03/2010,16/07/2014,1,NA,,USD,IDR,0,0.15,0.15,0,CMIM,no
+419,pooled fund,1,,swap,IDN-MMR,IDN,Indonesia,MMR,Myanmar,24/03/2010,16/07/2014,0,NA,,USD,IDR,0,0.3,0.3,0,CMIM,no
+420,pooled fund,1,,swap,IDN-MYS,IDN,Indonesia,MYS,Malaysia,24/03/2010,16/07/2014,1,NA,,USD,IDR,0,11.925,11.925,0,CMIM,no
+421,pooled fund,1,,swap,CHN-IDN,IDN,Indonesia,CHN,China,24/03/2010,16/07/2014,1,NA,,USD,IDR,0,17.1,17.1,0,CMIM,no
+422,pooled fund,1,,swap,IDN-PHL,IDN,Indonesia,PHL,Philippines,24/03/2010,16/07/2014,1,NA,,USD,IDR,0,9.2,9.2,0,CMIM,no
+423,pooled fund,1,,swap,IDN-SGP,IDN,Indonesia,SGP,Singapore,24/03/2010,16/07/2014,1,NA,,USD,IDR,0,11.925,11.925,0,CMIM,no
+424,pooled fund,1,,swap,IDN-THA,IDN,Indonesia,THA,Thailand,24/03/2010,16/07/2014,1,NA,,USD,IDR,0,11.925,11.925,0,CMIM,no
+425,pooled fund,1,,swap,IDN-VNM,IDN,Indonesia,VNM,Vietnam,24/03/2010,16/07/2014,1,NA,,USD,IDR,0,5,5,0,CMIM,no
+426,pooled fund,1,,swap,JPN-LAO,LAO,Lao People's Democratic Republic,JPN,Japan,24/03/2010,16/07/2014,0,NA,,USD,LAK,0,19.2,19.2,0,CMIM,no
+427,pooled fund,1,,swap,KOR-LAO,LAO,Lao People's Democratic Republic,KOR,South Korea,24/03/2010,16/07/2014,0,NA,,USD,LAK,0,19.2,19.2,0,CMIM,no
+428,pooled fund,1,,swap,BRN-LAO,LAO,Lao People's Democratic Republic,BRN,Brunei,24/03/2010,16/07/2014,1,NA,,USD,LAK,0,0.15,0.15,0,CMIM,no
+429,pooled fund,1,,swap,KHM-LAO,LAO,Lao People's Democratic Republic,KHM,Cambodia,24/03/2010,16/07/2014,1,NA,,USD,LAK,0,0.6,0.6,0,CMIM,no
+430,pooled fund,1,,swap,HKG-LAO,LAO,Lao People's Democratic Republic,HKG,Hong Kong,24/03/2010,16/07/2014,0,NA,,USD,LAK,0,10.5,10.5,0,CMIM,no
+431,pooled fund,1,,swap,IDN-LAO,LAO,Lao People's Democratic Republic,IDN,Indonesia,24/03/2010,16/07/2014,1,NA,,USD,LAK,0,11.925,11.925,0,CMIM,no
+432,pooled fund,1,,swap,LAO-MMR,LAO,Lao People's Democratic Republic,MMR,Myanmar,24/03/2010,16/07/2014,1,NA,,USD,LAK,0,0.3,0.3,0,CMIM,no
+433,pooled fund,1,,swap,LAO-MYS,LAO,Lao People's Democratic Republic,MYS,Malaysia,24/03/2010,16/07/2014,1,NA,,USD,LAK,0,11.925,11.925,0,CMIM,no
+434,pooled fund,1,,swap,CHN-LAO,LAO,Lao People's Democratic Republic,CHN,China,24/03/2010,16/07/2014,0,NA,,USD,LAK,0,17.1,17.1,0,CMIM,no
+435,pooled fund,1,,swap,LAO-PHL,LAO,Lao People's Democratic Republic,PHL,Philippines,24/03/2010,16/07/2014,1,NA,,USD,LAK,0,9.2,9.2,0,CMIM,no
+436,pooled fund,1,,swap,LAO-SGP,LAO,Lao People's Democratic Republic,SGP,Singapore,24/03/2010,16/07/2014,1,NA,,USD,LAK,0,11.925,11.925,0,CMIM,no
+437,pooled fund,1,,swap,LAO-THA,LAO,Lao People's Democratic Republic,THA,Thailand,24/03/2010,16/07/2014,1,NA,,USD,LAK,0,11.925,11.925,0,CMIM,no
+438,pooled fund,1,,swap,LAO-VNM,LAO,Lao People's Democratic Republic,VNM,Vietnam,24/03/2010,16/07/2014,1,NA,,USD,LAK,0,5,5,0,CMIM,no
+439,pooled fund,1,,swap,JPN-MMR,MMR,Myanmar,JPN,Japan,24/03/2010,16/07/2014,0,NA,,USD,MMK,0,19.2,19.2,0,CMIM,no
+440,pooled fund,1,,swap,KOR-MMR,MMR,Myanmar,KOR,South Korea,24/03/2010,16/07/2014,0,NA,,USD,MMK,0,19.2,19.2,0,CMIM,no
+441,pooled fund,1,,swap,BRN-MMR,MMR,Myanmar,BRN,Brunei,24/03/2010,16/07/2014,1,NA,,USD,MMK,0,0.15,0.15,0,CMIM,no
+442,pooled fund,1,,swap,KHM-MMR,MMR,Myanmar,KHM,Cambodia,24/03/2010,16/07/2014,1,NA,,USD,MMK,0,0.6,0.6,0,CMIM,no
+443,pooled fund,1,,swap,HKG-MMR,MMR,Myanmar,HKG,Hong Kong,24/03/2010,16/07/2014,0,NA,,USD,MMK,0,10.5,10.5,0,CMIM,no
+444,pooled fund,1,,swap,IDN-MMR,MMR,Myanmar,IDN,Indonesia,24/03/2010,16/07/2014,0,NA,,USD,MMK,0,11.925,11.925,0,CMIM,no
+445,pooled fund,1,,swap,LAO-MMR,MMR,Myanmar,LAO,Lao People's Democratic Republic,24/03/2010,16/07/2014,1,NA,,USD,MMK,0,0.15,0.15,0,CMIM,no
+446,pooled fund,1,,swap,MMR-MYS,MMR,Myanmar,MYS,Malaysia,24/03/2010,16/07/2014,1,NA,,USD,MMK,0,11.925,11.925,0,CMIM,no
+447,pooled fund,1,,swap,CHN-MMR,MMR,Myanmar,CHN,China,24/03/2010,16/07/2014,0,NA,,USD,MMK,0,17.1,17.1,0,CMIM,no
+448,pooled fund,1,,swap,MMR-PHL,MMR,Myanmar,PHL,Philippines,24/03/2010,16/07/2014,1,NA,,USD,MMK,0,9.2,9.2,0,CMIM,no
+449,pooled fund,1,,swap,MMR-SGP,MMR,Myanmar,SGP,Singapore,24/03/2010,16/07/2014,1,NA,,USD,MMK,0,11.925,11.925,0,CMIM,no
+450,pooled fund,1,,swap,MMR-THA,MMR,Myanmar,THA,Thailand,24/03/2010,16/07/2014,1,NA,,USD,MMK,0,11.925,11.925,0,CMIM,no
+451,pooled fund,1,,swap,MMR-VNM,MMR,Myanmar,VNM,Vietnam,24/03/2010,16/07/2014,1,NA,,USD,MMK,0,5,5,0,CMIM,no
+452,pooled fund,1,,swap,JPN-MYS,MYS,Malaysia,JPN,Japan,24/03/2010,16/07/2014,1,NA,,USD,MYR,0,19.2,19.2,0,CMIM,no
+453,pooled fund,1,,swap,KOR-MYS,MYS,Malaysia,KOR,South Korea,24/03/2010,16/07/2014,1,NA,,USD,MYR,0,19.2,19.2,0,CMIM,no
+454,pooled fund,1,,swap,BRN-MYS,MYS,Malaysia,BRN,Brunei,24/03/2010,16/07/2014,1,NA,,USD,MYR,0,0.15,0.15,0,CMIM,no
+455,pooled fund,1,,swap,KHM-MYS,MYS,Malaysia,KHM,Cambodia,24/03/2010,16/07/2014,1,NA,,USD,MYR,0,0.6,0.6,0,CMIM,no
+456,pooled fund,1,,swap,HKG-MYS,MYS,Malaysia,HKG,Hong Kong,24/03/2010,16/07/2014,0,NA,,USD,MYR,0,10.5,10.5,0,CMIM,no
+457,pooled fund,1,,swap,IDN-MYS,MYS,Malaysia,IDN,Indonesia,24/03/2010,16/07/2014,1,NA,,USD,MYR,0,11.925,11.925,0,CMIM,no
+458,pooled fund,1,,swap,LAO-MYS,MYS,Malaysia,LAO,Lao People's Democratic Republic,24/03/2010,16/07/2014,1,NA,,USD,MYR,0,0.15,0.15,0,CMIM,no
+459,pooled fund,1,,swap,MMR-MYS,MYS,Malaysia,MMR,Myanmar,24/03/2010,16/07/2014,1,NA,,USD,MYR,0,0.3,0.3,0,CMIM,no
+460,pooled fund,1,,swap,CHN-MYS,MYS,Malaysia,CHN,China,24/03/2010,16/07/2014,1,NA,,USD,MYR,0,17.1,17.1,0,CMIM,no
+461,pooled fund,1,,swap,MYS-PHL,MYS,Malaysia,PHL,Philippines,24/03/2010,16/07/2014,1,NA,,USD,MYR,0,9.2,9.2,0,CMIM,no
+462,pooled fund,1,,swap,MYS-SGP,MYS,Malaysia,SGP,Singapore,24/03/2010,16/07/2014,1,NA,,USD,MYR,0,11.925,11.925,0,CMIM,no
+463,pooled fund,1,,swap,MYS-THA,MYS,Malaysia,THA,Thailand,24/03/2010,16/07/2014,1,NA,,USD,MYR,0,11.925,11.925,0,CMIM,no
+464,pooled fund,1,,swap,MYS-VNM,MYS,Malaysia,VNM,Vietnam,24/03/2010,16/07/2014,1,NA,,USD,MYR,0,5,5,0,CMIM,no
+465,pooled fund,1,,swap,CHN-JPN,CHN,China,JPN,Japan,24/03/2010,16/07/2014,1,NA,,USD,CNY,0,19.2,19.2,0,CMIM,no
+466,pooled fund,1,,swap,CHN-KOR,CHN,China,KOR,South Korea,24/03/2010,16/07/2014,1,NA,,USD,CNY,0,19.2,19.2,0,CMIM,no
+467,pooled fund,1,,swap,BRN-CHN,CHN,China,BRN,Brunei,24/03/2010,16/07/2014,0,NA,,USD,CNY,0,0.15,0.15,0,CMIM,no
+468,pooled fund,1,,swap,CHN-KHM,CHN,China,KHM,Cambodia,24/03/2010,16/07/2014,0,NA,,USD,CNY,0,0.6,0.6,0,CMIM,no
+469,pooled fund,1,,swap,CHN-HKG,CHN,China,HKG,Hong Kong,24/03/2010,16/07/2014,1,NA,,USD,CNY,0,10.5,10.5,0,CMIM,no
+470,pooled fund,1,,swap,CHN-IDN,CHN,China,IDN,Indonesia,24/03/2010,16/07/2014,1,NA,,USD,CNY,0,11.925,11.925,0,CMIM,no
+471,pooled fund,1,,swap,CHN-LAO,CHN,China,LAO,Lao People's Democratic Republic,24/03/2010,16/07/2014,0,NA,,USD,CNY,0,0.15,0.15,0,CMIM,no
+472,pooled fund,1,,swap,CHN-MMR,CHN,China,MMR,Myanmar,24/03/2010,16/07/2014,0,NA,,USD,CNY,0,0.3,0.3,0,CMIM,no
+473,pooled fund,1,,swap,CHN-MYS,CHN,China,MYS,Malaysia,24/03/2010,16/07/2014,1,NA,,USD,CNY,0,11.925,11.925,0,CMIM,no
+474,pooled fund,1,,swap,CHN-PHL,CHN,China,PHL,Philippines,24/03/2010,16/07/2014,1,NA,,USD,CNY,0,9.2,9.2,0,CMIM,no
+475,pooled fund,1,,swap,CHN-SGP,CHN,China,SGP,Singapore,24/03/2010,16/07/2014,0,NA,,USD,CNY,0,11.925,11.925,0,CMIM,no
+476,pooled fund,1,,swap,CHN-THA,CHN,China,THA,Thailand,24/03/2010,16/07/2014,1,NA,,USD,CNY,0,11.925,11.925,0,CMIM,no
+477,pooled fund,1,,swap,CHN-VNM,CHN,China,VNM,Vietnam,24/03/2010,16/07/2014,0,NA,,USD,CNY,0,5,5,0,CMIM,no
+478,pooled fund,1,,swap,JPN-PHL,PHL,Philippines,JPN,Japan,24/03/2010,16/07/2014,1,NA,,USD,PHP,0,19.2,19.2,0,CMIM,no
+479,pooled fund,1,,swap,KOR-PHL,PHL,Philippines,KOR,South Korea,24/03/2010,16/07/2014,1,NA,,USD,PHP,0,19.2,19.2,0,CMIM,no
+480,pooled fund,1,,swap,BRN-PHL,PHL,Philippines,BRN,Brunei,24/03/2010,16/07/2014,1,NA,,USD,PHP,0,0.15,0.15,0,CMIM,no
+481,pooled fund,1,,swap,KHM-PHL,PHL,Philippines,KHM,Cambodia,24/03/2010,16/07/2014,1,NA,,USD,PHP,0,0.6,0.6,0,CMIM,no
+482,pooled fund,1,,swap,HKG-PHL,PHL,Philippines,HKG,Hong Kong,24/03/2010,16/07/2014,0,NA,,USD,PHP,0,10.5,10.5,0,CMIM,no
+483,pooled fund,1,,swap,IDN-PHL,PHL,Philippines,IDN,Indonesia,24/03/2010,16/07/2014,1,NA,,USD,PHP,0,11.925,11.925,0,CMIM,no
+484,pooled fund,1,,swap,LAO-PHL,PHL,Philippines,LAO,Lao People's Democratic Republic,24/03/2010,16/07/2014,1,NA,,USD,PHP,0,0.15,0.15,0,CMIM,no
+485,pooled fund,1,,swap,MMR-PHL,PHL,Philippines,MMR,Myanmar,24/03/2010,16/07/2014,1,NA,,USD,PHP,0,0.3,0.3,0,CMIM,no
+486,pooled fund,1,,swap,MYS-PHL,PHL,Philippines,MYS,Malaysia,24/03/2010,16/07/2014,1,NA,,USD,PHP,0,11.925,11.925,0,CMIM,no
+487,pooled fund,1,,swap,CHN-PHL,PHL,Philippines,CHN,China,24/03/2010,16/07/2014,1,NA,,USD,PHP,0,17.1,17.1,0,CMIM,no
+488,pooled fund,1,,swap,PHL-SGP,PHL,Philippines,SGP,Singapore,24/03/2010,16/07/2014,1,NA,,USD,PHP,0,11.925,11.925,0,CMIM,no
+489,pooled fund,1,,swap,PHL-THA,PHL,Philippines,THA,Thailand,24/03/2010,16/07/2014,1,NA,,USD,PHP,0,11.925,11.925,0,CMIM,no
+490,pooled fund,1,,swap,PHL-VNM,PHL,Philippines,VNM,Vietnam,24/03/2010,16/07/2014,1,NA,,USD,PHP,0,5,5,0,CMIM,no
+491,pooled fund,1,,swap,JPN-SGP,SGP,Singapore,JPN,Japan,24/03/2010,16/07/2014,1,NA,,USD,SGD,0,19.2,19.2,0,CMIM,no
+492,pooled fund,1,,swap,KOR-SGP,SGP,Singapore,KOR,South Korea,24/03/2010,16/07/2014,0,NA,,USD,SGD,0,19.2,19.2,0,CMIM,no
+493,pooled fund,1,,swap,BRN-SGP,SGP,Singapore,BRN,Brunei,24/03/2010,16/07/2014,1,NA,,USD,SGD,0,0.15,0.15,0,CMIM,no
+494,pooled fund,1,,swap,KHM-SGP,SGP,Singapore,KHM,Cambodia,24/03/2010,16/07/2014,1,NA,,USD,SGD,0,0.6,0.6,0,CMIM,no
+495,pooled fund,1,,swap,HKG-SGP,SGP,Singapore,HKG,Hong Kong,24/03/2010,16/07/2014,0,NA,,USD,SGD,0,10.5,10.5,0,CMIM,no
+496,pooled fund,1,,swap,IDN-SGP,SGP,Singapore,IDN,Indonesia,24/03/2010,16/07/2014,1,NA,,USD,SGD,0,11.925,11.925,0,CMIM,no
+497,pooled fund,1,,swap,LAO-SGP,SGP,Singapore,LAO,Lao People's Democratic Republic,24/03/2010,16/07/2014,1,NA,,USD,SGD,0,0.15,0.15,0,CMIM,no
+498,pooled fund,1,,swap,MMR-SGP,SGP,Singapore,MMR,Myanmar,24/03/2010,16/07/2014,1,NA,,USD,SGD,0,0.3,0.3,0,CMIM,no
+499,pooled fund,1,,swap,MYS-SGP,SGP,Singapore,MYS,Malaysia,24/03/2010,16/07/2014,1,NA,,USD,SGD,0,11.925,11.925,0,CMIM,no
+500,pooled fund,1,,swap,CHN-SGP,SGP,Singapore,CHN,China,24/03/2010,16/07/2014,0,NA,,USD,SGD,0,17.1,17.1,0,CMIM,no
+501,pooled fund,1,,swap,PHL-SGP,SGP,Singapore,PHL,Philippines,24/03/2010,16/07/2014,1,NA,,USD,SGD,0,9.2,9.2,0,CMIM,no
+502,pooled fund,1,,swap,SGP-THA,SGP,Singapore,THA,Thailand,24/03/2010,16/07/2014,1,NA,,USD,SGD,0,11.925,11.925,0,CMIM,no
+503,pooled fund,1,,swap,SGP-VNM,SGP,Singapore,VNM,Vietnam,24/03/2010,16/07/2014,1,NA,,USD,SGD,0,5,5,0,CMIM,no
+504,pooled fund,1,,swap,JPN-THA,THA,Thailand,JPN,Japan,24/03/2010,16/07/2014,1,NA,,USD,THB,0,19.2,19.2,0,CMIM,no
+505,pooled fund,1,,swap,KOR-THA,THA,Thailand,KOR,South Korea,24/03/2010,16/07/2014,1,NA,,USD,THB,0,19.2,19.2,0,CMIM,no
+506,pooled fund,1,,swap,BRN-THA,THA,Thailand,BRN,Brunei,24/03/2010,16/07/2014,1,NA,,USD,THB,0,0.15,0.15,0,CMIM,no
+507,pooled fund,1,,swap,KHM-THA,THA,Thailand,KHM,Cambodia,24/03/2010,16/07/2014,1,NA,,USD,THB,0,0.6,0.6,0,CMIM,no
+508,pooled fund,1,,swap,HKG-THA,THA,Thailand,HKG,Hong Kong,24/03/2010,16/07/2014,0,NA,,USD,THB,0,10.5,10.5,0,CMIM,no
+509,pooled fund,1,,swap,IDN-THA,THA,Thailand,IDN,Indonesia,24/03/2010,16/07/2014,1,NA,,USD,THB,0,11.925,11.925,0,CMIM,no
+510,pooled fund,1,,swap,LAO-THA,THA,Thailand,LAO,Lao People's Democratic Republic,24/03/2010,16/07/2014,1,NA,,USD,THB,0,0.15,0.15,0,CMIM,no
+511,pooled fund,1,,swap,MMR-THA,THA,Thailand,MMR,Myanmar,24/03/2010,16/07/2014,1,NA,,USD,THB,0,0.3,0.3,0,CMIM,no
+512,pooled fund,1,,swap,MYS-THA,THA,Thailand,MYS,Malaysia,24/03/2010,16/07/2014,1,NA,,USD,THB,0,11.925,11.925,0,CMIM,no
+513,pooled fund,1,,swap,CHN-THA,THA,Thailand,CHN,China,24/03/2010,16/07/2014,1,NA,,USD,THB,0,17.1,17.1,0,CMIM,no
+514,pooled fund,1,,swap,PHL-THA,THA,Thailand,PHL,Philippines,24/03/2010,16/07/2014,1,NA,,USD,THB,0,9.2,9.2,0,CMIM,no
+515,pooled fund,1,,swap,SGP-THA,THA,Thailand,SGP,Singapore,24/03/2010,16/07/2014,1,NA,,USD,THB,0,11.925,11.925,0,CMIM,no
+516,pooled fund,1,,swap,THA-VNM,THA,Thailand,VNM,Vietnam,24/03/2010,16/07/2014,1,NA,,USD,THB,0,5,5,0,CMIM,no
+517,pooled fund,1,,swap,JPN-VNM,VNM,Vietnam,JPN,Japan,24/03/2010,16/07/2014,0,NA,,USD,VND,0,19.2,19.2,0,CMIM,no
+518,pooled fund,1,,swap,KOR-VNM,VNM,Vietnam,KOR,South Korea,24/03/2010,16/07/2014,0,NA,,USD,VND,0,19.2,19.2,0,CMIM,no
+519,pooled fund,1,,swap,BRN-VNM,VNM,Vietnam,BRN,Brunei,24/03/2010,16/07/2014,1,NA,,USD,VND,0,0.15,0.15,0,CMIM,no
+520,pooled fund,1,,swap,KHM-VNM,VNM,Vietnam,KHM,Cambodia,24/03/2010,16/07/2014,1,NA,,USD,VND,0,0.6,0.6,0,CMIM,no
+521,pooled fund,1,,swap,HKG-VNM,VNM,Vietnam,HKG,Hong Kong,24/03/2010,16/07/2014,0,NA,,USD,VND,0,10.5,10.5,0,CMIM,no
+522,pooled fund,1,,swap,IDN-VNM,VNM,Vietnam,IDN,Indonesia,24/03/2010,16/07/2014,1,NA,,USD,VND,0,11.925,11.925,0,CMIM,no
+523,pooled fund,1,,swap,LAO-VNM,VNM,Vietnam,LAO,Lao People's Democratic Republic,24/03/2010,16/07/2014,1,NA,,USD,VND,0,0.15,0.15,0,CMIM,no
+524,pooled fund,1,,swap,MMR-VNM,VNM,Vietnam,MMR,Myanmar,24/03/2010,16/07/2014,1,NA,,USD,VND,0,0.3,0.3,0,CMIM,no
+525,pooled fund,1,,swap,MYS-VNM,VNM,Vietnam,MYS,Malaysia,24/03/2010,16/07/2014,1,NA,,USD,VND,0,11.925,11.925,0,CMIM,no
+526,pooled fund,1,,swap,CHN-VNM,VNM,Vietnam,CHN,China,24/03/2010,16/07/2014,0,NA,,USD,VND,0,17.1,17.1,0,CMIM,no
+527,pooled fund,1,,swap,PHL-VNM,VNM,Vietnam,PHL,Philippines,24/03/2010,16/07/2014,1,NA,,USD,VND,0,9.2,9.2,0,CMIM,no
+528,pooled fund,1,,swap,SGP-VNM,VNM,Vietnam,SGP,Singapore,24/03/2010,16/07/2014,1,NA,,USD,VND,0,11.925,11.925,0,CMIM,no
+529,pooled fund,1,,swap,THA-VNM,VNM,Vietnam,THA,Thailand,24/03/2010,16/07/2014,1,NA,,USD,VND,0,11.925,11.925,0,CMIM,no
+530,reciprocal,0,535,swap,GBR-USA,USA,USA,GBR,UK,25/06/2009,01/02/2010,1,reactivate,338,USD,USD,1,NA,NA,1,,no
+531,reciprocal,0,537,swap,EA-USA,USA,USA,EA,EA,25/06/2009,01/02/2010,1,renew,339,USD,USD,1,NA,NA,1,,no
+532,reciprocal,0,538,swap,CHE-USA,USA,USA,CHE,Switzerland,25/06/2009,01/02/2010,1,renew,340,USD,USD,1,NA,NA,1,,no
+533,reciprocal,0,536,swap,JPN-USA,USA,USA,JPN,Japan,25/06/2009,01/02/2010,1,renew,341,USD,USD,1,NA,NA,1,,no
+534,unidirectional,0,,swap,CAN-USA,USA,USA,CAN,Canada,25/06/2009,01/02/2010,1,renew,342,USD,USD,1,30,30,0,,no
+535,reciprocal,0,530,swap,GBR-USA,GBR,UK,USA,USA,25/06/2009,01/02/2010,1,reactivate,343,GBP,GBP,1,30,NA,0,,no
+536,reciprocal,0,533,swap,JPN-USA,JPN,Japan,USA,USA,25/06/2009,01/02/2010,1,renew,344,JPY,JPY,1,10000,NA,0,,no
+537,reciprocal,0,531,swap,EA-USA,EA,EA,USA,USA,25/06/2009,01/02/2010,1,renew,346,EUR,EUR,1,80,NA,0,,no
+538,reciprocal,0,532,swap,CHE-USA,CHE,Switzerland,USA,USA,25/06/2009,01/02/2010,1,renew,347,CHF,CHF,1,40,NA,0,,no
+539,unidirectional,0,,swap,CAN-USA,USA,USA,CAN,Canada,09/05/2010,30/01/2011,1,renew,534,USD,USD,1,30,30,0,,no
+540,unidirectional,0,,swap,GBR-USA,USA,USA,GBR,UK,09/05/2010,30/01/2011,1,reactivate,338,USD,USD,1,NA,NA,1,,no
+541,unidirectional,0,,swap,EA-USA,USA,USA,EA,EA,09/05/2010,30/01/2011,1,reactivate,339,USD,USD,1,NA,NA,1,,no
+542,unidirectional,0,,swap,CHE-USA,USA,USA,CHE,Switzerland,09/05/2010,30/01/2011,1,reactivate,340,USD,USD,1,NA,NA,1,,no
+543,unidirectional,0,,swap,JPN-USA,USA,USA,JPN,Japan,10/05/2010,30/01/2011,1,reactivate,341,USD,USD,1,NA,NA,1,,no
+544,reciprocal,0,545,swap,CHN-ISL,ISL,Iceland,CHN,China,09/06/2010,09/04/2013,0,NA,,ISK,ISK,1,66,NA,0,,no
+545,reciprocal,0,544,swap,CHN-ISL,CHN,China,ISL,Iceland,09/06/2010,09/04/2013,0,NA,,CNY,CNY,1,3.5,NA,0,,no
+546,reciprocal,0,547,swap,JPN-KOR,JPN,Japan,KOR,South Korea,31/03/2009,30/10/2009,1,supplement,318,JPY,JPY,1,NA,17,0,CMI_BSA,no
+547,reciprocal,0,546,swap,JPN-KOR,KOR,South Korea,JPN,Japan,31/03/2009,30/10/2009,1,supplement,319,KRW,KRW,1,NA,17,0,CMI_BSA,no
+548,reciprocal,0,549,swap,JPN-KOR,JPN,Japan,KOR,South Korea,16/10/2009,01/02/2010,1,supplement,546,JPY,JPY,1,NA,17,0,CMI_BSA,no
+549,reciprocal,0,548,swap,JPN-KOR,KOR,South Korea,JPN,Japan,16/10/2009,01/02/2010,1,supplement,547,KRW,KRW,1,NA,17,0,CMI_BSA,no
+550,reciprocal,0,551,swap,JPN-KOR,JPN,Japan,KOR,South Korea,19/01/2010,30/04/2010,1,supplement,548,JPY,JPY,1,NA,17,0,CMI_BSA,no
+551,reciprocal,0,550,swap,JPN-KOR,KOR,South Korea,JPN,Japan,19/01/2010,30/04/2010,1,supplement,549,KRW,KRW,1,NA,17,0,CMI_BSA,no
+552,reciprocal,0,553,swap,CHN-SGP,CHN,China,SGP,Singapore,23/07/2010,23/07/2013,1,NA,,CNY,CNY,1,150,NA,0,,no
+553,reciprocal,0,552,swap,CHN-SGP,SGP,Singapore,CHN,China,23/07/2010,23/07/2013,1,NA,,SGD,SGD,1,30,NA,0,,no
+554,unidirectional,0,,swap,EA-GBR,GBR,UK,EA,EA,17/12/2010,30/09/2011,0,NA,,GBP,GBP,1,10,NA,0,,no
+555,unidirectional,0,,swap,CAN-USA,USA,USA,CAN,Canada,21/12/2010,01/08/2011,1,renew,539,USD,USD,1,30,30,0,,no
+556,unidirectional,0,,swap,GBR-USA,USA,USA,GBR,UK,21/12/2010,01/08/2011,1,renew,540,USD,USD,1,NA,NA,1,,no
+557,unidirectional,0,,swap,EA-USA,USA,USA,EA,EA,21/12/2010,01/08/2011,1,renew,541,USD,USD,1,NA,NA,1,,no
+558,unidirectional,0,,swap,CHE-USA,USA,USA,CHE,Switzerland,21/12/2010,01/08/2011,1,renew,542,USD,USD,1,NA,NA,1,,no
+559,unidirectional,0,,swap,JPN-USA,USA,USA,JPN,Japan,21/12/2010,01/08/2011,1,renew,543,USD,USD,1,NA,NA,1,,no
+560,unidirectional,0,,swap,CAN-USA,USA,USA,CAN,Canada,29/06/2011,01/08/2012,1,renew,555,USD,USD,1,30,30,0,,no
+561,unidirectional,0,,swap,GBR-USA,USA,USA,GBR,UK,29/06/2011,01/08/2012,1,renew,556,USD,USD,1,NA,NA,1,,no
+562,unidirectional,0,,swap,EA-USA,USA,USA,EA,EA,29/06/2011,01/08/2012,1,renew,557,USD,USD,1,NA,NA,1,,no
+563,unidirectional,0,,swap,CHE-USA,USA,USA,CHE,Switzerland,29/06/2011,01/08/2012,1,renew,558,USD,USD,1,NA,NA,1,,no
+564,unidirectional,0,,swap,JPN-USA,USA,USA,JPN,Japan,29/06/2011,01/08/2012,1,renew,559,USD,USD,1,NA,NA,1,,no
+565,reciprocal,0,589,swap,CAN-USA,USA,USA,CAN,Canada,30/11/2011,01/02/2013,1,NA,,USD,USD,1,NA,NA,1,,no
+566,reciprocal,0,594,swap,GBR-USA,USA,USA,GBR,UK,30/11/2011,01/02/2013,1,reactivate,530,USD,USD,1,NA,NA,1,,no
+567,reciprocal,0,599,swap,JPN-USA,USA,USA,JPN,Japan,30/11/2011,01/02/2013,1,reactivate,533,USD,USD,1,NA,NA,1,,no
+568,reciprocal,0,604,swap,EA-USA,USA,USA,EA,EA,30/11/2011,01/02/2013,1,reactivate,531,USD,USD,1,NA,NA,1,,no
+569,reciprocal,0,610,swap,CHE-USA,USA,USA,CHE,Switzerland,30/11/2011,01/02/2013,1,reactivate,532,USD,USD,1,NA,NA,1,,no
+570,reciprocal,0,571,swap,CHN-NZL,CHN,China,NZL,New Zealand,18/04/2011,18/04/2014,0,NA,,CNY,CNY,1,25,NA,0,,no
+571,reciprocal,0,570,swap,CHN-NZL,NZL,New Zealand,CHN,China,18/04/2011,18/04/2014,0,NA,,NZD,NZD,1,5,NA,0,,no
+572,reciprocal,0,573,swap,CHN-UZB,CHN,China,UZB,Uzbekistan,19/04/2011,19/04/2014,0,NA,,CNY,CNY,1,0.7,NA,0,,no
+573,reciprocal,0,572,swap,CHN-UZB,UZB,Uzbekistan,CHN,China,19/04/2011,19/04/2014,0,NA,,UZS,UZS,1,167,NA,0,,no
+574,reciprocal,0,575,swap,CHN-MNG,MNG,Mongolia,CHN,China,06/05/2011,06/05/2014,0,NA,,MNT,MNT,1,1000,NA,0,,no
+575,reciprocal,0,574,swap,CHN-MNG,CHN,China,MNG,Mongolia,06/05/2011,06/05/2014,0,NA,,CNY,CNY,1,5,NA,0,,no
+576,reciprocal,0,577,swap,CHN-KAZ,KAZ,Kazakhstan,CHN,China,13/06/2011,13/06/2014,0,NA,,KZT,KZT,1,150,NA,0,,no
+577,reciprocal,0,576,swap,CHN-KAZ,CHN,China,KAZ,Kazakhstan,13/06/2011,13/06/2014,0,NA,,CNY,CNY,1,7,NA,0,,no
+578,reciprocal,0,579,swap,JPN-KOR,JPN,Japan,KOR,South Korea,19/10/2011,31/10/2012,1,supplement,550,JPY,JPY,1,NA,27,0,CMI_BSA,no
+579,reciprocal,0,578,swap,JPN-KOR,KOR,South Korea,JPN,Japan,19/10/2011,31/10/2012,1,supplement,551,KRW,KRW,1,NA,27,0,CMI_BSA,no
+580,reciprocal,0,581,swap,CHN-KOR,KOR,South Korea,CHN,China,26/10/2011,26/10/2014,1,renew,320,KRW,KRW,1,64000,NA,0,,no
+581,reciprocal,0,580,swap,CHN-KOR,CHN,China,KOR,South Korea,26/10/2011,26/10/2014,1,renew,321,CNY,CNY,1,360,NA,0,,no
+582,reciprocal,0,583,swap,PAK-TUR,TUR,Turkey,PAK,Pakistan,01/11/2011,01/11/2014,0,NA,,TRY,TRY,1,NA,1,0,,no
+583,reciprocal,0,582,swap,PAK-TUR,PAK,Pakistan,TUR,Turkey,01/11/2011,01/11/2014,0,NA,,PKR,PKR,1,NA,1,0,,no
+584,reciprocal,0,585,swap,CHN-HKG,HKG,Hong Kong,CHN,China,22/11/2011,22/11/2014,1,renew,324,HKD,HKD,1,490,NA,0,,no
+585,reciprocal,0,584,swap,CHN-HKG,CHN,China,HKG,Hong Kong,22/11/2011,22/11/2014,1,renew,325,CNY,CNY,1,400,NA,0,,no
+586,reciprocal,0,591,swap,CAN-GBR,CAN,Canada,GBR,UK,30/11/2011,01/02/2013,0,NA,,CAD,CAD,1,NA,NA,1,,no
+587,reciprocal,0,596,swap,CAN-JPN,CAN,Canada,JPN,Japan,30/11/2011,01/02/2013,0,NA,,CAD,CAD,1,NA,NA,1,,no
+588,reciprocal,0,601,swap,CAN-EA,CAN,Canada,EA,EA,30/11/2011,01/02/2013,0,NA,,CAD,CAD,1,NA,NA,1,,no
+589,reciprocal,0,565,swap,CAN-USA,CAN,Canada,USA,USA,30/11/2011,01/02/2013,1,NA,,CAD,CAD,1,NA,NA,0,,no
+590,reciprocal,0,606,swap,CAN-CHE,CAN,Canada,CHE,Switzerland,30/11/2011,01/02/2013,0,NA,,CAD,CAD,1,NA,NA,1,,no
+591,reciprocal,0,586,swap,CAN-GBR,GBR,UK,CAN,Canada,30/11/2011,01/02/2013,0,NA,,GBP,GBP,1,NA,NA,1,,no
+592,reciprocal,0,597,swap,GBR-JPN,GBR,UK,JPN,Japan,30/11/2011,01/02/2013,0,NA,,GBP,GBP,1,NA,NA,1,,no
+593,reciprocal,0,602,swap,EA-GBR,GBR,UK,EA,EA,30/11/2011,01/02/2013,1,NA,,GBP,GBP,1,NA,NA,1,,no
+594,reciprocal,0,566,swap,GBR-USA,GBR,UK,USA,USA,30/11/2011,01/02/2013,1,reactivate,535,GBP,GBP,1,NA,NA,1,,no
+595,reciprocal,0,607,swap,CHE-GBR,GBR,UK,CHE,Switzerland,30/11/2011,01/02/2013,0,NA,,GBP,GBP,1,NA,NA,1,,no
+596,reciprocal,0,587,swap,CAN-JPN,JPN,Japan,CAN,Canada,30/11/2011,01/02/2013,0,NA,,JPY,JPY,1,NA,NA,1,,no
+597,reciprocal,0,592,swap,GBR-JPN,JPN,Japan,GBR,UK,30/11/2011,01/02/2013,0,NA,,JPY,JPY,1,NA,NA,1,,no
+598,reciprocal,0,603,swap,EA-JPN,JPN,Japan,EA,EA,30/11/2011,01/02/2013,0,NA,,JPY,JPY,1,NA,NA,1,,no
+599,reciprocal,0,567,swap,JPN-USA,JPN,Japan,USA,USA,30/11/2011,01/02/2013,1,reactivate,536,JPY,JPY,1,NA,NA,1,,no
+600,reciprocal,0,608,swap,CHE-JPN,JPN,Japan,CHE,Switzerland,30/11/2011,01/02/2013,0,NA,,JPY,JPY,1,NA,NA,1,,no
+601,reciprocal,0,588,swap,CAN-EA,EA,EA,CAN,Canada,30/11/2011,01/02/2013,0,NA,,EUR,EUR,1,NA,NA,1,,no
+602,reciprocal,0,593,swap,EA-GBR,EA,EA,GBR,UK,30/11/2011,01/02/2013,1,NA,,EUR,EUR,1,NA,NA,1,,no
+603,reciprocal,0,598,swap,EA-JPN,EA,EA,JPN,Japan,30/11/2011,01/02/2013,0,NA,,EUR,EUR,1,NA,NA,1,,no
+604,reciprocal,0,568,swap,EA-USA,EA,EA,USA,USA,30/11/2011,01/02/2013,1,reactivate,537,EUR,EUR,1,NA,NA,1,,no
+605,reciprocal,0,609,swap,CHE-EA,EA,EA,CHE,Switzerland,30/11/2011,01/02/2013,1,NA,,EUR,EUR,1,NA,NA,1,,no
+606,reciprocal,0,590,swap,CAN-CHE,CHE,Switzerland,CAN,Canada,30/11/2011,01/02/2013,0,NA,,CHF,CHF,1,NA,NA,1,,no
+607,reciprocal,0,595,swap,CHE-GBR,CHE,Switzerland,GBR,UK,30/11/2011,01/02/2013,0,NA,,CHF,CHF,1,NA,NA,1,,no
+608,reciprocal,0,600,swap,CHE-JPN,CHE,Switzerland,JPN,Japan,30/11/2011,01/02/2013,0,NA,,CHF,CHF,1,NA,NA,1,,no
+609,reciprocal,0,605,swap,CHE-EA,CHE,Switzerland,EA,EA,30/11/2011,01/02/2013,1,NA,,CHF,CHF,1,NA,NA,1,,no
+610,reciprocal,0,569,swap,CHE-USA,CHE,Switzerland,USA,USA,30/11/2011,01/02/2013,1,reactivate,538,CHF,CHF,1,NA,NA,1,,no
+611,reciprocal,0,612,swap,CHN-THA,CHN,China,THA,Thailand,22/12/2011,21/12/2014,1,NA,,CNY,CNY,1,70,NA,0,,no
+612,reciprocal,0,611,swap,CHN-THA,THA,Thailand,CHN,China,22/12/2011,21/12/2014,1,NA,,THB,THB,1,320,NA,0,,no
+613,reciprocal,0,614,swap,CHN-PAK,PAK,Pakistan,CHN,China,23/12/2011,23/12/2014,0,NA,,PKR,PKR,1,140,NA,0,,no
+614,reciprocal,0,613,swap,CHN-PAK,CHN,China,PAK,Pakistan,23/12/2011,23/12/2014,0,NA,,CNY,CNY,1,10,NA,0,,no
+615,reciprocal,0,616,swap,ARE-CHN,CHN,China,ARE,United Arab Emirates,17/01/2012,17/01/2015,0,NA,,CNY,CNY,1,35,NA,0,,no
+616,reciprocal,0,615,swap,ARE-CHN,ARE,United Arab Emirates,CHN,China,17/01/2012,17/01/2015,0,NA,,AED,AED,1,20,NA,0,,no
+617,reciprocal,0,618,swap,CHN-MYS,MYS,Malaysia,CHN,China,08/02/2012,07/02/2015,1,renew,328,MYR,MYR,1,90,NA,0,,no
+618,reciprocal,0,617,swap,CHN-MYS,CHN,China,MYS,Malaysia,08/02/2012,07/02/2015,1,renew,334,CNY,CNY,1,180,NA,0,,no
+619,reciprocal,0,620,swap,CHN-TUR,TUR,Turkey,CHN,China,21/02/2012,21/02/2015,0,NA,,TRY,TRY,1,3,NA,0,,no
+620,reciprocal,0,619,swap,CHN-TUR,CHN,China,TUR,Turkey,21/02/2012,21/02/2015,0,NA,,CNY,CNY,1,10,NA,0,,no
+621,reciprocal,0,622,swap,CHN-MNG,MNG,Mongolia,CHN,China,20/03/2012,06/05/2014,1,supplement,,MNT,MNT,1,1000,NA,0,,yes
+622,reciprocal,0,621,swap,CHN-MNG,CHN,China,MNG,Mongolia,20/03/2012,06/05/2014,1,supplement,,CNY,CNY,1,5,NA,0,,yes
+623,reciprocal,0,624,swap,AUS-CHN,CHN,China,AUS,Australia,22/03/2012,22/03/2015,0,NA,,CNY,CNY,1,200,NA,0,,no
+624,reciprocal,0,623,swap,AUS-CHN,AUS,Australia,CHN,China,22/03/2012,22/03/2015,0,NA,,AUD,AUD,1,30,NA,0,,no
+625,reciprocal,0,626,swap,CHN-UKR,CHN,China,UKR,Ukraine,26/06/2012,26/06/2015,0,NA,,CNY,CNY,1,15,NA,0,,no
+626,reciprocal,0,625,swap,CHN-UKR,UKR,Ukraine,CHN,China,26/06/2012,26/06/2015,0,NA,,UAH,UAH,1,19,NA,0,,no
+627,reciprocal,0,632,swap,CAN-USA,USA,USA,CAN,Canada,13/12/2012,01/02/2014,1,renew,565,USD,USD,1,NA,NA,1,,no
+628,reciprocal,0,633,swap,GBR-USA,USA,USA,GBR,UK,13/12/2012,01/02/2014,1,renew,566,USD,USD,1,NA,NA,1,,no
+629,reciprocal,0,634,swap,JPN-USA,USA,USA,JPN,Japan,13/12/2012,01/02/2014,1,renew,567,USD,USD,1,NA,NA,1,,no
+630,reciprocal,0,635,swap,EA-USA,USA,USA,EA,EA,13/12/2012,01/02/2014,1,renew,568,USD,USD,1,NA,NA,1,,no
+631,reciprocal,0,636,swap,CHE-USA,USA,USA,CHE,Switzerland,13/12/2012,01/02/2014,1,renew,569,USD,USD,1,NA,NA,1,,no
+632,reciprocal,0,627,swap,CAN-USA,CAN,Canada,USA,USA,13/12/2012,01/02/2014,1,renew,589,CAD,CAD,1,NA,NA,1,,no
+633,reciprocal,0,628,swap,GBR-USA,GBR,UK,USA,USA,13/12/2012,01/02/2014,1,renew,594,GBP,GBP,1,NA,NA,1,,no
+634,reciprocal,0,629,swap,JPN-USA,JPN,Japan,USA,USA,13/12/2012,01/02/2014,1,renew,599,JPY,JPY,1,NA,NA,1,,no
+635,reciprocal,0,630,swap,EA-USA,EA,EA,USA,USA,13/12/2012,01/02/2014,1,renew,604,EUR,EUR,1,NA,NA,1,,no
+636,reciprocal,0,631,swap,CHE-USA,CHE,Switzerland,USA,USA,13/12/2012,01/02/2014,1,renew,610,CHF,CHF,1,NA,NA,1,,no
+637,reciprocal,0,638,swap,IND-JPN,JPN,Japan,IND,India,04/12/2012,04/12/2015,1,reactivate,272,USD,JPY,0,15,15,0,,no
+638,reciprocal,0,637,swap,IND-JPN,IND,India,JPN,Japan,04/12/2012,04/12/2015,1,reactivate,273,USD,INR,0,15,15,0,,no
+639,reciprocal,0,640,swap,CHN-SGP,CHN,China,SGP,Singapore,07/03/2013,07/03/2016,1,renew,552,CNY,CNY,1,300,NA,0,,no
+640,reciprocal,0,639,swap,CHN-SGP,SGP,Singapore,CHN,China,07/03/2013,07/03/2016,1,renew,553,SGD,SGD,1,60,NA,0,,no
+641,reciprocal,0,642,swap,BRA-CHN,BRA,Brazil,CHN,China,26/03/2013,26/03/2016,0,NA,,BRL,BRL,1,60,NA,0,,no
+642,reciprocal,0,641,swap,BRA-CHN,CHN,China,BRA,Brazil,26/03/2013,26/03/2016,0,NA,,CNY,CNY,1,190,NA,0,,no
+643,reciprocal,0,644,swap,CHN-GBR,GBR,UK,CHN,China,22/06/2013,22/06/2015,0,NA,,GBP,GBP,1,20,NA,0,,no
+644,reciprocal,0,643,swap,CHN-GBR,CHN,China,GBR,UK,22/06/2013,22/06/2015,0,NA,,CNY,CNY,1,200,NA,0,,no
+645,reciprocal,0,646,swap,CHN-HUN,HUN,Hungary,CHN,China,09/09/2013,09/09/2016,0,NA,,HUF,HUF,1,375,NA,0,,no
+646,reciprocal,0,645,swap,CHN-HUN,CHN,China,HUN,Hungary,09/09/2013,09/09/2016,0,NA,,CNY,CNY,1,10,NA,0,,no
+647,reciprocal,0,648,swap,ALB-CHN,ALB,Albania,CHN,China,12/09/2013,12/09/2016,0,NA,,ALL,ALL,1,35.8,NA,0,,no
+648,reciprocal,0,647,swap,ALB-CHN,CHN,China,ALB,Albania,12/09/2013,12/09/2016,0,NA,,CNY,CNY,1,2,NA,0,,no
+649,reciprocal,0,650,swap,CHN-ISL,ISL,Iceland,CHN,China,30/09/2013,14/10/2016,1,reactivate,544,ISK,ISK,1,66,NA,0,,no
+650,reciprocal,0,649,swap,CHN-ISL,CHN,China,ISL,Iceland,30/09/2013,14/10/2016,1,reactivate,545,CNY,CNY,1,3.5,NA,0,,no
+651,reciprocal,0,652,swap,CHN-IDN,IDN,Indonesia,CHN,China,01/10/2013,01/10/2016,1,reactivate,332,IDR,IDR,1,175000,NA,0,,no
+652,reciprocal,0,651,swap,CHN-IDN,CHN,China,IDN,Indonesia,01/10/2013,01/10/2016,1,reactivate,333,CNY,CNY,1,100,NA,0,,no
+653,reciprocal,0,654,swap,CHN-EA,EA,EA,CHN,China,10/10/2013,10/10/2016,0,NA,,EUR,EUR,1,45,NA,0,,no
+654,reciprocal,0,653,swap,CHN-EA,CHN,China,EA,EA,10/10/2013,10/10/2016,0,NA,,CNY,CNY,1,350,NA,0,,no
+655,reciprocal,0,656,swap,IDN-KOR,KOR,South Korea,IDN,Indonesia,06/03/2014,06/03/2017,1,reactivate,258,KRW,KRW,1,10700,NA,0,,no
+656,reciprocal,0,655,swap,IDN-KOR,IDN,Indonesia,KOR,South Korea,06/03/2014,06/03/2017,1,reactivate,259,IDR,IDR,1,115000,NA,0,,no
+657,reciprocal,0,658,swap,ARE-KOR,KOR,South Korea,ARE,United Arab Emirates,13/10/2013,13/10/2016,0,NA,,KRW,KRW,1,5800,NA,0,,no
+658,reciprocal,0,657,swap,ARE-KOR,ARE,United Arab Emirates,KOR,South Korea,13/10/2013,13/10/2016,0,NA,,AED,AED,1,20,NA,0,,no
+659,reciprocal,0,660,swap,KOR-MYS,KOR,South Korea,MYS,Malaysia,20/10/2013,20/10/2016,1,reactivate,239,KRW,KRW,1,5000,NA,0,,no
+660,reciprocal,0,659,swap,KOR-MYS,MYS,Malaysia,KOR,South Korea,20/10/2013,20/10/2016,1,reactivate,240,MYR,MYR,1,15,NA,0,,no
+661,reciprocal,0,666,swap,CAN-GBR,CAN,Canada,GBR,UK,31/10/2013,31/12/9999,1,renew,1500,CAD,CAD,1,NA,NA,1,,no
+662,reciprocal,0,671,swap,CAN-JPN,CAN,Canada,JPN,Japan,31/10/2013,31/12/9999,1,renew,1501,CAD,CAD,1,NA,NA,1,,no
+663,reciprocal,0,676,swap,CAN-EA,CAN,Canada,EA,EA,31/10/2013,31/12/9999,1,renew,1502,CAD,CAD,1,NA,NA,1,,no
+664,reciprocal,0,681,swap,CAN-USA,CAN,Canada,USA,USA,31/10/2013,31/12/9999,1,renew,632,CAD,CAD,1,NA,NA,1,,no
+665,reciprocal,0,686,swap,CAN-CHE,CAN,Canada,CHE,Switzerland,31/10/2013,31/12/9999,1,renew,1503,CAD,CAD,1,NA,NA,1,,no
+666,reciprocal,0,661,swap,CAN-GBR,GBR,UK,CAN,Canada,31/10/2013,31/12/9999,1,renew,1504,GBP,GBP,1,NA,NA,1,,no
+667,reciprocal,0,672,swap,GBR-JPN,GBR,UK,JPN,Japan,31/10/2013,31/12/9999,1,renew,1505,GBP,GBP,1,NA,NA,1,,no
+668,reciprocal,0,677,swap,EA-GBR,GBR,UK,EA,EA,31/10/2013,31/12/9999,1,renew,1506,GBP,GBP,1,NA,NA,1,,no
+669,reciprocal,0,682,swap,GBR-USA,GBR,UK,USA,USA,31/10/2013,31/12/9999,1,renew,633,GBP,GBP,1,NA,NA,1,,no
+670,reciprocal,0,687,swap,CHE-GBR,GBR,UK,CHE,Switzerland,31/10/2013,31/12/9999,1,renew,1507,GBP,GBP,1,NA,NA,1,,no
+671,reciprocal,0,662,swap,CAN-JPN,JPN,Japan,CAN,Canada,31/10/2013,31/12/9999,1,renew,1508,JPY,JPY,1,NA,NA,1,,no
+672,reciprocal,0,667,swap,GBR-JPN,JPN,Japan,GBR,UK,31/10/2013,31/12/9999,1,renew,1509,JPY,JPY,1,NA,NA,1,,no
+673,reciprocal,0,678,swap,EA-JPN,JPN,Japan,EA,EA,31/10/2013,31/12/9999,1,renew,1510,JPY,JPY,1,NA,NA,1,,no
+674,reciprocal,0,683,swap,JPN-USA,JPN,Japan,USA,USA,31/10/2013,31/12/9999,1,renew,634,JPY,JPY,1,NA,NA,1,,no
+675,reciprocal,0,688,swap,CHE-JPN,JPN,Japan,CHE,Switzerland,31/10/2013,31/12/9999,1,renew,1511,JPY,JPY,1,NA,NA,1,,no
+676,reciprocal,0,663,swap,CAN-EA,EA,EA,CAN,Canada,31/10/2013,31/12/9999,1,renew,1512,EUR,EUR,1,NA,NA,1,,no
+677,reciprocal,0,668,swap,EA-GBR,EA,EA,GBR,UK,31/10/2013,31/12/9999,1,renew,1513,EUR,EUR,1,NA,NA,1,,no
+678,reciprocal,0,673,swap,EA-JPN,EA,EA,JPN,Japan,31/10/2013,31/12/9999,1,renew,1514,EUR,EUR,1,NA,NA,1,,no
+679,reciprocal,0,684,swap,EA-USA,EA,EA,USA,USA,31/10/2013,31/12/9999,1,renew,635,EUR,EUR,1,NA,NA,1,,no
+680,reciprocal,0,689,swap,CHE-EA,EA,EA,CHE,Switzerland,31/10/2013,31/12/9999,1,renew,1515,EUR,EUR,1,NA,NA,1,,no
+681,reciprocal,0,664,swap,CAN-USA,USA,USA,CAN,Canada,31/10/2013,31/12/9999,1,renew,627,USD,USD,1,NA,NA,1,,no
+682,reciprocal,0,669,swap,GBR-USA,USA,USA,GBR,UK,31/10/2013,31/12/9999,1,renew,628,USD,USD,1,NA,NA,1,,no
+683,reciprocal,0,674,swap,JPN-USA,USA,USA,JPN,Japan,31/10/2013,31/12/9999,1,renew,629,USD,USD,1,NA,NA,1,,no
+684,reciprocal,0,679,swap,EA-USA,USA,USA,EA,EA,31/10/2013,31/12/9999,1,renew,630,USD,USD,1,NA,NA,1,,no
+685,reciprocal,0,690,swap,CHE-USA,USA,USA,CHE,Switzerland,31/10/2013,31/12/9999,1,renew,631,USD,USD,1,NA,NA,1,,no
+686,reciprocal,0,665,swap,CAN-CHE,CHE,Switzerland,CAN,Canada,31/10/2013,31/12/9999,1,renew,1516,CHF,CHF,1,NA,NA,1,,no
+687,reciprocal,0,670,swap,CHE-GBR,CHE,Switzerland,GBR,UK,31/10/2013,31/12/9999,1,renew,1517,CHF,CHF,1,NA,NA,1,,no
+688,reciprocal,0,675,swap,CHE-JPN,CHE,Switzerland,JPN,Japan,31/10/2013,31/12/9999,1,renew,1518,CHF,CHF,1,NA,NA,1,,no
+689,reciprocal,0,680,swap,CHE-EA,CHE,Switzerland,EA,EA,31/10/2013,31/12/9999,1,renew,1519,CHF,CHF,1,NA,NA,1,,no
+690,reciprocal,0,685,swap,CHE-USA,CHE,Switzerland,USA,USA,31/10/2013,31/12/9999,1,renew,636,CHF,CHF,1,NA,NA,1,,no
+691,unidirectional,0,,swap,IDN-JPN,JPN,Japan,IDN,Indonesia,13/12/2013,13/12/2016,1,reactivate,345,USD,JPY,0,22.76,22.76,0,CMI_BSA,yes
+692,reciprocal,0,693,swap,IND-JPN,JPN,Japan,IND,India,10/01/2014,04/12/2015,1,renew,637,USD,JPY,0,50,50,0,,no
+693,reciprocal,0,692,swap,IND-JPN,IND,India,JPN,Japan,10/01/2014,04/12/2015,1,renew,638,USD,INR,0,50,50,0,,no
+694,reciprocal,0,695,swap,AUS-KOR,KOR,South Korea,AUS,Australia,23/02/2014,23/02/2017,0,NA,,KRW,KRW,1,5000,NA,0,,no
+695,reciprocal,0,694,swap,AUS-KOR,AUS,Australia,KOR,South Korea,23/02/2014,23/02/2017,0,NA,,AUD,AUD,1,5,NA,0,,no
+696,reciprocal,0,697,swap,CHN-NZL,CHN,China,NZL,New Zealand,22/05/2014,22/05/2017,1,reactivate,570,CNY,CNY,1,25,NA,0,,no
+697,reciprocal,0,696,swap,CHN-NZL,NZL,New Zealand,CHN,China,22/05/2014,22/05/2017,1,reactivate,571,NZD,NZD,1,5,NA,0,,no
+698,pooled fund,1,,swap,JPN-KOR,JPN,Japan,KOR,South Korea,17/07/2014,30/03/2021,1,renew,348,USD,JPY,0,38.4,38.4,0,CMIM,no
+699,pooled fund,1,,swap,BRN-JPN,JPN,Japan,BRN,Brunei,17/07/2014,30/03/2021,1,renew,349,USD,JPY,0,0.3,0.3,0,CMIM,no
+700,pooled fund,1,,swap,JPN-KHM,JPN,Japan,KHM,Cambodia,17/07/2014,30/03/2021,1,renew,350,USD,JPY,0,1.2,1.2,0,CMIM,no
+701,pooled fund,1,,swap,HKG-JPN,JPN,Japan,HKG,Hong Kong,17/07/2014,30/03/2021,1,renew,351,USD,JPY,0,21,21,0,CMIM,no
+702,pooled fund,1,,swap,IDN-JPN,JPN,Japan,IDN,Indonesia,17/07/2014,30/03/2021,1,renew,352,USD,JPY,0,22.76,22.76,0,CMIM,no
+703,pooled fund,1,,swap,JPN-LAO,JPN,Japan,LAO,Lao People's Democratic Republic,17/07/2014,30/03/2021,1,renew,353,USD,JPY,0,0.3,0.3,0,CMIM,no
+704,pooled fund,1,,swap,JPN-MMR,JPN,Japan,MMR,Myanmar,17/07/2014,30/03/2021,1,renew,354,USD,JPY,0,0.6,0.6,0,CMIM,no
+705,pooled fund,1,,swap,JPN-MYS,JPN,Japan,MYS,Malaysia,17/07/2014,30/03/2021,1,renew,355,USD,JPY,0,22.76,22.76,0,CMIM,no
+706,pooled fund,1,,swap,CHN-JPN,JPN,Japan,CHN,China,17/07/2014,30/03/2021,1,renew,356,USD,JPY,0,34.2,34.2,0,CMIM,no
+707,pooled fund,1,,swap,JPN-PHL,JPN,Japan,PHL,Philippines,17/07/2014,30/03/2021,1,renew,357,USD,JPY,0,22.76,22.76,0,CMIM,no
+708,pooled fund,1,,swap,JPN-SGP,JPN,Japan,SGP,Singapore,17/07/2014,30/03/2021,1,renew,358,USD,JPY,0,22.76,22.76,0,CMIM,no
+709,pooled fund,1,,swap,JPN-THA,JPN,Japan,THA,Thailand,17/07/2014,30/03/2021,1,renew,359,USD,JPY,0,22.76,22.76,0,CMIM,no
+710,pooled fund,1,,swap,JPN-VNM,JPN,Japan,VNM,Vietnam,17/07/2014,30/03/2021,1,renew,360,USD,JPY,0,10,10,0,CMIM,no
+711,pooled fund,1,,swap,JPN-KOR,KOR,South Korea,JPN,Japan,17/07/2014,30/03/2021,1,renew,361,USD,KRW,0,38.4,38.4,0,CMIM,no
+712,pooled fund,1,,swap,BRN-KOR,KOR,South Korea,BRN,Brunei,17/07/2014,30/03/2021,1,renew,362,USD,KRW,0,0.3,0.3,0,CMIM,no
+713,pooled fund,1,,swap,KHM-KOR,KOR,South Korea,KHM,Cambodia,17/07/2014,30/03/2021,1,renew,363,USD,KRW,0,1.2,1.2,0,CMIM,no
+714,pooled fund,1,,swap,HKG-KOR,KOR,South Korea,HKG,Hong Kong,17/07/2014,30/03/2021,1,renew,364,USD,KRW,0,21,21,0,CMIM,no
+715,pooled fund,1,,swap,IDN-KOR,KOR,South Korea,IDN,Indonesia,17/07/2014,30/03/2021,1,renew,365,USD,KRW,0,22.76,22.76,0,CMIM,no
+716,pooled fund,1,,swap,KOR-LAO,KOR,South Korea,LAO,Lao People's Democratic Republic,17/07/2014,30/03/2021,1,renew,366,USD,KRW,0,0.3,0.3,0,CMIM,no
+717,pooled fund,1,,swap,KOR-MMR,KOR,South Korea,MMR,Myanmar,17/07/2014,30/03/2021,1,renew,367,USD,KRW,0,0.6,0.6,0,CMIM,no
+718,pooled fund,1,,swap,KOR-MYS,KOR,South Korea,MYS,Malaysia,17/07/2014,30/03/2021,1,renew,368,USD,KRW,0,22.76,22.76,0,CMIM,no
+719,pooled fund,1,,swap,CHN-KOR,KOR,South Korea,CHN,China,17/07/2014,30/03/2021,1,renew,369,USD,KRW,0,34.2,34.2,0,CMIM,no
+720,pooled fund,1,,swap,KOR-PHL,KOR,South Korea,PHL,Philippines,17/07/2014,30/03/2021,1,renew,370,USD,KRW,0,22.76,22.76,0,CMIM,no
+721,pooled fund,1,,swap,KOR-SGP,KOR,South Korea,SGP,Singapore,17/07/2014,30/03/2021,1,renew,371,USD,KRW,0,22.76,22.76,0,CMIM,no
+722,pooled fund,1,,swap,KOR-THA,KOR,South Korea,THA,Thailand,17/07/2014,30/03/2021,1,renew,372,USD,KRW,0,22.76,22.76,0,CMIM,no
+723,pooled fund,1,,swap,KOR-VNM,KOR,South Korea,VNM,Vietnam,17/07/2014,30/03/2021,1,renew,373,USD,KRW,0,10,10,0,CMIM,no
+724,pooled fund,1,,swap,BRN-JPN,BRN,Brunei,JPN,Japan,17/07/2014,30/03/2021,1,renew,374,USD,BND,0,38.4,38.4,0,CMIM,no
+725,pooled fund,1,,swap,BRN-KOR,BRN,Brunei,KOR,South Korea,17/07/2014,30/03/2021,1,renew,375,USD,BND,0,38.4,38.4,0,CMIM,no
+726,pooled fund,1,,swap,BRN-KHM,BRN,Brunei,KHM,Cambodia,17/07/2014,30/03/2021,1,renew,376,USD,BND,0,1.2,1.2,0,CMIM,no
+727,pooled fund,1,,swap,BRN-HKG,BRN,Brunei,HKG,Hong Kong,17/07/2014,30/03/2021,1,renew,377,USD,BND,0,21,21,0,CMIM,no
+728,pooled fund,1,,swap,BRN-IDN,BRN,Brunei,IDN,Indonesia,17/07/2014,30/03/2021,1,renew,378,USD,BND,0,22.76,22.76,0,CMIM,no
+729,pooled fund,1,,swap,BRN-LAO,BRN,Brunei,LAO,Lao People's Democratic Republic,17/07/2014,30/03/2021,1,renew,379,USD,BND,0,0.3,0.3,0,CMIM,no
+730,pooled fund,1,,swap,BRN-MMR,BRN,Brunei,MMR,Myanmar,17/07/2014,30/03/2021,1,renew,380,USD,BND,0,0.6,0.6,0,CMIM,no
+731,pooled fund,1,,swap,BRN-MYS,BRN,Brunei,MYS,Malaysia,17/07/2014,30/03/2021,1,renew,980,USD,BND,0,22.76,22.76,0,CMIM,no
+732,pooled fund,1,,swap,BRN-CHN,BRN,Brunei,CHN,China,17/07/2014,30/03/2021,1,renew,382,USD,BND,0,34.2,34.2,0,CMIM,no
+733,pooled fund,1,,swap,BRN-PHL,BRN,Brunei,PHL,Philippines,17/07/2014,30/03/2021,1,renew,383,USD,BND,0,22.76,22.76,0,CMIM,no
+734,pooled fund,1,,swap,BRN-SGP,BRN,Brunei,SGP,Singapore,17/07/2014,30/03/2021,1,renew,384,USD,BND,0,22.76,22.76,0,CMIM,no
+735,pooled fund,1,,swap,BRN-THA,BRN,Brunei,THA,Thailand,17/07/2014,30/03/2021,1,renew,385,USD,BND,0,22.76,22.76,0,CMIM,no
+736,pooled fund,1,,swap,BRN-VNM,BRN,Brunei,VNM,Vietnam,17/07/2014,30/03/2021,1,renew,386,USD,BND,0,10,10,0,CMIM,no
+737,pooled fund,1,,swap,JPN-KHM,KHM,Cambodia,JPN,Japan,17/07/2014,30/03/2021,1,renew,387,USD,KHR,0,38.4,38.4,0,CMIM,no
+738,pooled fund,1,,swap,KHM-KOR,KHM,Cambodia,KOR,South Korea,17/07/2014,30/03/2021,1,renew,388,USD,KHR,0,38.4,38.4,0,CMIM,no
+739,pooled fund,1,,swap,BRN-KHM,KHM,Cambodia,BRN,Brunei,17/07/2014,30/03/2021,1,renew,389,USD,KHR,0,0.3,0.3,0,CMIM,no
+740,pooled fund,1,,swap,HKG-KHM,KHM,Cambodia,HKG,Hong Kong,17/07/2014,30/03/2021,1,renew,390,USD,KHR,0,21,21,0,CMIM,no
+741,pooled fund,1,,swap,IDN-KHM,KHM,Cambodia,IDN,Indonesia,17/07/2014,30/03/2021,1,renew,391,USD,KHR,0,22.76,22.76,0,CMIM,no
+742,pooled fund,1,,swap,KHM-LAO,KHM,Cambodia,LAO,Lao People's Democratic Republic,17/07/2014,30/03/2021,1,renew,392,USD,KHR,0,0.3,0.3,0,CMIM,no
+743,pooled fund,1,,swap,KHM-MMR,KHM,Cambodia,MMR,Myanmar,17/07/2014,30/03/2021,1,renew,393,USD,KHR,0,0.6,0.6,0,CMIM,no
+744,pooled fund,1,,swap,KHM-MYS,KHM,Cambodia,MYS,Malaysia,17/07/2014,30/03/2021,1,renew,394,USD,KHR,0,22.76,22.76,0,CMIM,no
+745,pooled fund,1,,swap,CHN-KHM,KHM,Cambodia,CHN,China,17/07/2014,30/03/2021,1,renew,395,USD,KHR,0,34.2,34.2,0,CMIM,no
+746,pooled fund,1,,swap,KHM-PHL,KHM,Cambodia,PHL,Philippines,17/07/2014,30/03/2021,1,renew,396,USD,KHR,0,22.76,22.76,0,CMIM,no
+747,pooled fund,1,,swap,KHM-SGP,KHM,Cambodia,SGP,Singapore,17/07/2014,30/03/2021,1,renew,397,USD,KHR,0,22.76,22.76,0,CMIM,no
+748,pooled fund,1,,swap,KHM-THA,KHM,Cambodia,THA,Thailand,17/07/2014,30/03/2021,1,renew,398,USD,KHR,0,22.76,22.76,0,CMIM,no
+749,pooled fund,1,,swap,KHM-VNM,KHM,Cambodia,VNM,Vietnam,17/07/2014,30/03/2021,1,renew,399,USD,KHR,0,10,10,0,CMIM,no
+750,pooled fund,1,,swap,HKG-JPN,HKG,Hong Kong,JPN,Japan,17/07/2014,30/03/2021,1,renew,400,USD,HKD,0,38.4,38.4,0,CMIM,no
+751,pooled fund,1,,swap,HKG-KOR,HKG,Hong Kong,KOR,South Korea,17/07/2014,30/03/2021,1,renew,401,USD,HKD,0,38.4,38.4,0,CMIM,no
+752,pooled fund,1,,swap,BRN-HKG,HKG,Hong Kong,BRN,Brunei,17/07/2014,30/03/2021,1,renew,402,USD,HKD,0,0.3,0.3,0,CMIM,no
+753,pooled fund,1,,swap,HKG-KHM,HKG,Hong Kong,KHM,Cambodia,17/07/2014,30/03/2021,1,renew,403,USD,HKD,0,1.2,1.2,0,CMIM,no
+754,pooled fund,1,,swap,HKG-IDN,HKG,Hong Kong,IDN,Indonesia,17/07/2014,30/03/2021,1,renew,404,USD,HKD,0,22.76,22.76,0,CMIM,no
+755,pooled fund,1,,swap,HKG-LAO,HKG,Hong Kong,LAO,Lao People's Democratic Republic,17/07/2014,30/03/2021,1,renew,405,USD,HKD,0,0.3,0.3,0,CMIM,no
+756,pooled fund,1,,swap,HKG-MMR,HKG,Hong Kong,MMR,Myanmar,17/07/2014,30/03/2021,1,renew,406,USD,HKD,0,0.6,0.6,0,CMIM,no
+757,pooled fund,1,,swap,HKG-MYS,HKG,Hong Kong,MYS,Malaysia,17/07/2014,30/03/2021,1,renew,407,USD,HKD,0,22.76,22.76,0,CMIM,no
+758,pooled fund,1,,swap,CHN-HKG,HKG,Hong Kong,CHN,China,17/07/2014,30/03/2021,1,renew,408,USD,HKD,0,34.2,34.2,0,CMIM,no
+759,pooled fund,1,,swap,HKG-PHL,HKG,Hong Kong,PHL,Philippines,17/07/2014,30/03/2021,1,renew,409,USD,HKD,0,22.76,22.76,0,CMIM,no
+760,pooled fund,1,,swap,HKG-SGP,HKG,Hong Kong,SGP,Singapore,17/07/2014,30/03/2021,1,renew,410,USD,HKD,0,22.76,22.76,0,CMIM,no
+761,pooled fund,1,,swap,HKG-THA,HKG,Hong Kong,THA,Thailand,17/07/2014,30/03/2021,1,renew,411,USD,HKD,0,22.76,22.76,0,CMIM,no
+762,pooled fund,1,,swap,HKG-VNM,HKG,Hong Kong,VNM,Vietnam,17/07/2014,30/03/2021,1,renew,412,USD,HKD,0,10,10,0,CMIM,no
+763,pooled fund,1,,swap,IDN-JPN,IDN,Indonesia,JPN,Japan,17/07/2014,30/03/2021,1,renew,413,USD,IDR,0,38.4,38.4,0,CMIM,no
+764,pooled fund,1,,swap,IDN-KOR,IDN,Indonesia,KOR,South Korea,17/07/2014,30/03/2021,1,renew,414,USD,IDR,0,38.4,38.4,0,CMIM,no
+765,pooled fund,1,,swap,BRN-IDN,IDN,Indonesia,BRN,Brunei,17/07/2014,30/03/2021,1,renew,415,USD,IDR,0,0.3,0.3,0,CMIM,no
+766,pooled fund,1,,swap,IDN-KHM,IDN,Indonesia,KHM,Cambodia,17/07/2014,30/03/2021,1,renew,416,USD,IDR,0,1.2,1.2,0,CMIM,no
+767,pooled fund,1,,swap,HKG-IDN,IDN,Indonesia,HKG,Hong Kong,17/07/2014,30/03/2021,1,renew,417,USD,IDR,0,21,21,0,CMIM,no
+768,pooled fund,1,,swap,IDN-LAO,IDN,Indonesia,LAO,Lao People's Democratic Republic,17/07/2014,30/03/2021,1,renew,418,USD,IDR,0,0.3,0.3,0,CMIM,no
+769,pooled fund,1,,swap,IDN-MMR,IDN,Indonesia,MMR,Myanmar,17/07/2014,30/03/2021,1,renew,419,USD,IDR,0,0.6,0.6,0,CMIM,no
+770,pooled fund,1,,swap,IDN-MYS,IDN,Indonesia,MYS,Malaysia,17/07/2014,30/03/2021,1,renew,420,USD,IDR,0,22.76,22.76,0,CMIM,no
+771,pooled fund,1,,swap,CHN-IDN,IDN,Indonesia,CHN,China,17/07/2014,30/03/2021,1,renew,421,USD,IDR,0,34.2,34.2,0,CMIM,no
+772,pooled fund,1,,swap,IDN-PHL,IDN,Indonesia,PHL,Philippines,17/07/2014,30/03/2021,1,renew,422,USD,IDR,0,22.76,22.76,0,CMIM,no
+773,pooled fund,1,,swap,IDN-SGP,IDN,Indonesia,SGP,Singapore,17/07/2014,30/03/2021,1,renew,423,USD,IDR,0,22.76,22.76,0,CMIM,no
+774,pooled fund,1,,swap,IDN-THA,IDN,Indonesia,THA,Thailand,17/07/2014,30/03/2021,1,renew,424,USD,IDR,0,22.76,22.76,0,CMIM,no
+775,pooled fund,1,,swap,IDN-VNM,IDN,Indonesia,VNM,Vietnam,17/07/2014,30/03/2021,1,renew,425,USD,IDR,0,10,10,0,CMIM,no
+776,pooled fund,1,,swap,JPN-LAO,LAO,Lao People's Democratic Republic,JPN,Japan,17/07/2014,30/03/2021,1,renew,426,USD,LAK,0,38.4,38.4,0,CMIM,no
+777,pooled fund,1,,swap,KOR-LAO,LAO,Lao People's Democratic Republic,KOR,South Korea,17/07/2014,30/03/2021,1,renew,427,USD,LAK,0,38.4,38.4,0,CMIM,no
+778,pooled fund,1,,swap,BRN-LAO,LAO,Lao People's Democratic Republic,BRN,Brunei,17/07/2014,30/03/2021,1,renew,428,USD,LAK,0,0.3,0.3,0,CMIM,no
+779,pooled fund,1,,swap,KHM-LAO,LAO,Lao People's Democratic Republic,KHM,Cambodia,17/07/2014,30/03/2021,1,renew,429,USD,LAK,0,1.2,1.2,0,CMIM,no
+780,pooled fund,1,,swap,HKG-LAO,LAO,Lao People's Democratic Republic,HKG,Hong Kong,17/07/2014,30/03/2021,1,renew,430,USD,LAK,0,21,21,0,CMIM,no
+781,pooled fund,1,,swap,IDN-LAO,LAO,Lao People's Democratic Republic,IDN,Indonesia,17/07/2014,30/03/2021,1,renew,431,USD,LAK,0,22.76,22.76,0,CMIM,no
+782,pooled fund,1,,swap,LAO-MMR,LAO,Lao People's Democratic Republic,MMR,Myanmar,17/07/2014,30/03/2021,1,renew,432,USD,LAK,0,0.6,0.6,0,CMIM,no
+783,pooled fund,1,,swap,LAO-MYS,LAO,Lao People's Democratic Republic,MYS,Malaysia,17/07/2014,30/03/2021,1,renew,433,USD,LAK,0,22.76,22.76,0,CMIM,no
+784,pooled fund,1,,swap,CHN-LAO,LAO,Lao People's Democratic Republic,CHN,China,17/07/2014,30/03/2021,1,renew,434,USD,LAK,0,34.2,34.2,0,CMIM,no
+785,pooled fund,1,,swap,LAO-PHL,LAO,Lao People's Democratic Republic,PHL,Philippines,17/07/2014,30/03/2021,1,renew,435,USD,LAK,0,22.76,22.76,0,CMIM,no
+786,pooled fund,1,,swap,LAO-SGP,LAO,Lao People's Democratic Republic,SGP,Singapore,17/07/2014,30/03/2021,1,renew,436,USD,LAK,0,22.76,22.76,0,CMIM,no
+787,pooled fund,1,,swap,LAO-THA,LAO,Lao People's Democratic Republic,THA,Thailand,17/07/2014,30/03/2021,1,renew,437,USD,LAK,0,22.76,22.76,0,CMIM,no
+788,pooled fund,1,,swap,LAO-VNM,LAO,Lao People's Democratic Republic,VNM,Vietnam,17/07/2014,30/03/2021,1,renew,438,USD,LAK,0,10,10,0,CMIM,no
+789,pooled fund,1,,swap,JPN-MMR,MMR,Myanmar,JPN,Japan,17/07/2014,30/03/2021,1,renew,439,USD,MMK,0,38.4,38.4,0,CMIM,no
+790,pooled fund,1,,swap,KOR-MMR,MMR,Myanmar,KOR,South Korea,17/07/2014,30/03/2021,1,renew,440,USD,MMK,0,38.4,38.4,0,CMIM,no
+791,pooled fund,1,,swap,BRN-MMR,MMR,Myanmar,BRN,Brunei,17/07/2014,30/03/2021,1,renew,441,USD,MMK,0,0.3,0.3,0,CMIM,no
+792,pooled fund,1,,swap,KHM-MMR,MMR,Myanmar,KHM,Cambodia,17/07/2014,30/03/2021,1,renew,442,USD,MMK,0,1.2,1.2,0,CMIM,no
+793,pooled fund,1,,swap,HKG-MMR,MMR,Myanmar,HKG,Hong Kong,17/07/2014,30/03/2021,1,renew,443,USD,MMK,0,21,21,0,CMIM,no
+794,pooled fund,1,,swap,IDN-MMR,MMR,Myanmar,IDN,Indonesia,17/07/2014,30/03/2021,1,renew,444,USD,MMK,0,22.76,22.76,0,CMIM,no
+795,pooled fund,1,,swap,LAO-MMR,MMR,Myanmar,LAO,Lao People's Democratic Republic,17/07/2014,30/03/2021,1,renew,445,USD,MMK,0,0.3,0.3,0,CMIM,no
+796,pooled fund,1,,swap,MMR-MYS,MMR,Myanmar,MYS,Malaysia,17/07/2014,30/03/2021,1,renew,446,USD,MMK,0,22.76,22.76,0,CMIM,no
+797,pooled fund,1,,swap,CHN-MMR,MMR,Myanmar,CHN,China,17/07/2014,30/03/2021,1,renew,447,USD,MMK,0,34.2,34.2,0,CMIM,no
+798,pooled fund,1,,swap,MMR-PHL,MMR,Myanmar,PHL,Philippines,17/07/2014,30/03/2021,1,renew,448,USD,MMK,0,22.76,22.76,0,CMIM,no
+799,pooled fund,1,,swap,MMR-SGP,MMR,Myanmar,SGP,Singapore,17/07/2014,30/03/2021,1,renew,449,USD,MMK,0,22.76,22.76,0,CMIM,no
+800,pooled fund,1,,swap,MMR-THA,MMR,Myanmar,THA,Thailand,17/07/2014,30/03/2021,1,renew,450,USD,MMK,0,22.76,22.76,0,CMIM,no
+801,pooled fund,1,,swap,MMR-VNM,MMR,Myanmar,VNM,Vietnam,17/07/2014,30/03/2021,1,renew,451,USD,MMK,0,10,10,0,CMIM,no
+802,pooled fund,1,,swap,JPN-MYS,MYS,Malaysia,JPN,Japan,17/07/2014,30/03/2021,1,renew,452,USD,MYR,0,38.4,38.4,0,CMIM,no
+803,pooled fund,1,,swap,KOR-MYS,MYS,Malaysia,KOR,South Korea,17/07/2014,30/03/2021,1,renew,453,USD,MYR,0,38.4,38.4,0,CMIM,no
+804,pooled fund,1,,swap,BRN-MYS,MYS,Malaysia,BRN,Brunei,17/07/2014,30/03/2021,1,renew,454,USD,MYR,0,0.3,0.3,0,CMIM,no
+805,pooled fund,1,,swap,KHM-MYS,MYS,Malaysia,KHM,Cambodia,17/07/2014,30/03/2021,1,renew,455,USD,MYR,0,1.2,1.2,0,CMIM,no
+806,pooled fund,1,,swap,HKG-MYS,MYS,Malaysia,HKG,Hong Kong,17/07/2014,30/03/2021,1,renew,456,USD,MYR,0,21,21,0,CMIM,no
+807,pooled fund,1,,swap,IDN-MYS,MYS,Malaysia,IDN,Indonesia,17/07/2014,30/03/2021,1,renew,457,USD,MYR,0,22.76,22.76,0,CMIM,no
+808,pooled fund,1,,swap,LAO-MYS,MYS,Malaysia,LAO,Lao People's Democratic Republic,17/07/2014,30/03/2021,1,renew,458,USD,MYR,0,0.3,0.3,0,CMIM,no
+809,pooled fund,1,,swap,MMR-MYS,MYS,Malaysia,MMR,Myanmar,17/07/2014,30/03/2021,1,renew,459,USD,MYR,0,0.6,0.6,0,CMIM,no
+810,pooled fund,1,,swap,CHN-MYS,MYS,Malaysia,CHN,China,17/07/2014,30/03/2021,1,renew,460,USD,MYR,0,34.2,34.2,0,CMIM,no
+811,pooled fund,1,,swap,MYS-PHL,MYS,Malaysia,PHL,Philippines,17/07/2014,30/03/2021,1,renew,461,USD,MYR,0,22.76,22.76,0,CMIM,no
+812,pooled fund,1,,swap,MYS-SGP,MYS,Malaysia,SGP,Singapore,17/07/2014,30/03/2021,1,renew,462,USD,MYR,0,22.76,22.76,0,CMIM,no
+813,pooled fund,1,,swap,MYS-THA,MYS,Malaysia,THA,Thailand,17/07/2014,30/03/2021,1,renew,463,USD,MYR,0,22.76,22.76,0,CMIM,no
+814,pooled fund,1,,swap,MYS-VNM,MYS,Malaysia,VNM,Vietnam,17/07/2014,30/03/2021,1,renew,464,USD,MYR,0,10,10,0,CMIM,no
+815,pooled fund,1,,swap,CHN-JPN,CHN,China,JPN,Japan,17/07/2014,30/03/2021,1,renew,465,USD,CNY,0,38.4,38.4,0,CMIM,no
+816,pooled fund,1,,swap,CHN-KOR,CHN,China,KOR,South Korea,17/07/2014,30/03/2021,1,renew,466,USD,CNY,0,38.4,38.4,0,CMIM,no
+817,pooled fund,1,,swap,BRN-CHN,CHN,China,BRN,Brunei,17/07/2014,30/03/2021,1,renew,467,USD,CNY,0,0.3,0.3,0,CMIM,no
+818,pooled fund,1,,swap,CHN-KHM,CHN,China,KHM,Cambodia,17/07/2014,30/03/2021,1,renew,468,USD,CNY,0,1.2,1.2,0,CMIM,no
+819,pooled fund,1,,swap,CHN-HKG,CHN,China,HKG,Hong Kong,17/07/2014,30/03/2021,1,renew,469,USD,CNY,0,21,21,0,CMIM,no
+820,pooled fund,1,,swap,CHN-IDN,CHN,China,IDN,Indonesia,17/07/2014,30/03/2021,1,renew,470,USD,CNY,0,22.76,22.76,0,CMIM,no
+821,pooled fund,1,,swap,CHN-LAO,CHN,China,LAO,Lao People's Democratic Republic,17/07/2014,30/03/2021,1,renew,471,USD,CNY,0,0.3,0.3,0,CMIM,no
+822,pooled fund,1,,swap,CHN-MMR,CHN,China,MMR,Myanmar,17/07/2014,30/03/2021,1,renew,472,USD,CNY,0,0.6,0.6,0,CMIM,no
+823,pooled fund,1,,swap,CHN-MYS,CHN,China,MYS,Malaysia,17/07/2014,30/03/2021,1,renew,473,USD,CNY,0,22.76,22.76,0,CMIM,no
+824,pooled fund,1,,swap,CHN-PHL,CHN,China,PHL,Philippines,17/07/2014,30/03/2021,1,renew,474,USD,CNY,0,22.76,22.76,0,CMIM,no
+825,pooled fund,1,,swap,CHN-SGP,CHN,China,SGP,Singapore,17/07/2014,30/03/2021,1,renew,475,USD,CNY,0,22.76,22.76,0,CMIM,no
+826,pooled fund,1,,swap,CHN-THA,CHN,China,THA,Thailand,17/07/2014,30/03/2021,1,renew,476,USD,CNY,0,22.76,22.76,0,CMIM,no
+827,pooled fund,1,,swap,CHN-VNM,CHN,China,VNM,Vietnam,17/07/2014,30/03/2021,1,renew,477,USD,CNY,0,10,10,0,CMIM,no
+828,pooled fund,1,,swap,JPN-PHL,PHL,Philippines,JPN,Japan,17/07/2014,30/03/2021,1,renew,478,USD,PHP,0,38.4,38.4,0,CMIM,no
+829,pooled fund,1,,swap,KOR-PHL,PHL,Philippines,KOR,South Korea,17/07/2014,30/03/2021,1,renew,479,USD,PHP,0,38.4,38.4,0,CMIM,no
+830,pooled fund,1,,swap,BRN-PHL,PHL,Philippines,BRN,Brunei,17/07/2014,30/03/2021,1,renew,480,USD,PHP,0,0.3,0.3,0,CMIM,no
+831,pooled fund,1,,swap,KHM-PHL,PHL,Philippines,KHM,Cambodia,17/07/2014,30/03/2021,1,renew,481,USD,PHP,0,1.2,1.2,0,CMIM,no
+832,pooled fund,1,,swap,HKG-PHL,PHL,Philippines,HKG,Hong Kong,17/07/2014,30/03/2021,1,renew,482,USD,PHP,0,21,21,0,CMIM,no
+833,pooled fund,1,,swap,IDN-PHL,PHL,Philippines,IDN,Indonesia,17/07/2014,30/03/2021,1,renew,483,USD,PHP,0,22.76,22.76,0,CMIM,no
+834,pooled fund,1,,swap,LAO-PHL,PHL,Philippines,LAO,Lao People's Democratic Republic,17/07/2014,30/03/2021,1,renew,484,USD,PHP,0,0.3,0.3,0,CMIM,no
+835,pooled fund,1,,swap,MMR-PHL,PHL,Philippines,MMR,Myanmar,17/07/2014,30/03/2021,1,renew,485,USD,PHP,0,0.6,0.6,0,CMIM,no
+836,pooled fund,1,,swap,MYS-PHL,PHL,Philippines,MYS,Malaysia,17/07/2014,30/03/2021,1,renew,486,USD,PHP,0,22.76,22.76,0,CMIM,no
+837,pooled fund,1,,swap,CHN-PHL,PHL,Philippines,CHN,China,17/07/2014,30/03/2021,1,renew,487,USD,PHP,0,34.2,34.2,0,CMIM,no
+838,pooled fund,1,,swap,PHL-SGP,PHL,Philippines,SGP,Singapore,17/07/2014,30/03/2021,1,renew,488,USD,PHP,0,22.76,22.76,0,CMIM,no
+839,pooled fund,1,,swap,PHL-THA,PHL,Philippines,THA,Thailand,17/07/2014,30/03/2021,1,renew,489,USD,PHP,0,22.76,22.76,0,CMIM,no
+840,pooled fund,1,,swap,PHL-VNM,PHL,Philippines,VNM,Vietnam,17/07/2014,30/03/2021,1,renew,490,USD,PHP,0,10,10,0,CMIM,no
+841,pooled fund,1,,swap,JPN-SGP,SGP,Singapore,JPN,Japan,17/07/2014,30/03/2021,1,renew,491,USD,SGD,0,38.4,38.4,0,CMIM,no
+842,pooled fund,1,,swap,KOR-SGP,SGP,Singapore,KOR,South Korea,17/07/2014,30/03/2021,1,renew,492,USD,SGD,0,38.4,38.4,0,CMIM,no
+843,pooled fund,1,,swap,BRN-SGP,SGP,Singapore,BRN,Brunei,17/07/2014,30/03/2021,1,renew,493,USD,SGD,0,0.3,0.3,0,CMIM,no
+844,pooled fund,1,,swap,KHM-SGP,SGP,Singapore,KHM,Cambodia,17/07/2014,30/03/2021,1,renew,494,USD,SGD,0,1.2,1.2,0,CMIM,no
+845,pooled fund,1,,swap,HKG-SGP,SGP,Singapore,HKG,Hong Kong,17/07/2014,30/03/2021,1,renew,495,USD,SGD,0,21,21,0,CMIM,no
+846,pooled fund,1,,swap,IDN-SGP,SGP,Singapore,IDN,Indonesia,17/07/2014,30/03/2021,1,renew,496,USD,SGD,0,22.76,22.76,0,CMIM,no
+847,pooled fund,1,,swap,LAO-SGP,SGP,Singapore,LAO,Lao People's Democratic Republic,17/07/2014,30/03/2021,1,renew,497,USD,SGD,0,0.3,0.3,0,CMIM,no
+848,pooled fund,1,,swap,MMR-SGP,SGP,Singapore,MMR,Myanmar,17/07/2014,30/03/2021,1,renew,498,USD,SGD,0,0.6,0.6,0,CMIM,no
+849,pooled fund,1,,swap,MYS-SGP,SGP,Singapore,MYS,Malaysia,17/07/2014,30/03/2021,1,renew,499,USD,SGD,0,22.76,22.76,0,CMIM,no
+850,pooled fund,1,,swap,CHN-SGP,SGP,Singapore,CHN,China,17/07/2014,30/03/2021,1,renew,500,USD,SGD,0,34.2,34.2,0,CMIM,no
+851,pooled fund,1,,swap,PHL-SGP,SGP,Singapore,PHL,Philippines,17/07/2014,30/03/2021,1,renew,501,USD,SGD,0,22.76,22.76,0,CMIM,no
+852,pooled fund,1,,swap,SGP-THA,SGP,Singapore,THA,Thailand,17/07/2014,30/03/2021,1,renew,502,USD,SGD,0,22.76,22.76,0,CMIM,no
+853,pooled fund,1,,swap,SGP-VNM,SGP,Singapore,VNM,Vietnam,17/07/2014,30/03/2021,1,renew,503,USD,SGD,0,10,10,0,CMIM,no
+854,pooled fund,1,,swap,JPN-THA,THA,Thailand,JPN,Japan,17/07/2014,30/03/2021,1,renew,504,USD,THB,0,38.4,38.4,0,CMIM,no
+855,pooled fund,1,,swap,KOR-THA,THA,Thailand,KOR,South Korea,17/07/2014,30/03/2021,1,renew,505,USD,THB,0,38.4,38.4,0,CMIM,no
+856,pooled fund,1,,swap,BRN-THA,THA,Thailand,BRN,Brunei,17/07/2014,30/03/2021,1,renew,506,USD,THB,0,0.3,0.3,0,CMIM,no
+857,pooled fund,1,,swap,KHM-THA,THA,Thailand,KHM,Cambodia,17/07/2014,30/03/2021,1,renew,507,USD,THB,0,1.2,1.2,0,CMIM,no
+858,pooled fund,1,,swap,HKG-THA,THA,Thailand,HKG,Hong Kong,17/07/2014,30/03/2021,1,renew,508,USD,THB,0,21,21,0,CMIM,no
+859,pooled fund,1,,swap,IDN-THA,THA,Thailand,IDN,Indonesia,17/07/2014,30/03/2021,1,renew,509,USD,THB,0,22.76,22.76,0,CMIM,no
+860,pooled fund,1,,swap,LAO-THA,THA,Thailand,LAO,Lao People's Democratic Republic,17/07/2014,30/03/2021,1,renew,510,USD,THB,0,0.3,0.3,0,CMIM,no
+861,pooled fund,1,,swap,MMR-THA,THA,Thailand,MMR,Myanmar,17/07/2014,30/03/2021,1,renew,511,USD,THB,0,0.6,0.6,0,CMIM,no
+862,pooled fund,1,,swap,MYS-THA,THA,Thailand,MYS,Malaysia,17/07/2014,30/03/2021,1,renew,512,USD,THB,0,22.76,22.76,0,CMIM,no
+863,pooled fund,1,,swap,CHN-THA,THA,Thailand,CHN,China,17/07/2014,30/03/2021,1,renew,513,USD,THB,0,34.2,34.2,0,CMIM,no
+864,pooled fund,1,,swap,PHL-THA,THA,Thailand,PHL,Philippines,17/07/2014,30/03/2021,1,renew,514,USD,THB,0,22.76,22.76,0,CMIM,no
+865,pooled fund,1,,swap,SGP-THA,THA,Thailand,SGP,Singapore,17/07/2014,30/03/2021,1,renew,515,USD,THB,0,22.76,22.76,0,CMIM,no
+866,pooled fund,1,,swap,THA-VNM,THA,Thailand,VNM,Vietnam,17/07/2014,30/03/2021,1,renew,516,USD,THB,0,10,10,0,CMIM,no
+867,pooled fund,1,,swap,JPN-VNM,VNM,Vietnam,JPN,Japan,17/07/2014,30/03/2021,1,renew,517,USD,VND,0,38.4,38.4,0,CMIM,no
+868,pooled fund,1,,swap,KOR-VNM,VNM,Vietnam,KOR,South Korea,17/07/2014,30/03/2021,1,renew,518,USD,VND,0,38.4,38.4,0,CMIM,no
+869,pooled fund,1,,swap,BRN-VNM,VNM,Vietnam,BRN,Brunei,17/07/2014,30/03/2021,1,renew,519,USD,VND,0,0.3,0.3,0,CMIM,no
+870,pooled fund,1,,swap,KHM-VNM,VNM,Vietnam,KHM,Cambodia,17/07/2014,30/03/2021,1,renew,520,USD,VND,0,1.2,1.2,0,CMIM,no
+871,pooled fund,1,,swap,HKG-VNM,VNM,Vietnam,HKG,Hong Kong,17/07/2014,30/03/2021,1,renew,521,USD,VND,0,21,21,0,CMIM,no
+872,pooled fund,1,,swap,IDN-VNM,VNM,Vietnam,IDN,Indonesia,17/07/2014,30/03/2021,1,renew,522,USD,VND,0,22.76,22.76,0,CMIM,no
+873,pooled fund,1,,swap,LAO-VNM,VNM,Vietnam,LAO,Lao People's Democratic Republic,17/07/2014,30/03/2021,1,renew,523,USD,VND,0,0.3,0.3,0,CMIM,no
+874,pooled fund,1,,swap,MMR-VNM,VNM,Vietnam,MMR,Myanmar,17/07/2014,30/03/2021,1,renew,524,USD,VND,0,0.6,0.6,0,CMIM,no
+875,pooled fund,1,,swap,MYS-VNM,VNM,Vietnam,MYS,Malaysia,17/07/2014,30/03/2021,1,renew,525,USD,VND,0,22.76,22.76,0,CMIM,no
+876,pooled fund,1,,swap,CHN-VNM,VNM,Vietnam,CHN,China,17/07/2014,30/03/2021,1,renew,526,USD,VND,0,34.2,34.2,0,CMIM,no
+877,pooled fund,1,,swap,PHL-VNM,VNM,Vietnam,PHL,Philippines,17/07/2014,30/03/2021,1,renew,527,USD,VND,0,22.76,22.76,0,CMIM,no
+878,pooled fund,1,,swap,SGP-VNM,VNM,Vietnam,SGP,Singapore,17/07/2014,30/03/2021,1,renew,528,USD,VND,0,22.76,22.76,0,CMIM,no
+879,pooled fund,1,,swap,THA-VNM,VNM,Vietnam,THA,Thailand,17/07/2014,30/03/2021,1,renew,529,USD,VND,0,22.76,22.76,0,CMIM,no
+880,reciprocal,0,881,swap,ARG-CHN,ARG,Argentina,CHN,China,18/07/2014,17/07/2017,1,reactivate,336,ARS,ARS,1,90,NA,0,,no
+881,reciprocal,0,880,swap,ARG-CHN,CHN,China,ARG,Argentina,18/07/2014,17/07/2017,1,reactivate,337,CNY,CNY,1,70,NA,0,,no
+882,reciprocal,0,883,swap,CHE-CHN,CHN,China,CHE,Switzerland,21/07/2014,21/07/2017,0,NA,,CNY,CNY,1,150,NA,0,,no
+883,reciprocal,0,883,swap,CHE-CHN,CHE,Switzerland,CHN,China,21/07/2014,21/07/2017,0,NA,,CHF,CHF,1,21,NA,0,,no
+884,reciprocal,0,885,swap,CHN-MNG,MNG,Mongolia,CHN,China,21/08/2014,21/08/2017,1,reactivate,574,MNT,MNT,1,4500,NA,0,,no
+885,reciprocal,0,884,swap,CHN-MNG,CHN,China,MNG,Mongolia,21/08/2014,21/08/2017,1,reactivate,575,CNY,CNY,1,15,NA,0,,no
+886,reciprocal,0,887,swap,CHN-LKA,CHN,China,LKA,Sri Lanka,16/09/2014,16/09/2017,0,NA,,CNY,CNY,1,10,NA,0,,no
+887,reciprocal,0,886,swap,CHN-LKA,LKA,Sri Lanka,CHN,China,16/09/2014,16/09/2017,0,NA,,LKR,LKR,1,225,NA,0,,no
+888,reciprocal,0,889,swap,JPN-PHL,JPN,Japan,PHL,Philippines,06/10/2014,06/10/2017,1,reactivate,254,USD,JPY,0,12,12,0,,no
+889,reciprocal,0,888,swap,JPN-PHL,PHL,Philippines,JPN,Japan,06/10/2014,06/10/2017,1,reactivate,255,USD,PHP,0,0.5,0.5,0,,no
+890,reciprocal,0,891,swap,CHN-RUS,CHN,China,RUS,Russian Federation,13/10/2014,13/10/2017,1,NA,,CNY,CNY,1,150,NA,0,,no
+891,reciprocal,0,890,swap,CHN-RUS,RUS,Russian Federation,CHN,China,13/10/2014,13/10/2017,1,NA,,RUB,RUB,1,815,NA,0,,no
+892,reciprocal,0,893,swap,CHN-QAT,CHN,China,QAT,Qatar,03/11/2014,03/11/2017,0,NA,,CNY,CNY,1,35,NA,0,,no
+893,reciprocal,0,892,swap,CHN-QAT,QAT,Qatar,CHN,China,03/11/2014,03/11/2017,0,NA,,QAR,QAR,1,20.8,NA,0,,no
+894,reciprocal,0,895,swap,CAN-CHN,CAN,Canada,CHN,China,08/11/2014,08/11/2017,0,NA,,CAD,CAD,1,30,NA,0,,no
+895,reciprocal,0,894,swap,CAN-CHN,CHN,China,CAN,Canada,08/11/2014,08/11/2017,0,NA,,CNY,CNY,1,200,NA,0,,no
+896,reciprocal,0,897,swap,CHN-HKG,HKG,Hong Kong,CHN,China,27/11/2014,27/11/2017,1,renew,584,HKD,HKD,1,505,NA,0,,no
+897,reciprocal,0,896,swap,CHN-HKG,CHN,China,HKG,Hong Kong,27/11/2014,27/11/2017,1,renew,585,CNY,CNY,1,400,NA,0,,no
+898,reciprocal,0,899,swap,CHN-KAZ,KAZ,Kazakhstan,CHN,China,14/12/2014,14/12/2017,1,reactivate,576,KZT,KZT,1,200,NA,0,,no
+899,reciprocal,0,898,swap,CHN-KAZ,CHN,China,KAZ,Kazakhstan,14/12/2014,14/12/2017,1,reactivate,577,CNY,CNY,1,7,NA,0,,no
+900,reciprocal,0,901,swap,CHN-THA,CHN,China,THA,Thailand,22/12/2014,22/12/2017,1,renew,611,CNY,CNY,1,70,NA,0,,no
+901,reciprocal,0,900,swap,CHN-THA,THA,Thailand,CHN,China,22/12/2014,22/12/2017,1,renew,612,THB,THB,1,370,NA,0,,no
+902,reciprocal,0,903,swap,CHN-PAK,PAK,Pakistan,CHN,China,23/12/2014,23/12/2017,1,renew,613,PKR,PKR,1,165,NA,0,,no
+903,reciprocal,0,902,swap,CHN-PAK,CHN,China,PAK,Pakistan,23/12/2014,23/12/2017,1,renew,614,CNY,CNY,1,10,NA,0,,no
+904,reciprocal,0,905,swap,CHN-SUR,CHN,China,SUR,Suriname,18/03/2015,18/03/2018,0,NA,,CNY,CNY,1,1,NA,0,,no
+905,reciprocal,0,904,swap,CHN-SUR,SUR,Suriname,CHN,China,18/03/2015,18/03/2018,0,NA,,SRD,SRD,1,0.52,NA,0,,no
+906,reciprocal,0,908,swap,ARM-CHN,ARM,Armenia,CHN,China,25/03/2015,25/03/2018,0,NA,,AMD,AMD,1,77,NA,0,,no
+907,unidirectional,0,,swap,IND-LKA,IND,India,LKA,Sri Lanka,25/03/2015,25/03/2018,1,NA,,USD/EUR/INR,INR,1,0.4,0.4,0,SAARC,no
+908,reciprocal,0,906,swap,ARM-CHN,CHN,China,ARM,Armenia,25/03/2015,25/03/2018,0,NA,,CNY,CNY,1,1,NA,0,,no
+909,reciprocal,0,910,swap,AUS-CHN,CHN,China,AUS,Australia,08/04/2015,08/04/2018,1,renew,623,CNY,CNY,1,200,NA,0,,no
+910,reciprocal,0,909,swap,AUS-CHN,AUS,Australia,CHN,China,08/04/2015,08/04/2018,1,renew,624,AUD,AUD,1,40,NA,0,,no
+911,reciprocal,0,912,swap,CHN-ZAF,CHN,China,ZAF,South Africa,10/04/2015,10/04/2018,1,NA,,CNY,CNY,1,30,NA,0,,no
+912,reciprocal,0,911,swap,CHN-ZAF,ZAF,South Africa,CHN,China,10/04/2015,10/04/2018,1,NA,,ZAR,ZAR,1,54,NA,0,,no
+913,reciprocal,0,914,swap,BLR-CHN,BLR,Belarus,CHN,China,10/05/2015,10/05/2018,1,reactivate,330,BYN,BYN,1,16000,NA,0,,no
+914,reciprocal,0,913,swap,BLR-CHN,CHN,China,BLR,Belarus,10/05/2015,10/05/2018,1,reactivate,331,CNY,CNY,1,7,NA,0,,no
+915,reciprocal,0,916,swap,CHN-UKR,CHN,China,UKR,Ukraine,15/05/2015,15/05/2018,1,renew,625,CNY,CNY,1,15,NA,0,,no
+916,reciprocal,0,915,swap,CHN-UKR,UKR,Ukraine,CHN,China,15/05/2015,15/05/2018,1,renew,626,UAH,UAH,1,54,NA,0,,no
+917,reciprocal,0,918,swap,JPN-SGP,JPN,Japan,SGP,Singapore,21/05/2015,21/05/2018,1,reactivate,242,USD,JPY,0,3,3,0,,no
+918,reciprocal,0,917,swap,JPN-SGP,SGP,Singapore,JPN,Japan,21/05/2015,21/05/2018,1,reactivate,243,USD,SGD,0,1,1,0,,no
+919,reciprocal,0,920,swap,CHL-CHN,CHL,Chile,CHN,China,25/05/2015,25/05/2018,0,NA,,CLP,CLP,1,2200,NA,0,,no
+920,reciprocal,0,919,swap,CHL-CHN,CHN,China,CHL,Chile,25/05/2015,25/05/2018,0,NA,,CNY,CNY,1,22,NA,0,,no
+921,unidirectional,0,,swap,IND-LKA,IND,India,LKA,Sri Lanka,17/07/2015,17/01/2016,1,supplement,,USD,INR,0,1.1,1.1,0,,no
+922,reciprocal,0,923,swap,CHN-TJK,CHN,China,TJK,Tajikistan,03/09/2015,03/09/2018,0,NA,,CNY,CNY,1,3,NA,0,,no
+923,reciprocal,0,922,swap,CHN-TJK,TJK,Tajikistan,CHN,China,03/09/2015,03/09/2018,0,NA,,TJS,TJS,1,3,0.47,0,,no
+924,unidirectional,0,,swap,SWE-UKR,SWE,Sweden,UKR,Ukraine,16/09/2015,16/03/2016,0,NA,,USD,SEK,0,0.5,0.5,0,,no
+925,reciprocal,0,926,swap,CHN-GBR,GBR,UK,CHN,China,21/10/2015,21/10/2018,1,reactivate,643,GBP,GBP,1,40,NA,0,,no
+926,reciprocal,0,925,swap,CHN-GBR,CHN,China,GBR,UK,21/10/2015,21/10/2018,1,reactivate,644,CNY,CNY,1,350,NA,0,,no
+927,reciprocal,0,928,swap,CHN-TUR,TUR,Turkey,CHN,China,16/11/2015,16/11/2018,1,reactivate,619,TRY,TRY,1,5,1.88,0,,no
+928,reciprocal,0,927,swap,CHN-TUR,CHN,China,TUR,Turkey,16/11/2015,16/11/2018,1,reactivate,620,CNY,CNY,1,12,NA,0,,no
+929,reciprocal,0,930,swap,ARE-CHN,CHN,China,ARE,United Arab Emirates,14/12/2015,14/12/2018,1,reactivate,,CNY,CNY,1,35,NA,0,,no
+930,reciprocal,0,929,swap,ARE-CHN,ARE,United Arab Emirates,CHN,China,14/12/2015,14/12/2018,1,reactivate,,AED,AED,1,20,NA,0,,no
+931,reciprocal,0,932,swap,AUS-IDN,IDN,Indonesia,AUS,Australia,15/12/2015,15/12/2018,0,NA,,IDR,IDR,1,100000,NA,0,,no
+932,reciprocal,0,931,swap,AUS-IDN,AUS,Australia,IDN,Indonesia,15/12/2015,15/12/2018,0,NA,,AUD,AUD,1,10,NA,0,,no
+933,unidirectional,1,,swap,BTN-IND,IND,India,BTN,Bhutan,15/11/2012,31/12/9999,1,NA,,USD/EUR/INR,INR,1,0.1,0.1,0,SAARC,no
+934,unidirectional,0,,swap,BTN-IND,IND,India,BTN,Bhutan,08/03/2013,08/03/2016,0,NA,,USD/EUR/INR,INR,1,0.1,0.1,0,SAARC,no
+935,reciprocal,0,936,swap,AUS-JPN,JPN,Japan,AUS,Australia,18/03/2016,17/03/2019,0,NA,,JPY,JPY,1,1600,NA,0,,no
+936,reciprocal,0,935,swap,AUS-JPN,AUS,Australia,JPN,Japan,18/03/2016,17/03/2019,0,NA,,AUD,AUD,1,20,NA,0,,no
+937,unidirectional,0,,swap,IND-LKA,IND,India,LKA,Sri Lanka,29/03/2016,29/06/2016,1,supplement,921,USD,INR,0,0.7,0.7,0,,no
+938,reciprocal,0,939,swap,CHN-MAR,MAR,Morocco,CHN,China,11/05/2016,11/05/2019,0,NA,,MAD,MAD,1,15,1.53,0,,no
+939,reciprocal,0,938,swap,CHN-MAR,CHN,China,MAR,Morocco,11/05/2016,11/05/2019,0,NA,,CNY,CNY,1,10,NA,0,,no
+940,reciprocal,0,941,swap,CHN-SRB,SRB,Serbia,CHN,China,17/06/2016,17/06/2019,0,NA,,RSD,RSD,1,27,0.2277,0,,no
+941,reciprocal,0,940,swap,CHN-SRB,CHN,China,SRB,Serbia,17/06/2016,17/06/2019,0,NA,,CNY,CNY,1,1.5,NA,0,,no
+942,reciprocal,0,943,swap,CHN-HUN,HUN,Hungary,CHN,China,12/09/2016,12/09/2019,1,renew,645,HUF,HUF,1,416,NA,0,,no
+943,reciprocal,0,942,swap,CHN-HUN,CHN,China,HUN,Hungary,12/09/2016,12/09/2019,1,renew,646,CNY,CNY,1,10,NA,0,,no
+944,reciprocal,0,945,swap,JPN-SGP,JPN,Japan,SGP,Singapore,30/11/2016,29/11/2019,1,supplement,,JPY,JPY,1,1100,NA,0,,no
+945,reciprocal,0,944,swap,JPN-SGP,SGP,Singapore,JPN,Japan,30/11/2016,29/11/2019,1,supplement,,SGD,SGD,1,15,NA,0,,no
+946,reciprocal,0,947,swap,CHN-EGY,EGY,Egypt,CHN,China,06/12/2016,06/12/2019,0,NA,,EGP,EGP,1,47,NA,0,,no
+947,reciprocal,0,946,swap,CHN-EGY,CHN,China,EGY,Egypt,06/12/2016,06/12/2019,0,NA,,CNY,CNY,1,18,NA,0,,no
+948,reciprocal,0,949,swap,CHN-ISL,ISL,Iceland,CHN,China,21/12/2016,21/12/2019,1,reactivate,649,ISK,ISK,1,57,NA,0,,no
+949,reciprocal,0,948,swap,CHN-ISL,CHN,China,ISL,Iceland,21/12/2016,21/12/2019,1,reactivate,650,CNY,CNY,1,3.5,NA,0,,no
+950,reciprocal,0,951,swap,AUS-KOR,KOR,South Korea,AUS,Australia,08/02/2017,08/02/2020,1,renew,694,KRW,KRW,1,9000,NA,0,,no
+951,reciprocal,0,950,swap,AUS-KOR,AUS,Australia,KOR,South Korea,08/02/2017,08/02/2020,1,renew,695,AUD,AUD,1,10,NA,0,,no
+952,reciprocal,0,954,swap,JPN-MYS,JPN,Japan,MYS,Malaysia,18/09/2017,18/09/2020,1,NA,,USD,JPY,0,3,3,0,,yes
+953,reciprocal,0,955,swap,JPN-THA,JPN,Japan,THA,Thailand,05/05/2017,05/05/2020,1,reactivate,,USD,JPY,0,3,3,0,,yes
+954,reciprocal,0,952,swap,JPN-MYS,MYS,Malaysia,JPN,Japan,18/09/2017,18/09/2020,1,NA,,USD,MYR,0,3,3,0,,yes
+955,reciprocal,0,953,swap,JPN-THA,THA,Thailand,JPN,Japan,05/05/2017,05/05/2020,1,reactivate,,USD,THB,0,3,3,0,,yes
+956,reciprocal,0,957,swap,CHN-MNG,MNG,Mongolia,CHN,China,06/07/2017,06/07/2020,1,renew,884,MNT,MNT,1,5400,NA,0,,no
+957,reciprocal,0,956,swap,CHN-MNG,CHN,China,MNG,Mongolia,06/07/2017,06/07/2020,1,renew,885,CNY,CNY,1,15,NA,0,,no
+958,reciprocal,0,959,swap,ARG-CHN,ARG,Argentina,CHN,China,18/07/2017,18/07/2020,1,renew,880,ARS,ARS,1,175,NA,0,,no
+959,reciprocal,0,958,swap,ARG-CHN,CHN,China,ARG,Argentina,18/07/2017,18/07/2020,1,renew,881,CNY,CNY,1,70,NA,0,,no
+960,reciprocal,0,961,swap,CAN-KOR,CAN,Canada,KOR,South Korea,15/11/2017,31/12/9999,0,NA,,CAD,CAD,1,NA,NA,1,,no
+961,reciprocal,0,960,swap,CAN-KOR,KOR,South Korea,CAN,Canada,15/11/2017,31/12/9999,0,NA,,KRW,KRW,1,NA,NA,1,,no
+962,reciprocal,0,963,swap,CHN-HKG,HKG,Hong Kong,CHN,China,27/11/2017,27/11/2020,1,renew,896,HKD,HKD,1,470,NA,0,,no
+963,reciprocal,0,962,swap,CHN-HKG,CHN,China,HKG,Hong Kong,27/11/2017,27/11/2020,1,renew,897,CNY,CNY,1,400,NA,0,,no
+964,reciprocal,0,965,swap,CHN-THA,CHN,China,THA,Thailand,09/01/2018,09/01/2021,1,reactivate,900,CNY,CNY,1,70,NA,0,,no
+965,reciprocal,0,964,swap,CHN-THA,THA,Thailand,CHN,China,09/01/2018,09/01/2021,1,reactivate,901,THB,THB,1,370,NA,0,,no
+966,reciprocal,0,967,swap,CHE-KOR,KOR,South Korea,CHE,Switzerland,20/02/2018,20/02/2021,0,NA,,KRW,KRW,1,11200,NA,0,,no
+967,reciprocal,0,966,swap,CHE-KOR,CHE,Switzerland,KOR,South Korea,20/02/2018,20/02/2021,0,NA,,CHF,CHF,1,10,NA,0,,no
+968,reciprocal,0,969,swap,ALB-CHN,ALB,Albania,CHN,China,13/04/2018,13/04/2021,1,reactivate,647,ALL,ALL,1,34.2,NA,0,,no
+969,reciprocal,0,968,swap,ALB-CHN,CHN,China,ALB,Albania,13/04/2018,13/04/2021,1,reactivate,648,CNY,CNY,1,2,NA,0,,no
+970,reciprocal,0,971,swap,CHN-NGA,NGA,Nigeria,CHN,China,27/04/2018,27/04/2021,0,NA,,NGN,NGN,1,720,NA,0,,no
+971,reciprocal,0,970,swap,CHN-NGA,CHN,China,NGA,Nigeria,27/04/2018,27/04/2021,0,NA,,CNY,CNY,1,15,NA,0,,no
+972,unidirectional,0,,swap,IDN-JPN,JPN,Japan,IDN,Indonesia,14/10/2018,14/10/2021,1,reactivate,691,USD/JPY,JPY,1,22.76,22.76,0,CMI_BSA,yes
+973,reciprocal,0,974,swap,BLR-CHN,BLR,Belarus,CHN,China,10/05/2018,10/05/2021,1,renew,913,BYN,BYN,1,2.22,NA,0,,no
+974,reciprocal,0,973,swap,BLR-CHN,CHN,China,BLR,Belarus,10/05/2018,10/05/2021,1,renew,914,CNY,CNY,1,7,NA,0,,no
+975,reciprocal,0,976,swap,CHN-PAK,PAK,Pakistan,CHN,China,24/05/2018,24/05/2021,1,reactivate,902,PKR,PKR,1,351,NA,0,,no
+976,reciprocal,0,975,swap,CHN-PAK,CHN,China,PAK,Pakistan,24/05/2018,24/05/2021,1,reactivate,903,CNY,CNY,1,20,NA,0,,no
+977,reciprocal,0,978,swap,CHN-KAZ,KAZ,Kazakhstan,CHN,China,28/05/2018,27/05/2021,1,reactivate,898,KZT,KZT,1,350,NA,0,,no
+978,reciprocal,0,977,swap,CHN-KAZ,CHN,China,KAZ,Kazakhstan,28/05/2018,27/05/2021,1,reactivate,899,CNY,CNY,1,5,NA,0,,no
+979,reciprocal,0,980,swap,JPN-THA,JPN,Japan,THA,Thailand,23/07/2018,23/07/2021,1,renew,953,USD/JPY,JPY,1,3,3,0,,yes
+980,reciprocal,0,979,swap,JPN-THA,THA,Thailand,JPN,Japan,23/07/2018,23/07/2021,1,renew,955,USD,THB,0,3,3,0,,yes
+981,reciprocal,0,982,swap,QAT-TUR,TUR,Turkey,QAT,Qatar,17/08/2018,25/11/2019,0,NA,,TRY,TRY,1,NA,3,0,,yes
+982,reciprocal,0,981,swap,QAT-TUR,QAT,Qatar,TUR,Turkey,17/08/2018,25/11/2019,0,NA,,QAR,QAR,1,NA,3,0,,yes
+983,reciprocal,0,984,swap,CHN-JPN,JPN,Japan,CHN,China,26/10/2018,26/10/2021,1,reactivate,125,JPY,JPY,1,3400,NA,0,,no
+984,reciprocal,0,983,swap,CHN-JPN,CHN,China,JPN,Japan,26/10/2018,26/10/2021,1,reactivate,126,CNY,CNY,1,200,NA,0,,no
+985,reciprocal,0,987,swap,IDN-SGP,IDN,Indonesia,SGP,Singapore,05/11/2018,05/11/2019,1,NA,,IDR,IDR,1,100000,NA,0,,no
+986,reciprocal,0,988,repo,IDN-SGP,IDN,Indonesia,SGP,Singapore,05/11/2018,05/11/2019,1,supplement,,USD,IDR,0,3,3,0,,no
+987,reciprocal,0,985,swap,IDN-SGP,SGP,Singapore,IDN,Indonesia,05/11/2018,05/11/2019,1,NA,,SGD,SGD,1,9.5,NA,0,,no
+988,reciprocal,0,986,repo,IDN-SGP,SGP,Singapore,IDN,Indonesia,05/11/2018,05/11/2019,1,supplement,,USD,SGD,0,3,3,0,,no
+989,reciprocal,0,990,swap,CHN-IDN,IDN,Indonesia,CHN,China,19/11/2018,19/11/2021,1,reactivate,651,IDR,IDR,1,440000,NA,0,,no
+990,reciprocal,0,989,swap,CHN-IDN,CHN,China,IDN,Indonesia,19/11/2018,19/11/2021,1,reactivate,652,CNY,CNY,1,200,NA,0,,no
+991,unidirectional,0,,swap,ARG-CHN,CHN,China,ARG,Argentina,02/12/2018,18/07/2020,1,supplement,,CNY,CNY,1,60,NA,0,,no
+992,reciprocal,0,994,swap,ARG-CHN,ARG,Argentina,CHN,China,06/08/2020,06/08/2023,1,renew,958,ARS,ARS,1,730,18.7,0,,no
+993,unidirectional,0,,swap,ARG-CHN,CHN,China,ARG,Argentina,06/08/2020,06/08/2023,1,supplement,991,CNY,CNY,1,60,NA,0,,no
+994,reciprocal,0,992,swap,ARG-CHN,CHN,China,ARG,Argentina,06/08/2020,06/08/2023,1,renew,959,CNY,CNY,1,70,NA,0,,no
+995,reciprocal,0,996,swap,ARE-IND,IND,India,ARE,United Arab Emirates,04/12/2018,04/12/2021,0,NA,,INR,INR,1,35,NA,0,,yes
+996,reciprocal,0,995,swap,ARE-IND,ARE,United Arab Emirates,IND,India,04/12/2018,04/12/2021,0,NA,,AED,AED,1,2,NA,0,,yes
+997,reciprocal,0,998,swap,CHN-UKR,CHN,China,UKR,Ukraine,10/12/2018,10/12/2021,1,reactivate,915,CNY,CNY,1,15,NA,0,,no
+998,reciprocal,0,997,swap,CHN-UKR,UKR,Ukraine,CHN,China,10/12/2018,10/12/2021,1,reactivate,916,UAH,UAH,1,62,NA,0,,no
+999,reciprocal,0,1000,swap,IND-JPN,JPN,Japan,IND,India,28/02/2019,28/02/2022,1,reactivate,692,USD,JPY,0,75,75,0,,no
+1000,reciprocal,0,999,swap,IND-JPN,IND,India,JPN,Japan,28/02/2019,28/02/2022,1,reactivate,963,USD,INR,0,75,75,0,,no
+1001,reciprocal,0,1002,swap,ARE-KOR,KOR,South Korea,ARE,United Arab Emirates,13/04/2019,13/04/2022,1,reactivate,657,KRW,KRW,1,6100,NA,0,,no
+1002,reciprocal,0,1001,swap,ARE-KOR,ARE,United Arab Emirates,KOR,South Korea,13/04/2019,13/04/2022,1,reactivate,658,AED,AED,1,20,NA,0,,no
+1003,reciprocal,0,1004,swap,CHN-SGP,CHN,China,SGP,Singapore,13/05/2019,13/05/2022,1,reactivate,1478,CNY,CNY,1,300,NA,0,,no
+1004,reciprocal,0,1003,swap,CHN-SGP,SGP,Singapore,CHN,China,13/05/2019,13/05/2022,1,reactivate,1479,SGD,SGD,1,61,NA,0,,no
+1005,reciprocal,0,1006,swap,CHN-TUR,TUR,Turkey,CHN,China,30/05/2019,30/05/2022,1,reactivate,927,TRY,TRY,1,10.9,NA,0,,no
+1006,reciprocal,0,1005,swap,CHN-TUR,CHN,China,TUR,Turkey,30/05/2019,30/05/2022,1,reactivate,928,CNY,CNY,1,12,NA,0,,no
+1007,reciprocal,0,1008,swap,IDN-MYS,IDN,Indonesia,MYS,Malaysia,27/09/2019,27/09/2022,1,NA,,IDR,IDR,1,28000,NA,0,,no
+1008,reciprocal,0,1007,swap,IDN-MYS,MYS,Malaysia,IDN,Indonesia,27/09/2019,27/09/2022,1,NA,,MYR,MYR,1,8,NA,0,,no
+1009,reciprocal,0,1010,swap,QAT-TUR,TUR,Turkey,QAT,Qatar,25/11/2019,20/05/2020,1,renew,981,TRY,TRY,1,NA,5,0,,yes
+1010,reciprocal,0,1009,swap,QAT-TUR,QAT,Qatar,TUR,Turkey,25/11/2019,20/05/2020,1,renew,982,QAR,QAR,1,NA,5,0,,yes
+1011,reciprocal,0,1012,swap,CHN-MAC,MAC,Macao,CHN,China,05/12/2019,05/12/2022,0,NA,,MOP,MOP,1,35,NA,0,,no
+1012,reciprocal,0,1011,swap,CHN-MAC,CHN,China,MAC,Macao,05/12/2019,05/12/2022,0,NA,,CNY,CNY,1,30,NA,0,,no
+1013,reciprocal,0,1014,swap,CHN-HUN,HUN,Hungary,CHN,China,10/12/2019,10/12/2021,1,reactivate,942,HUF,HUF,1,864,NA,0,,no
+1014,reciprocal,0,1013,swap,CHN-HUN,CHN,China,HUN,Hungary,10/12/2019,10/12/2021,1,reactivate,943,CNY,CNY,1,20,NA,0,,no
+1015,reciprocal,0,1016,swap,AUS-KOR,KOR,South Korea,AUS,Australia,06/02/2020,06/02/2023,1,renew,950,KRW,KRW,1,9600,NA,0,,no
+1016,reciprocal,0,1015,swap,AUS-KOR,AUS,Australia,KOR,South Korea,06/02/2020,06/02/2023,1,renew,951,AUD,AUD,1,12,NA,0,,no
+1017,reciprocal,0,1018,swap,CHN-EGY,EGY,Egypt,CHN,China,10/02/2020,10/02/2023,1,reactivate,946,EGP,EGP,1,41,NA,0,,no
+1018,reciprocal,0,1017,swap,CHN-EGY,CHN,China,EGY,Egypt,10/02/2020,10/02/2023,1,reactivate,947,CNY,CNY,1,18,NA,0,,no
+1019,unidirectional,0,,swap,KOR-USA,USA,USA,KOR,South Korea,19/03/2020,19/09/2020,1,reactivate,1391,USD,USD,1,60,60,0,,no
+1020,unidirectional,0,,swap,BRA-USA,USA,USA,BRA,Brazil,19/03/2020,19/09/2020,1,reactivate,1392,USD,USD,1,60,60,0,,no
+1021,unidirectional,0,,swap,DNK-USA,USA,USA,DNK,Denmark,19/03/2020,19/09/2020,1,reactivate,300,USD,USD,1,30,30,0,,no
+1022,unidirectional,0,,swap,MEX-USA,USA,USA,MEX,Mexico,19/03/2020,19/09/2020,1,reactivate,1393,USD,USD,1,60,60,0,,no
+1023,unidirectional,0,,swap,NOR-USA,USA,USA,NOR,Norway,19/03/2020,19/09/2020,1,reactivate,298,USD,USD,1,30,30,0,,no
+1024,unidirectional,0,,swap,AUS-USA,USA,USA,AUS,Australia,19/03/2020,19/09/2020,1,reactivate,301,USD,USD,1,60,60,0,,no
+1025,unidirectional,0,,swap,NZL-USA,USA,USA,NZL,New Zealand,19/03/2020,19/09/2020,1,reactivate,1390,USD,USD,1,30,30,0,,no
+1026,unidirectional,0,,swap,SGP-USA,USA,USA,SGP,Singapore,19/03/2020,19/09/2020,1,reactivate,1394,USD,USD,1,60,60,0,,no
+1027,unidirectional,0,,swap,SWE-USA,USA,USA,SWE,Sweden,19/03/2020,19/09/2020,1,reactivate,299,USD,USD,1,60,60,0,,no
+1028,unidirectional,0,,swap,KOR-USA,USA,USA,KOR,South Korea,29/07/2020,31/03/2021,1,renew,1019,USD,USD,1,60,60,0,,no
+1029,unidirectional,0,,swap,BRA-USA,USA,USA,BRA,Brazil,29/07/2020,31/03/2021,1,renew,1020,USD,USD,1,60,60,0,,no
+1030,unidirectional,0,,swap,DNK-USA,USA,USA,DNK,Denmark,29/07/2020,31/03/2021,1,renew,1021,USD,USD,1,30,30,0,,no
+1031,unidirectional,0,,swap,MEX-USA,USA,USA,MEX,Mexico,29/07/2020,31/03/2021,1,renew,1022,USD,USD,1,60,60,0,,no
+1032,unidirectional,0,,swap,NOR-USA,USA,USA,NOR,Norway,29/07/2020,31/03/2021,1,renew,1023,USD,USD,1,30,30,0,,no
+1033,unidirectional,0,,swap,AUS-USA,USA,USA,AUS,Australia,29/07/2020,31/03/2021,1,renew,1024,USD,USD,1,60,60,0,,no
+1034,unidirectional,0,,swap,NZL-USA,USA,USA,NZL,New Zealand,29/07/2020,31/03/2021,1,renew,1025,USD,USD,1,30,30,0,,no
+1035,unidirectional,0,,swap,SGP-USA,USA,USA,SGP,Singapore,29/07/2020,31/03/2021,1,renew,1026,USD,USD,1,60,60,0,,no
+1036,unidirectional,0,,swap,SWE-USA,USA,USA,SWE,Sweden,29/07/2020,31/03/2021,1,renew,1027,USD,USD,1,60,60,0,,no
+1037,unidirectional,0,,swap,KOR-USA,USA,USA,KOR,South Korea,16/12/2020,30/09/2021,1,renew,1028,USD,USD,1,60,60,0,,no
+1038,unidirectional,0,,swap,BRA-USA,USA,USA,BRA,Brazil,16/12/2020,30/09/2021,1,renew,1029,USD,USD,1,60,60,0,,no
+1039,unidirectional,0,,swap,DNK-USA,USA,USA,DNK,Denmark,16/12/2020,30/09/2021,1,renew,1030,USD,USD,1,30,30,0,,no
+1040,unidirectional,0,,swap,MEX-USA,USA,USA,MEX,Mexico,16/12/2020,30/09/2021,1,renew,1031,USD,USD,1,60,60,0,,no
+1041,unidirectional,0,,swap,NOR-USA,USA,USA,NOR,Norway,16/12/2020,30/09/2021,1,renew,1032,USD,USD,1,30,30,0,,no
+1042,unidirectional,0,,swap,AUS-USA,USA,USA,AUS,Australia,16/12/2020,30/09/2021,1,renew,1033,USD,USD,1,60,60,0,,no
+1043,unidirectional,0,,swap,NZL-USA,USA,USA,NZL,New Zealand,16/12/2020,30/09/2021,1,renew,1034,USD,USD,1,30,30,0,,no
+1044,unidirectional,0,,swap,SGP-USA,USA,USA,SGP,Singapore,16/12/2020,30/09/2021,1,renew,1035,USD,USD,1,60,60,0,,no
+1045,unidirectional,0,,swap,SWE-USA,USA,USA,SWE,Sweden,16/12/2020,30/09/2021,1,renew,1036,USD,USD,1,60,60,0,,no
+1046,unidirectional,0,,swap,KOR-USA,USA,USA,KOR,South Korea,16/06/2021,31/12/2021,1,renew,1037,USD,USD,1,60,60,0,,no
+1047,unidirectional,0,,swap,BRA-USA,USA,USA,BRA,Brazil,16/06/2021,31/12/2021,1,renew,1038,USD,USD,1,60,60,0,,no
+1048,unidirectional,0,,swap,DNK-USA,USA,USA,DNK,Denmark,16/06/2021,31/12/2021,1,renew,1039,USD,USD,1,30,30,0,,no
+1049,unidirectional,0,,swap,MEX-USA,USA,USA,MEX,Mexico,16/06/2021,31/12/2021,1,renew,1040,USD,USD,1,60,60,0,,no
+1050,unidirectional,0,,swap,NOR-USA,USA,USA,NOR,Norway,16/06/2021,31/12/2021,1,renew,1041,USD,USD,1,30,30,0,,no
+1051,unidirectional,0,,swap,AUS-USA,USA,USA,AUS,Australia,16/06/2021,31/12/2021,1,renew,1042,USD,USD,1,60,60,0,,no
+1052,unidirectional,0,,swap,NZL-USA,USA,USA,NZL,New Zealand,16/06/2021,31/12/2021,1,renew,1043,USD,USD,1,30,30,0,,no
+1053,unidirectional,0,,swap,SGP-USA,USA,USA,SGP,Singapore,16/06/2021,31/12/2021,1,renew,1044,USD,USD,1,60,60,0,,no
+1054,unidirectional,0,,swap,SWE-USA,USA,USA,SWE,Sweden,16/06/2021,31/12/2021,1,renew,1045,USD,USD,1,60,60,0,,no
+1055,unidirectional,0,,swap,DNK-EA,EA,EA,DNK,Denmark,20/03/2020,31/12/9999,1,reactivate,309,EUR,EUR,1,24,NA,0,,no
+1056,reciprocal,0,1057,swap,JPN-THA,JPN,Japan,THA,Thailand,31/03/2020,30/03/2023,1,supplement,,JPY,JPY,1,800,NA,0,,no
+1057,reciprocal,0,1056,swap,JPN-THA,THA,Thailand,JPN,Japan,31/03/2020,30/03/2023,1,supplement,,THB,THB,1,240,NA,0,,no
+1058,unidirectional,0,,swap,EA-HRV,EA,EA,HRV,Croatia,15/04/2020,31/12/2020,0,NA,,EUR,EUR,1,2,NA,0,,no
+1059,unidirectional,0,,swap,BGR-EA,EA,EA,BGR,Bulgaria,22/04/2020,31/12/2020,0,NA,,EUR,EUR,1,2,NA,0,,no
+1060,reciprocal,0,1061,swap,QAT-TUR,TUR,Turkey,QAT,Qatar,20/05/2020,31/12/9999,1,renew,1009,TRY,TRY,1,NA,15,0,,no
+1061,reciprocal,0,1060,swap,QAT-TUR,QAT,Qatar,TUR,Turkey,20/05/2020,31/12/9999,1,renew,1010,QAR,QAR,1,NA,15,0,,no
+1062,unidirectional,0,,repo,EA-ROU,EA,EA,ROU,Romania,05/06/2020,31/12/2020,0,NA,,EUR,EUR,1,4.5,NA,0,EUREP,no
+1063,unidirectional,0,,repo,ALB-EA,EA,EA,ALB,Albania,17/07/2020,30/06/2021,0,NA,,EUR,EUR,1,0.4,NA,0,EUREP,no
+1064,unidirectional,0,,repo,EA-SRB,EA,EA,SRB,Serbia,17/07/2020,30/06/2021,0,NA,,EUR,EUR,1,1,NA,0,EUREP,no
+1065,unidirectional,0,,repo,EA-HUN,EA,EA,HUN,Hungary,23/07/2020,30/06/2021,1,reactivate,308,EUR,EUR,1,4,NA,0,EUREP,no
+1066,unidirectional,0,,repo,EA-SMR,EA,EA,SMR,San Marino,18/08/2020,30/06/2021,0,NA,,EUR,EUR,1,0.1,0.1,0,EUREP,no
+1067,unidirectional,0,,repo,EA-MKD,EA,EA,MKD,North Macedonia,18/08/2020,30/06/2021,0,NA,,EUR,EUR,1,0.4,NA,0,EUREP,no
+1068,unidirectional,0,,repo,EA-ROU,EA,EA,ROU,Romania,28/08/2020,30/06/2021,1,renew,1062,EUR,EUR,1,4.5,NA,0,EUREP,no
+1069,unidirectional,0,,repo,EA-ROU,EA,EA,ROU,Romania,04/02/2021,31/03/2022,1,renew,1068,EUR,EUR,1,4.5,NA,0,EUREP,no
+1070,unidirectional,0,,repo,ALB-EA,EA,EA,ALB,Albania,04/02/2021,31/03/2022,1,renew,1063,EUR,EUR,1,0.4,NA,0,EUREP,no
+1071,unidirectional,0,,repo,EA-HUN,EA,EA,HUN,Hungary,04/02/2021,31/03/2022,1,renew,1065,EUR,EUR,1,4,NA,0,EUREP,no
+1072,unidirectional,0,,repo,EA-SMR,EA,EA,SMR,San Marino,04/02/2021,31/03/2022,1,renew,1066,EUR,EUR,1,0.1,0.1,0,EUREP,no
+1073,reciprocal,0,1074,swap,CHL-CHN,CHL,Chile,CHN,China,25/05/2018,25/05/2021,1,renew,919,CLP,CLP,1,2200,NA,0,,no
+1074,reciprocal,0,1073,swap,CHL-CHN,CHN,China,CHL,Chile,25/05/2018,25/05/2021,1,renew,920,CNY,CNY,1,22,NA,0,,no
+1075,unidirectional,0,,swap,IND-LKA,IND,India,LKA,Sri Lanka,27/07/2020,30/11/2022,1,renew,1332,USD/EUR/INR,INR,1,0.4,0.4,0,SAARC,no
+1076,reciprocal,0,1077,swap,CHN-MNG,MNG,Mongolia,CHN,China,31/07/2020,31/07/2023,1,renew,956,MNT,MNT,1,6000,NA,0,,no
+1077,reciprocal,0,1076,swap,CHN-MNG,CHN,China,MNG,Mongolia,31/07/2020,31/07/2023,1,renew,957,CNY,CNY,1,15,NA,0,,no
+1078,unidirectional,0,,repo,EA-MKD,EA,EA,MKD,North Macedonia,04/02/2021,31/03/2022,1,renew,1067,EUR,EUR,1,0.4,NA,0,EUREP,no
+1079,unidirectional,0,,repo,EA-SRB,EA,EA,SRB,Serbia,04/02/2021,31/03/2022,1,renew,1064,EUR,EUR,1,1,NA,0,EUREP,no
+1080,reciprocal,0,1081,swap,CHN-NZL,CHN,China,NZL,New Zealand,19/05/2017,19/05/2020,1,renew,696,CNY,CNY,1,25,NA,0,,no
+1081,reciprocal,0,1080,swap,CHN-NZL,NZL,New Zealand,CHN,China,19/05/2017,19/05/2020,1,renew,697,NZD,NZD,1,5,NA,0,,no
+1082,reciprocal,0,1083,swap,CHN-NZL,CHN,China,NZL,New Zealand,22/08/2020,22/08/2023,1,reactivate,1080,CNY,CNY,1,25,NA,0,,no
+1083,reciprocal,0,1082,swap,CHN-NZL,NZL,New Zealand,CHN,China,22/08/2020,22/08/2023,1,reactivate,1081,NZD,NZD,1,5,NA,0,,no
+1084,reciprocal,0,1085,swap,CHN-HUN,HUN,Hungary,CHN,China,10/12/2022,10/12/2025,1,reactivate,1013,HUF,HUF,1,2200,NA,0,,no
+1085,reciprocal,0,1084,swap,CHN-HUN,CHN,China,HUN,Hungary,10/12/2022,10/12/2025,1,reactivate,1014,CNY,CNY,1,40,NA,0,,no
+1086,reciprocal,0,1087,swap,CHN-KOR,KOR,South Korea,CHN,China,11/10/2020,10/10/2025,1,renew,1546,KRW,KRW,1,70000,NA,0,,no
+1087,reciprocal,0,1086,swap,CHN-KOR,CHN,China,KOR,South Korea,11/10/2020,10/10/2025,1,renew,1547,CNY,CNY,1,400,NA,0,,no
+1088,reciprocal,0,1089,swap,CHN-ISL,ISL,Iceland,CHN,China,19/10/2020,19/10/2023,1,reactivate,948,ISK,ISK,1,70,NA,0,,no
+1089,reciprocal,0,1088,swap,CHN-ISL,CHN,China,ISL,Iceland,19/10/2020,19/10/2023,1,reactivate,949,CNY,CNY,1,3.5,NA,0,,no
+1090,reciprocal,0,1091,swap,DNK-NOR,DNK,Denmark,NOR,Norway,12/11/2020,31/12/9999,0,NA,,DKK,DKK,1,NA,NA,1,,no
+1091,reciprocal,0,1090,swap,DNK-NOR,NOR,Norway,DNK,Denmark,12/11/2020,31/12/9999,0,NA,,NOK,NOK,1,NA,NA,1,,no
+1092,reciprocal,0,1093,swap,NOR-SWE,NOR,Norway,SWE,Sweden,12/11/2020,31/12/9999,0,NA,,NOK,NOK,1,NA,NA,1,,no
+1093,reciprocal,0,1092,swap,NOR-SWE,SWE,Sweden,NOR,Norway,12/11/2020,31/12/9999,0,NA,,SEK,SEK,1,NA,NA,1,,no
+1094,reciprocal,0,1095,swap,CHN-HKG,HKG,Hong Kong,CHN,China,25/11/2020,25/11/2025,1,renew,962,HKD,HKD,1,590,NA,0,,no
+1095,reciprocal,0,1094,swap,CHN-HKG,CHN,China,HKG,Hong Kong,25/11/2020,25/11/2025,1,renew,963,CNY,CNY,1,500,NA,0,,no
+1096,reciprocal,0,1097,swap,CAN-CHN,CAN,Canada,CHN,China,13/01/2021,13/01/2026,1,reactivate,1395,CAD,CAD,1,30,NA,0,,no
+1097,reciprocal,0,1096,swap,CAN-CHN,CHN,China,CAN,Canada,13/01/2021,13/01/2026,1,reactivate,1396,CNY,CNY,1,200,NA,0,,no
+1098,reciprocal,0,1099,swap,CHN-LKA,CHN,China,LKA,Sri Lanka,22/03/2021,22/03/2024,1,reactivate,886,CNY,CNY,1,10,NA,0,,no
+1099,reciprocal,0,1098,swap,CHN-LKA,LKA,Sri Lanka,CHN,China,22/03/2021,22/03/2024,1,reactivate,887,LKR,LKR,1,300,NA,0,,no
+1100,pooled fund,1,,swap,JPN-KOR,JPN,Japan,KOR,South Korea,31/03/2021,31/12/9999,1,renew,698,USD/JPY,JPY,1,38.4,38.4,0,CMIM,no
+1101,pooled fund,1,,swap,BRN-JPN,JPN,Japan,BRN,Brunei,31/03/2021,31/12/9999,1,renew,699,USD/JPY,JPY,1,0.3,0.3,0,CMIM,no
+1102,pooled fund,1,,swap,JPN-KHM,JPN,Japan,KHM,Cambodia,31/03/2021,31/12/9999,1,renew,700,USD/JPY,JPY,1,1.2,1.2,0,CMIM,no
+1103,pooled fund,1,,swap,HKG-JPN,JPN,Japan,HKG,Hong Kong,31/03/2021,31/12/9999,1,renew,701,USD/JPY,JPY,1,21,21,0,CMIM,no
+1104,pooled fund,1,,swap,IDN-JPN,JPN,Japan,IDN,Indonesia,31/03/2021,31/12/9999,1,renew,702,USD/JPY,JPY,1,22.76,22.76,0,CMIM,no
+1105,pooled fund,1,,swap,JPN-LAO,JPN,Japan,LAO,Lao People's Democratic Republic,31/03/2021,31/12/9999,1,renew,703,USD/JPY,JPY,1,0.3,0.3,0,CMIM,no
+1106,pooled fund,1,,swap,JPN-MMR,JPN,Japan,MMR,Myanmar,31/03/2021,31/12/9999,1,renew,704,USD/JPY,JPY,1,0.6,0.6,0,CMIM,no
+1107,pooled fund,1,,swap,JPN-MYS,JPN,Japan,MYS,Malaysia,31/03/2021,31/12/9999,1,renew,705,USD/JPY,JPY,1,22.76,22.76,0,CMIM,no
+1108,pooled fund,1,,swap,CHN-JPN,JPN,Japan,CHN,China,31/03/2021,31/12/9999,1,renew,706,USD/JPY,JPY,1,34.2,34.2,0,CMIM,no
+1109,pooled fund,1,,swap,JPN-PHL,JPN,Japan,PHL,Philippines,31/03/2021,31/12/9999,1,renew,707,USD/JPY,JPY,1,22.76,22.76,0,CMIM,no
+1110,pooled fund,1,,swap,JPN-SGP,JPN,Japan,SGP,Singapore,31/03/2021,31/12/9999,1,renew,708,USD/JPY,JPY,1,22.76,22.76,0,CMIM,no
+1111,pooled fund,1,,swap,JPN-THA,JPN,Japan,THA,Thailand,31/03/2021,31/12/9999,1,renew,709,USD/JPY,JPY,1,22.76,22.76,0,CMIM,no
+1112,pooled fund,1,,swap,JPN-VNM,JPN,Japan,VNM,Vietnam,31/03/2021,31/12/9999,1,renew,710,USD/JPY,JPY,1,10,10,0,CMIM,no
+1113,pooled fund,1,,swap,JPN-KOR,KOR,South Korea,JPN,Japan,31/03/2021,31/12/9999,1,renew,711,USD/KRW,KRW,1,38.4,38.4,0,CMIM,no
+1114,pooled fund,1,,swap,BRN-KOR,KOR,South Korea,BRN,Brunei,31/03/2021,31/12/9999,1,renew,712,USD/KRW,KRW,1,0.3,0.3,0,CMIM,no
+1115,pooled fund,1,,swap,KHM-KOR,KOR,South Korea,KHM,Cambodia,31/03/2021,31/12/9999,1,renew,713,USD/KRW,KRW,1,1.2,1.2,0,CMIM,no
+1116,pooled fund,1,,swap,HKG-KOR,KOR,South Korea,HKG,Hong Kong,31/03/2021,31/12/9999,1,renew,714,USD/KRW,KRW,1,21,21,0,CMIM,no
+1117,pooled fund,1,,swap,IDN-KOR,KOR,South Korea,IDN,Indonesia,31/03/2021,31/12/9999,1,renew,715,USD/KRW,KRW,1,22.76,22.76,0,CMIM,no
+1118,pooled fund,1,,swap,KOR-LAO,KOR,South Korea,LAO,Lao People's Democratic Republic,31/03/2021,31/12/9999,1,renew,716,USD/KRW,KRW,1,0.3,0.3,0,CMIM,no
+1119,pooled fund,1,,swap,KOR-MMR,KOR,South Korea,MMR,Myanmar,31/03/2021,31/12/9999,1,renew,717,USD/KRW,KRW,1,0.6,0.6,0,CMIM,no
+1120,pooled fund,1,,swap,KOR-MYS,KOR,South Korea,MYS,Malaysia,31/03/2021,31/12/9999,1,renew,718,USD/KRW,KRW,1,22.76,22.76,0,CMIM,no
+1121,pooled fund,1,,swap,CHN-KOR,KOR,South Korea,CHN,China,31/03/2021,31/12/9999,1,renew,719,USD/KRW,KRW,1,34.2,34.2,0,CMIM,no
+1122,pooled fund,1,,swap,KOR-PHL,KOR,South Korea,PHL,Philippines,31/03/2021,31/12/9999,1,renew,720,USD/KRW,KRW,1,22.76,22.76,0,CMIM,no
+1123,pooled fund,1,,swap,KOR-SGP,KOR,South Korea,SGP,Singapore,31/03/2021,31/12/9999,1,renew,721,USD/KRW,KRW,1,22.76,22.76,0,CMIM,no
+1124,pooled fund,1,,swap,KOR-THA,KOR,South Korea,THA,Thailand,31/03/2021,31/12/9999,1,renew,722,USD/KRW,KRW,1,22.76,22.76,0,CMIM,no
+1125,pooled fund,1,,swap,KOR-VNM,KOR,South Korea,VNM,Vietnam,31/03/2021,31/12/9999,1,renew,723,USD/KRW,KRW,1,10,10,0,CMIM,no
+1126,pooled fund,1,,swap,BRN-JPN,BRN,Brunei,JPN,Japan,31/03/2021,31/12/9999,1,renew,724,USD/BND,BND,1,38.4,38.4,0,CMIM,no
+1127,pooled fund,1,,swap,BRN-KOR,BRN,Brunei,KOR,South Korea,31/03/2021,31/12/9999,1,renew,725,USD/BND,BND,1,38.4,38.4,0,CMIM,no
+1128,pooled fund,1,,swap,BRN-KHM,BRN,Brunei,KHM,Cambodia,31/03/2021,31/12/9999,1,renew,726,USD/BND,BND,1,1.2,1.2,0,CMIM,no
+1129,pooled fund,1,,swap,BRN-HKG,BRN,Brunei,HKG,Hong Kong,31/03/2021,31/12/9999,1,renew,727,USD/BND,BND,1,21,21,0,CMIM,no
+1130,pooled fund,1,,swap,BRN-IDN,BRN,Brunei,IDN,Indonesia,31/03/2021,31/12/9999,1,renew,728,USD/BND,BND,1,22.76,22.76,0,CMIM,no
+1131,pooled fund,1,,swap,BRN-LAO,BRN,Brunei,LAO,Lao People's Democratic Republic,31/03/2021,31/12/9999,1,renew,729,USD/BND,BND,1,0.3,0.3,0,CMIM,no
+1132,pooled fund,1,,swap,BRN-MMR,BRN,Brunei,MMR,Myanmar,31/03/2021,31/12/9999,1,renew,730,USD/BND,BND,1,0.6,0.6,0,CMIM,no
+1133,pooled fund,1,,swap,BRN-MYS,BRN,Brunei,MYS,Malaysia,31/03/2021,31/12/9999,1,renew,731,USD/BND,BND,1,22.76,22.76,0,CMIM,no
+1134,pooled fund,1,,swap,BRN-CHN,BRN,Brunei,CHN,China,31/03/2021,31/12/9999,1,renew,732,USD/BND,BND,1,34.2,34.2,0,CMIM,no
+1135,pooled fund,1,,swap,BRN-PHL,BRN,Brunei,PHL,Philippines,31/03/2021,31/12/9999,1,renew,733,USD/BND,BND,1,22.76,22.76,0,CMIM,no
+1136,pooled fund,1,,swap,BRN-SGP,BRN,Brunei,SGP,Singapore,31/03/2021,31/12/9999,1,renew,734,USD/BND,BND,1,22.76,22.76,0,CMIM,no
+1137,pooled fund,1,,swap,BRN-THA,BRN,Brunei,THA,Thailand,31/03/2021,31/12/9999,1,renew,735,USD/BND,BND,1,22.76,22.76,0,CMIM,no
+1138,pooled fund,1,,swap,BRN-VNM,BRN,Brunei,VNM,Vietnam,31/03/2021,31/12/9999,1,renew,736,USD/BND,BND,1,10,10,0,CMIM,no
+1139,pooled fund,1,,swap,JPN-KHM,KHM,Cambodia,JPN,Japan,31/03/2021,31/12/9999,1,renew,737,USD/KHR,KHR,1,38.4,38.4,0,CMIM,no
+1140,pooled fund,1,,swap,KHM-KOR,KHM,Cambodia,KOR,South Korea,31/03/2021,31/12/9999,1,renew,738,USD/KHR,KHR,1,38.4,38.4,0,CMIM,no
+1141,pooled fund,1,,swap,BRN-KHM,KHM,Cambodia,BRN,Brunei,31/03/2021,31/12/9999,1,renew,739,USD/KHR,KHR,1,0.3,0.3,0,CMIM,no
+1142,pooled fund,1,,swap,HKG-KHM,KHM,Cambodia,HKG,Hong Kong,31/03/2021,31/12/9999,1,renew,740,USD/KHR,KHR,1,21,21,0,CMIM,no
+1143,pooled fund,1,,swap,IDN-KHM,KHM,Cambodia,IDN,Indonesia,31/03/2021,31/12/9999,1,renew,741,USD/KHR,KHR,1,22.76,22.76,0,CMIM,no
+1144,pooled fund,1,,swap,KHM-LAO,KHM,Cambodia,LAO,Lao People's Democratic Republic,31/03/2021,31/12/9999,1,renew,742,USD/KHR,KHR,1,0.3,0.3,0,CMIM,no
+1145,pooled fund,1,,swap,KHM-MMR,KHM,Cambodia,MMR,Myanmar,31/03/2021,31/12/9999,1,renew,743,USD/KHR,KHR,1,0.6,0.6,0,CMIM,no
+1146,pooled fund,1,,swap,KHM-MYS,KHM,Cambodia,MYS,Malaysia,31/03/2021,31/12/9999,1,renew,744,USD/KHR,KHR,1,22.76,22.76,0,CMIM,no
+1147,pooled fund,1,,swap,CHN-KHM,KHM,Cambodia,CHN,China,31/03/2021,31/12/9999,1,renew,745,USD/KHR,KHR,1,34.2,34.2,0,CMIM,no
+1148,pooled fund,1,,swap,KHM-PHL,KHM,Cambodia,PHL,Philippines,31/03/2021,31/12/9999,1,renew,746,USD/KHR,KHR,1,22.76,22.76,0,CMIM,no
+1149,pooled fund,1,,swap,KHM-SGP,KHM,Cambodia,SGP,Singapore,31/03/2021,31/12/9999,1,renew,747,USD/KHR,KHR,1,22.76,22.76,0,CMIM,no
+1150,pooled fund,1,,swap,KHM-THA,KHM,Cambodia,THA,Thailand,31/03/2021,31/12/9999,1,renew,748,USD/KHR,KHR,1,22.76,22.76,0,CMIM,no
+1151,pooled fund,1,,swap,KHM-VNM,KHM,Cambodia,VNM,Vietnam,31/03/2021,31/12/9999,1,renew,749,USD/KHR,KHR,1,10,10,0,CMIM,no
+1152,pooled fund,1,,swap,HKG-JPN,HKG,Hong Kong,JPN,Japan,31/03/2021,31/12/9999,1,renew,750,USD/HKD,HKD,1,38.4,38.4,0,CMIM,no
+1153,pooled fund,1,,swap,HKG-KOR,HKG,Hong Kong,KOR,South Korea,31/03/2021,31/12/9999,1,renew,751,USD/HKD,HKD,1,38.4,38.4,0,CMIM,no
+1154,pooled fund,1,,swap,BRN-HKG,HKG,Hong Kong,BRN,Brunei,31/03/2021,31/12/9999,1,renew,752,USD/HKD,HKD,1,0.3,0.3,0,CMIM,no
+1155,pooled fund,1,,swap,HKG-KHM,HKG,Hong Kong,KHM,Cambodia,31/03/2021,31/12/9999,1,renew,753,USD/HKD,HKD,1,1.2,1.2,0,CMIM,no
+1156,pooled fund,1,,swap,HKG-IDN,HKG,Hong Kong,IDN,Indonesia,31/03/2021,31/12/9999,1,renew,754,USD/HKD,HKD,1,22.76,22.76,0,CMIM,no
+1157,pooled fund,1,,swap,HKG-LAO,HKG,Hong Kong,LAO,Lao People's Democratic Republic,31/03/2021,31/12/9999,1,renew,755,USD/HKD,HKD,1,0.3,0.3,0,CMIM,no
+1158,pooled fund,1,,swap,HKG-MMR,HKG,Hong Kong,MMR,Myanmar,31/03/2021,31/12/9999,1,renew,756,USD/HKD,HKD,1,0.6,0.6,0,CMIM,no
+1159,pooled fund,1,,swap,HKG-MYS,HKG,Hong Kong,MYS,Malaysia,31/03/2021,31/12/9999,1,renew,757,USD/HKD,HKD,1,22.76,22.76,0,CMIM,no
+1160,pooled fund,1,,swap,CHN-HKG,HKG,Hong Kong,CHN,China,31/03/2021,31/12/9999,1,renew,758,USD/HKD,HKD,1,34.2,34.2,0,CMIM,no
+1161,pooled fund,1,,swap,HKG-PHL,HKG,Hong Kong,PHL,Philippines,31/03/2021,31/12/9999,1,renew,759,USD/HKD,HKD,1,22.76,22.76,0,CMIM,no
+1162,pooled fund,1,,swap,HKG-SGP,HKG,Hong Kong,SGP,Singapore,31/03/2021,31/12/9999,1,renew,760,USD/HKD,HKD,1,22.76,22.76,0,CMIM,no
+1163,pooled fund,1,,swap,HKG-THA,HKG,Hong Kong,THA,Thailand,31/03/2021,31/12/9999,1,renew,761,USD/HKD,HKD,1,22.76,22.76,0,CMIM,no
+1164,pooled fund,1,,swap,HKG-VNM,HKG,Hong Kong,VNM,Vietnam,31/03/2021,31/12/9999,1,renew,762,USD/HKD,HKD,1,10,10,0,CMIM,no
+1165,pooled fund,1,,swap,IDN-JPN,IDN,Indonesia,JPN,Japan,31/03/2021,31/12/9999,1,renew,763,USD/IDR,IDR,1,38.4,38.4,0,CMIM,no
+1166,pooled fund,1,,swap,IDN-KOR,IDN,Indonesia,KOR,South Korea,31/03/2021,31/12/9999,1,renew,764,USD/IDR,IDR,1,38.4,38.4,0,CMIM,no
+1167,pooled fund,1,,swap,BRN-IDN,IDN,Indonesia,BRN,Brunei,31/03/2021,31/12/9999,1,renew,765,USD/IDR,IDR,1,0.3,0.3,0,CMIM,no
+1168,pooled fund,1,,swap,IDN-KHM,IDN,Indonesia,KHM,Cambodia,31/03/2021,31/12/9999,1,renew,766,USD/IDR,IDR,1,1.2,1.2,0,CMIM,no
+1169,pooled fund,1,,swap,HKG-IDN,IDN,Indonesia,HKG,Hong Kong,31/03/2021,31/12/9999,1,renew,767,USD/IDR,IDR,1,21,21,0,CMIM,no
+1170,pooled fund,1,,swap,IDN-LAO,IDN,Indonesia,LAO,Lao People's Democratic Republic,31/03/2021,31/12/9999,1,renew,768,USD/IDR,IDR,1,0.3,0.3,0,CMIM,no
+1171,pooled fund,1,,swap,IDN-MMR,IDN,Indonesia,MMR,Myanmar,31/03/2021,31/12/9999,1,renew,769,USD/IDR,IDR,1,0.6,0.6,0,CMIM,no
+1172,pooled fund,1,,swap,IDN-MYS,IDN,Indonesia,MYS,Malaysia,31/03/2021,31/12/9999,1,renew,770,USD/IDR,IDR,1,22.76,22.76,0,CMIM,no
+1173,pooled fund,1,,swap,CHN-IDN,IDN,Indonesia,CHN,China,31/03/2021,31/12/9999,1,renew,771,USD/IDR,IDR,1,34.2,34.2,0,CMIM,no
+1174,pooled fund,1,,swap,IDN-PHL,IDN,Indonesia,PHL,Philippines,31/03/2021,31/12/9999,1,renew,772,USD/IDR,IDR,1,22.76,22.76,0,CMIM,no
+1175,pooled fund,1,,swap,IDN-SGP,IDN,Indonesia,SGP,Singapore,31/03/2021,31/12/9999,1,renew,773,USD/IDR,IDR,1,22.76,22.76,0,CMIM,no
+1176,pooled fund,1,,swap,IDN-THA,IDN,Indonesia,THA,Thailand,31/03/2021,31/12/9999,1,renew,774,USD/IDR,IDR,1,22.76,22.76,0,CMIM,no
+1177,pooled fund,1,,swap,IDN-VNM,IDN,Indonesia,VNM,Vietnam,31/03/2021,31/12/9999,1,renew,775,USD/IDR,IDR,1,10,10,0,CMIM,no
+1178,pooled fund,1,,swap,JPN-LAO,LAO,Lao People's Democratic Republic,JPN,Japan,31/03/2021,31/12/9999,1,renew,776,USD/LAK,LAK,1,38.4,38.4,0,CMIM,no
+1179,pooled fund,1,,swap,KOR-LAO,LAO,Lao People's Democratic Republic,KOR,South Korea,31/03/2021,31/12/9999,1,renew,777,USD/LAK,LAK,1,38.4,38.4,0,CMIM,no
+1180,pooled fund,1,,swap,BRN-LAO,LAO,Lao People's Democratic Republic,BRN,Brunei,31/03/2021,31/12/9999,1,renew,778,USD/LAK,LAK,1,0.3,0.3,0,CMIM,no
+1181,pooled fund,1,,swap,KHM-LAO,LAO,Lao People's Democratic Republic,KHM,Cambodia,31/03/2021,31/12/9999,1,renew,779,USD/LAK,LAK,1,1.2,1.2,0,CMIM,no
+1182,pooled fund,1,,swap,HKG-LAO,LAO,Lao People's Democratic Republic,HKG,Hong Kong,31/03/2021,31/12/9999,1,renew,780,USD/LAK,LAK,1,21,21,0,CMIM,no
+1183,pooled fund,1,,swap,IDN-LAO,LAO,Lao People's Democratic Republic,IDN,Indonesia,31/03/2021,31/12/9999,1,renew,781,USD/LAK,LAK,1,22.76,22.76,0,CMIM,no
+1184,pooled fund,1,,swap,LAO-MMR,LAO,Lao People's Democratic Republic,MMR,Myanmar,31/03/2021,31/12/9999,1,renew,782,USD/LAK,LAK,1,0.6,0.6,0,CMIM,no
+1185,pooled fund,1,,swap,LAO-MYS,LAO,Lao People's Democratic Republic,MYS,Malaysia,31/03/2021,31/12/9999,1,renew,783,USD/LAK,LAK,1,22.76,22.76,0,CMIM,no
+1186,pooled fund,1,,swap,CHN-LAO,LAO,Lao People's Democratic Republic,CHN,China,31/03/2021,31/12/9999,1,renew,784,USD/LAK,LAK,1,34.2,34.2,0,CMIM,no
+1187,pooled fund,1,,swap,LAO-PHL,LAO,Lao People's Democratic Republic,PHL,Philippines,31/03/2021,31/12/9999,1,renew,785,USD/LAK,LAK,1,22.76,22.76,0,CMIM,no
+1188,pooled fund,1,,swap,LAO-SGP,LAO,Lao People's Democratic Republic,SGP,Singapore,31/03/2021,31/12/9999,1,renew,786,USD/LAK,LAK,1,22.76,22.76,0,CMIM,no
+1189,pooled fund,1,,swap,LAO-THA,LAO,Lao People's Democratic Republic,THA,Thailand,31/03/2021,31/12/9999,1,renew,787,USD/LAK,LAK,1,22.76,22.76,0,CMIM,no
+1190,pooled fund,1,,swap,LAO-VNM,LAO,Lao People's Democratic Republic,VNM,Vietnam,31/03/2021,31/12/9999,1,renew,788,USD/LAK,LAK,1,10,10,0,CMIM,no
+1191,pooled fund,1,,swap,JPN-MMR,MMR,Myanmar,JPN,Japan,31/03/2021,31/12/9999,1,renew,789,USD/MMK,MMK,1,38.4,38.4,0,CMIM,no
+1192,pooled fund,1,,swap,KOR-MMR,MMR,Myanmar,KOR,South Korea,31/03/2021,31/12/9999,1,renew,790,USD/MMK,MMK,1,38.4,38.4,0,CMIM,no
+1193,pooled fund,1,,swap,BRN-MMR,MMR,Myanmar,BRN,Brunei,31/03/2021,31/12/9999,1,renew,791,USD/MMK,MMK,1,0.3,0.3,0,CMIM,no
+1194,pooled fund,1,,swap,KHM-MMR,MMR,Myanmar,KHM,Cambodia,31/03/2021,31/12/9999,1,renew,792,USD/MMK,MMK,1,1.2,1.2,0,CMIM,no
+1195,pooled fund,1,,swap,HKG-MMR,MMR,Myanmar,HKG,Hong Kong,31/03/2021,31/12/9999,1,renew,793,USD/MMK,MMK,1,21,21,0,CMIM,no
+1196,pooled fund,1,,swap,IDN-MMR,MMR,Myanmar,IDN,Indonesia,31/03/2021,31/12/9999,1,renew,794,USD/MMK,MMK,1,22.76,22.76,0,CMIM,no
+1197,pooled fund,1,,swap,LAO-MMR,MMR,Myanmar,LAO,Lao People's Democratic Republic,31/03/2021,31/12/9999,1,renew,795,USD/MMK,MMK,1,0.3,0.3,0,CMIM,no
+1198,pooled fund,1,,swap,MMR-MYS,MMR,Myanmar,MYS,Malaysia,31/03/2021,31/12/9999,1,renew,796,USD/MMK,MMK,1,22.76,22.76,0,CMIM,no
+1199,pooled fund,1,,swap,CHN-MMR,MMR,Myanmar,CHN,China,31/03/2021,31/12/9999,1,renew,797,USD/MMK,MMK,1,34.2,34.2,0,CMIM,no
+1200,pooled fund,1,,swap,MMR-PHL,MMR,Myanmar,PHL,Philippines,31/03/2021,31/12/9999,1,renew,798,USD/MMK,MMK,1,22.76,22.76,0,CMIM,no
+1201,pooled fund,1,,swap,MMR-SGP,MMR,Myanmar,SGP,Singapore,31/03/2021,31/12/9999,1,renew,799,USD/MMK,MMK,1,22.76,22.76,0,CMIM,no
+1202,pooled fund,1,,swap,MMR-THA,MMR,Myanmar,THA,Thailand,31/03/2021,31/12/9999,1,renew,800,USD/MMK,MMK,1,22.76,22.76,0,CMIM,no
+1203,pooled fund,1,,swap,MMR-VNM,MMR,Myanmar,VNM,Vietnam,31/03/2021,31/12/9999,1,renew,801,USD/MMK,MMK,1,10,10,0,CMIM,no
+1204,pooled fund,1,,swap,JPN-MYS,MYS,Malaysia,JPN,Japan,31/03/2021,31/12/9999,1,renew,802,USD/MYR,MYR,1,38.4,38.4,0,CMIM,no
+1205,pooled fund,1,,swap,KOR-MYS,MYS,Malaysia,KOR,South Korea,31/03/2021,31/12/9999,1,renew,803,USD/MYR,MYR,1,38.4,38.4,0,CMIM,no
+1206,pooled fund,1,,swap,BRN-MYS,MYS,Malaysia,BRN,Brunei,31/03/2021,31/12/9999,1,renew,804,USD/MYR,MYR,1,0.3,0.3,0,CMIM,no
+1207,pooled fund,1,,swap,KHM-MYS,MYS,Malaysia,KHM,Cambodia,31/03/2021,31/12/9999,1,renew,805,USD/MYR,MYR,1,1.2,1.2,0,CMIM,no
+1208,pooled fund,1,,swap,HKG-MYS,MYS,Malaysia,HKG,Hong Kong,31/03/2021,31/12/9999,1,renew,806,USD/MYR,MYR,1,21,21,0,CMIM,no
+1209,pooled fund,1,,swap,IDN-MYS,MYS,Malaysia,IDN,Indonesia,31/03/2021,31/12/9999,1,renew,807,USD/MYR,MYR,1,22.76,22.76,0,CMIM,no
+1210,pooled fund,1,,swap,LAO-MYS,MYS,Malaysia,LAO,Lao People's Democratic Republic,31/03/2021,31/12/9999,1,renew,808,USD/MYR,MYR,1,0.3,0.3,0,CMIM,no
+1211,pooled fund,1,,swap,MMR-MYS,MYS,Malaysia,MMR,Myanmar,31/03/2021,31/12/9999,1,renew,809,USD/MYR,MYR,1,0.6,0.6,0,CMIM,no
+1212,reciprocal,0,1225,swap,CHN-MYS,MYS,Malaysia,CHN,China,17/04/2015,17/04/2018,1,reactivate,617,MYR,MYR,1,90,NA,0,,no
+1213,pooled fund,1,,swap,MYS-PHL,MYS,Malaysia,PHL,Philippines,31/03/2021,31/12/9999,1,renew,811,USD/MYR,MYR,1,22.76,22.76,0,CMIM,no
+1214,pooled fund,1,,swap,MYS-SGP,MYS,Malaysia,SGP,Singapore,31/03/2021,31/12/9999,1,renew,812,USD/MYR,MYR,1,22.76,22.76,0,CMIM,no
+1215,pooled fund,1,,swap,MYS-THA,MYS,Malaysia,THA,Thailand,31/03/2021,31/12/9999,1,renew,813,USD/MYR,MYR,1,22.76,22.76,0,CMIM,no
+1216,pooled fund,1,,swap,MYS-VNM,MYS,Malaysia,VNM,Vietnam,31/03/2021,31/12/9999,1,renew,814,USD/MYR,MYR,1,10,10,0,CMIM,no
+1217,pooled fund,1,,swap,CHN-JPN,CHN,China,JPN,Japan,31/03/2021,31/12/9999,1,renew,815,USD/CNY,CNY,1,38.4,38.4,0,CMIM,no
+1218,pooled fund,1,,swap,CHN-KOR,CHN,China,KOR,South Korea,31/03/2021,31/12/9999,1,renew,816,USD/CNY,CNY,1,38.4,38.4,0,CMIM,no
+1219,pooled fund,1,,swap,BRN-CHN,CHN,China,BRN,Brunei,31/03/2021,31/12/9999,1,renew,817,USD/CNY,CNY,1,0.3,0.3,0,CMIM,no
+1220,pooled fund,1,,swap,CHN-KHM,CHN,China,KHM,Cambodia,31/03/2021,31/12/9999,1,renew,818,USD/CNY,CNY,1,1.2,1.2,0,CMIM,no
+1221,pooled fund,1,,swap,CHN-HKG,CHN,China,HKG,Hong Kong,31/03/2021,31/12/9999,1,renew,819,USD/CNY,CNY,1,21,21,0,CMIM,no
+1222,pooled fund,1,,swap,CHN-IDN,CHN,China,IDN,Indonesia,31/03/2021,31/12/9999,1,renew,820,USD/CNY,CNY,1,22.76,22.76,0,CMIM,no
+1223,pooled fund,1,,swap,CHN-LAO,CHN,China,LAO,Lao People's Democratic Republic,31/03/2021,31/12/9999,1,renew,821,USD/CNY,CNY,1,0.3,0.3,0,CMIM,no
+1224,pooled fund,1,,swap,CHN-MMR,CHN,China,MMR,Myanmar,31/03/2021,31/12/9999,1,renew,822,USD/CNY,CNY,1,0.6,0.6,0,CMIM,no
+1225,reciprocal,0,1314,swap,CHN-MYS,CHN,China,MYS,Malaysia,17/04/2015,17/04/2018,1,reactivate,618,CNY,CNY,1,180,NA,0,,no
+1226,pooled fund,1,,swap,CHN-PHL,CHN,China,PHL,Philippines,31/03/2021,31/12/9999,1,renew,824,USD/CNY,CNY,1,22.76,22.76,0,CMIM,no
+1227,pooled fund,1,,swap,CHN-SGP,CHN,China,SGP,Singapore,31/03/2021,31/12/9999,1,renew,825,USD/CNY,CNY,1,22.76,22.76,0,CMIM,no
+1228,pooled fund,1,,swap,CHN-THA,CHN,China,THA,Thailand,31/03/2021,31/12/9999,1,renew,826,USD/CNY,CNY,1,22.76,22.76,0,CMIM,no
+1229,pooled fund,1,,swap,CHN-VNM,CHN,China,VNM,Vietnam,31/03/2021,31/12/9999,1,renew,827,USD/CNY,CNY,1,10,10,0,CMIM,no
+1230,pooled fund,1,,swap,JPN-PHL,PHL,Philippines,JPN,Japan,31/03/2021,31/12/9999,1,renew,828,USD/PHP,PHP,1,38.4,38.4,0,CMIM,no
+1231,pooled fund,1,,swap,KOR-PHL,PHL,Philippines,KOR,South Korea,31/03/2021,31/12/9999,1,renew,829,USD/PHP,PHP,1,38.4,38.4,0,CMIM,no
+1232,pooled fund,1,,swap,BRN-PHL,PHL,Philippines,BRN,Brunei,31/03/2021,31/12/9999,1,renew,830,USD/PHP,PHP,1,0.3,0.3,0,CMIM,no
+1233,pooled fund,1,,swap,KHM-PHL,PHL,Philippines,KHM,Cambodia,31/03/2021,31/12/9999,1,renew,831,USD/PHP,PHP,1,1.2,1.2,0,CMIM,no
+1234,pooled fund,1,,swap,HKG-PHL,PHL,Philippines,HKG,Hong Kong,31/03/2021,31/12/9999,1,renew,832,USD/PHP,PHP,1,21,21,0,CMIM,no
+1235,pooled fund,1,,swap,IDN-PHL,PHL,Philippines,IDN,Indonesia,31/03/2021,31/12/9999,1,renew,833,USD/PHP,PHP,1,22.76,22.76,0,CMIM,no
+1236,pooled fund,1,,swap,LAO-PHL,PHL,Philippines,LAO,Lao People's Democratic Republic,31/03/2021,31/12/9999,1,renew,834,USD/PHP,PHP,1,0.3,0.3,0,CMIM,no
+1237,pooled fund,1,,swap,MMR-PHL,PHL,Philippines,MMR,Myanmar,31/03/2021,31/12/9999,1,renew,835,USD/PHP,PHP,1,0.6,0.6,0,CMIM,no
+1238,pooled fund,1,,swap,MYS-PHL,PHL,Philippines,MYS,Malaysia,31/03/2021,31/12/9999,1,renew,836,USD/PHP,PHP,1,22.76,22.76,0,CMIM,no
+1239,pooled fund,1,,swap,CHN-PHL,PHL,Philippines,CHN,China,31/03/2021,31/12/9999,1,renew,837,USD/PHP,PHP,1,34.2,34.2,0,CMIM,no
+1240,pooled fund,1,,swap,PHL-SGP,PHL,Philippines,SGP,Singapore,31/03/2021,31/12/9999,1,renew,838,USD/PHP,PHP,1,22.76,22.76,0,CMIM,no
+1241,pooled fund,1,,swap,PHL-THA,PHL,Philippines,THA,Thailand,31/03/2021,31/12/9999,1,renew,839,USD/PHP,PHP,1,22.76,22.76,0,CMIM,no
+1242,pooled fund,1,,swap,PHL-VNM,PHL,Philippines,VNM,Vietnam,31/03/2021,31/12/9999,1,renew,840,USD/PHP,PHP,1,10,10,0,CMIM,no
+1243,pooled fund,1,,swap,JPN-SGP,SGP,Singapore,JPN,Japan,31/03/2021,31/12/9999,1,renew,841,USD/SGD,SGD,1,38.4,38.4,0,CMIM,no
+1244,pooled fund,1,,swap,KOR-SGP,SGP,Singapore,KOR,South Korea,31/03/2021,31/12/9999,1,renew,842,USD/SGD,SGD,1,38.4,38.4,0,CMIM,no
+1245,pooled fund,1,,swap,BRN-SGP,SGP,Singapore,BRN,Brunei,31/03/2021,31/12/9999,1,renew,843,USD/SGD,SGD,1,0.3,0.3,0,CMIM,no
+1246,pooled fund,1,,swap,KHM-SGP,SGP,Singapore,KHM,Cambodia,31/03/2021,31/12/9999,1,renew,844,USD/SGD,SGD,1,1.2,1.2,0,CMIM,no
+1247,pooled fund,1,,swap,HKG-SGP,SGP,Singapore,HKG,Hong Kong,31/03/2021,31/12/9999,1,renew,845,USD/SGD,SGD,1,21,21,0,CMIM,no
+1248,pooled fund,1,,swap,IDN-SGP,SGP,Singapore,IDN,Indonesia,31/03/2021,31/12/9999,1,renew,846,USD/SGD,SGD,1,22.76,22.76,0,CMIM,no
+1249,pooled fund,1,,swap,LAO-SGP,SGP,Singapore,LAO,Lao People's Democratic Republic,31/03/2021,31/12/9999,1,renew,847,USD/SGD,SGD,1,0.3,0.3,0,CMIM,no
+1250,pooled fund,1,,swap,MMR-SGP,SGP,Singapore,MMR,Myanmar,31/03/2021,31/12/9999,1,renew,848,USD/SGD,SGD,1,0.6,0.6,0,CMIM,no
+1251,pooled fund,1,,swap,MYS-SGP,SGP,Singapore,MYS,Malaysia,31/03/2021,31/12/9999,1,renew,849,USD/SGD,SGD,1,22.76,22.76,0,CMIM,no
+1252,pooled fund,1,,swap,CHN-SGP,SGP,Singapore,CHN,China,31/03/2021,31/12/9999,1,renew,850,USD/SGD,SGD,1,34.2,34.2,0,CMIM,no
+1253,pooled fund,1,,swap,PHL-SGP,SGP,Singapore,PHL,Philippines,31/03/2021,31/12/9999,1,renew,851,USD/SGD,SGD,1,22.76,22.76,0,CMIM,no
+1254,pooled fund,1,,swap,SGP-THA,SGP,Singapore,THA,Thailand,31/03/2021,31/12/9999,1,renew,852,USD/SGD,SGD,1,22.76,22.76,0,CMIM,no
+1255,pooled fund,1,,swap,SGP-VNM,SGP,Singapore,VNM,Vietnam,31/03/2021,31/12/9999,1,renew,853,USD/SGD,SGD,1,10,10,0,CMIM,no
+1256,pooled fund,1,,swap,JPN-THA,THA,Thailand,JPN,Japan,31/03/2021,31/12/9999,1,renew,854,USD/THB,THB,1,38.4,38.4,0,CMIM,no
+1257,pooled fund,1,,swap,KOR-THA,THA,Thailand,KOR,South Korea,31/03/2021,31/12/9999,1,renew,855,USD/THB,THB,1,38.4,38.4,0,CMIM,no
+1258,pooled fund,1,,swap,BRN-THA,THA,Thailand,BRN,Brunei,31/03/2021,31/12/9999,1,renew,856,USD/THB,THB,1,0.3,0.3,0,CMIM,no
+1259,pooled fund,1,,swap,KHM-THA,THA,Thailand,KHM,Cambodia,31/03/2021,31/12/9999,1,renew,857,USD/THB,THB,1,1.2,1.2,0,CMIM,no
+1260,pooled fund,1,,swap,HKG-THA,THA,Thailand,HKG,Hong Kong,31/03/2021,31/12/9999,1,renew,858,USD/THB,THB,1,21,21,0,CMIM,no
+1261,pooled fund,1,,swap,IDN-THA,THA,Thailand,IDN,Indonesia,31/03/2021,31/12/9999,1,renew,859,USD/THB,THB,1,22.76,22.76,0,CMIM,no
+1262,pooled fund,1,,swap,LAO-THA,THA,Thailand,LAO,Lao People's Democratic Republic,31/03/2021,31/12/9999,1,renew,860,USD/THB,THB,1,0.3,0.3,0,CMIM,no
+1263,pooled fund,1,,swap,MMR-THA,THA,Thailand,MMR,Myanmar,31/03/2021,31/12/9999,1,renew,861,USD/THB,THB,1,0.6,0.6,0,CMIM,no
+1264,pooled fund,1,,swap,MYS-THA,THA,Thailand,MYS,Malaysia,31/03/2021,31/12/9999,1,renew,862,USD/THB,THB,1,22.76,22.76,0,CMIM,no
+1265,pooled fund,1,,swap,CHN-THA,THA,Thailand,CHN,China,31/03/2021,31/12/9999,1,renew,863,USD/THB,THB,1,34.2,34.2,0,CMIM,no
+1266,pooled fund,1,,swap,PHL-THA,THA,Thailand,PHL,Philippines,31/03/2021,31/12/9999,1,renew,864,USD/THB,THB,1,22.76,22.76,0,CMIM,no
+1267,pooled fund,1,,swap,SGP-THA,THA,Thailand,SGP,Singapore,31/03/2021,31/12/9999,1,renew,865,USD/THB,THB,1,22.76,22.76,0,CMIM,no
+1268,pooled fund,1,,swap,THA-VNM,THA,Thailand,VNM,Vietnam,31/03/2021,31/12/9999,1,renew,866,USD/THB,THB,1,10,10,0,CMIM,no
+1269,pooled fund,1,,swap,JPN-VNM,VNM,Vietnam,JPN,Japan,31/03/2021,31/12/9999,1,renew,867,USD/VND,VND,1,38.4,38.4,0,CMIM,no
+1270,pooled fund,1,,swap,KOR-VNM,VNM,Vietnam,KOR,South Korea,31/03/2021,31/12/9999,1,renew,868,USD/VND,VND,1,38.4,38.4,0,CMIM,no
+1271,pooled fund,1,,swap,BRN-VNM,VNM,Vietnam,BRN,Brunei,31/03/2021,31/12/9999,1,renew,869,USD/VND,VND,1,0.3,0.3,0,CMIM,no
+1272,pooled fund,1,,swap,KHM-VNM,VNM,Vietnam,KHM,Cambodia,31/03/2021,31/12/9999,1,renew,870,USD/VND,VND,1,1.2,1.2,0,CMIM,no
+1273,pooled fund,1,,swap,HKG-VNM,VNM,Vietnam,HKG,Hong Kong,31/03/2021,31/12/9999,1,renew,871,USD/VND,VND,1,21,21,0,CMIM,no
+1274,pooled fund,1,,swap,IDN-VNM,VNM,Vietnam,IDN,Indonesia,31/03/2021,31/12/9999,1,renew,872,USD/VND,VND,1,22.76,22.76,0,CMIM,no
+1275,pooled fund,1,,swap,LAO-VNM,VNM,Vietnam,LAO,Lao People's Democratic Republic,31/03/2021,31/12/9999,1,renew,873,USD/VND,VND,1,0.3,0.3,0,CMIM,no
+1276,pooled fund,1,,swap,MMR-VNM,VNM,Vietnam,MMR,Myanmar,31/03/2021,31/12/9999,1,renew,874,USD/VND,VND,1,0.6,0.6,0,CMIM,no
+1277,pooled fund,1,,swap,MYS-VNM,VNM,Vietnam,MYS,Malaysia,31/03/2021,31/12/9999,1,renew,875,USD/VND,VND,1,22.76,22.76,0,CMIM,no
+1278,pooled fund,1,,swap,CHN-VNM,VNM,Vietnam,CHN,China,31/03/2021,31/12/9999,1,renew,876,USD/VND,VND,1,34.2,34.2,0,CMIM,no
+1279,pooled fund,1,,swap,PHL-VNM,VNM,Vietnam,PHL,Philippines,31/03/2021,31/12/9999,1,renew,877,USD/VND,VND,1,22.76,22.76,0,CMIM,no
+1280,pooled fund,1,,swap,SGP-VNM,VNM,Vietnam,SGP,Singapore,31/03/2021,31/12/9999,1,renew,878,USD/VND,VND,1,22.76,22.76,0,CMIM,no
+1281,pooled fund,1,,swap,THA-VNM,VNM,Vietnam,THA,Thailand,31/03/2021,31/12/9999,1,renew,879,USD/VND,VND,1,22.76,22.76,0,CMIM,no
+1282,reciprocal,0,1283,swap,CHN-NGA,NGA,Nigeria,CHN,China,09/06/2021,09/06/2024,1,reactivate,970,NGN,NGN,1,967,NA,0,,no
+1283,reciprocal,0,1282,swap,CHN-NGA,CHN,China,NGA,Nigeria,09/06/2021,09/06/2024,1,reactivate,971,CNY,CNY,1,15,NA,0,,no
+1284,reciprocal,0,1285,swap,CHN-TUR,TUR,Turkey,CHN,China,15/06/2021,30/05/2022,1,renew,1005,TRY,TRY,1,46,NA,0,,no
+1285,reciprocal,0,1284,swap,CHN-TUR,CHN,China,TUR,Turkey,15/06/2021,30/05/2022,1,renew,1006,CNY,CNY,1,35,NA,0,,no
+1286,reciprocal,0,1287,swap,AUS-CHN,CHN,China,AUS,Australia,30/03/2018,30/03/2021,1,renew,909,CNY,CNY,1,200,NA,0,,no
+1287,reciprocal,0,1286,swap,AUS-CHN,AUS,Australia,CHN,China,30/03/2018,30/03/2021,1,renew,910,AUD,AUD,1,40,NA,0,,no
+1288,reciprocal,0,1289,swap,KOR-TUR,KOR,South Korea,TUR,Turkey,12/08/2021,12/08/2024,0,NA,,KRW,KRW,1,2300,NA,0,,no
+1289,reciprocal,0,1288,swap,KOR-TUR,TUR,Turkey,KOR,South Korea,12/08/2021,12/08/2024,0,NA,,TRY,TRY,1,17.5,NA,0,,no
+1290,reciprocal,0,1291,swap,ARE-TUR,TUR,Turkey,ARE,United Arab Emirates,19/01/2022,19/01/2025,0,NA,,TRY,TRY,1,64,NA,0,,no
+1291,reciprocal,0,1290,swap,ARE-TUR,ARE,United Arab Emirates,TUR,Turkey,19/01/2022,19/01/2025,0,NA,,AED,AED,1,18,NA,0,,no
+1292,reciprocal,0,1293,swap,CHN-IDN,IDN,Indonesia,CHN,China,27/01/2022,27/01/2025,1,renew,989,IDR,IDR,1,550000,NA,0,,no
+1293,reciprocal,0,1292,swap,CHN-IDN,CHN,China,IDN,Indonesia,27/01/2022,27/01/2025,1,renew,990,CNY,CNY,1,250,NA,0,,no
+1294,reciprocal,0,1295,swap,AUS-IDN,IDN,Indonesia,AUS,Australia,09/08/2018,09/08/2021,1,renew,,IDR,IDR,1,100000,NA,0,,no
+1295,reciprocal,0,1294,swap,AUS-IDN,AUS,Australia,IDN,Indonesia,09/08/2018,09/08/2021,1,renew,,AUD,AUD,1,10,NA,0,,no
+1296,reciprocal,0,1297,swap,AUS-IDN,IDN,Indonesia,AUS,Australia,18/02/2022,18/02/2025,1,reactivate,1294,IDR,IDR,1,100000,NA,0,,no
+1297,reciprocal,0,1296,swap,AUS-IDN,AUS,Australia,IDN,Indonesia,18/02/2022,18/02/2025,1,reactivate,1295,AUD,AUD,1,10,NA,0,,no
+1298,unidirectional,0,,swap,EA-POL,EA,EA,POL,Poland,28/03/2022,15/01/2023,1,reactivate,317,EUR,EUR,1,10,NA,0,,no
+1299,reciprocal,0,1300,swap,CHN-HKG,HKG,Hong Kong,CHN,China,04/07/2022,31/12/9999,1,renew,1094,HKD,HKD,1,940,NA,0,,no
+1300,reciprocal,0,1299,swap,CHN-HKG,CHN,China,HKG,Hong Kong,04/07/2022,31/12/9999,1,renew,1095,CNY,CNY,1,800,NA,0,,no
+1301,reciprocal,0,1302,swap,CHN-SGP,CHN,China,SGP,Singapore,13/07/2022,13/07/2027,1,reactivate,1003,CNY,CNY,1,300,NA,0,,no
+1302,reciprocal,0,1301,swap,CHN-SGP,SGP,Singapore,CHN,China,13/07/2022,13/07/2027,1,reactivate,1004,SGD,SGD,1,65,NA,0,,no
+1303,unidirectional,0,,repo,ALB-EA,EA,EA,ALB,Albania,28/03/2022,15/01/2023,1,renew,1070,EUR,EUR,1,0.4,NA,0,EUREP,no
+1304,unidirectional,0,,repo,EA-HUN,EA,EA,HUN,Hungary,28/03/2022,15/01/2023,1,renew,1071,EUR,EUR,1,4,NA,0,EUREP,no
+1305,reciprocal,0,1306,swap,CHN-MAC,MAC,Macao,CHN,China,05/12/2022,05/12/2025,1,renew,1011,MOP,MOP,1,34,NA,0,,no
+1306,reciprocal,0,1305,swap,CHN-MAC,CHN,China,MAC,Macao,05/12/2022,05/12/2025,1,renew,1012,CNY,CNY,1,30,NA,0,,no
+1307,unidirectional,1,,swap,IND-MDV,IND,India,MDV,Maldives,15/11/2012,31/12/9999,0,NA,,USD/EUR/INR,INR,1,0.2,0.2,0,SAARC,no
+1308,unidirectional,0,,swap,IND-MDV,IND,India,MDV,Maldives,28/12/2016,28/12/2019,1,NA,,USD,INR,0,0.1,0.1,0,SAARC,yes
+1309,reciprocal,0,1310,swap,ALB-CHN,CHN,China,ALB,Albania,16/02/2022,16/02/2025,1,reactivate,968,CNY,CNY,1,2,NA,0,,no
+1310,reciprocal,0,1309,swap,ALB-CHN,ALB,Albania,CHN,China,16/02/2022,16/02/2025,1,reactivate,969,ALL,ALL,1,33,NA,0,,no
+1311,reciprocal,0,1397,swap,CHL-CHN,CHL,Chile,CHN,China,30/07/2020,25/05/2021,1,renew,1073,CLP,CLP,1,5600,NA,0,,yes
+1312,reciprocal,0,1313,swap,CHN-LAO,LAO,Lao People's Democratic Republic,CHN,China,20/05/2020,20/05/2023,1,NA,,LAK,LAK,1,7600,NA,0,,no
+1313,reciprocal,0,1312,swap,CHN-LAO,CHN,China,LAO,Lao People's Democratic Republic,20/05/2020,20/05/2023,1,NA,,CNY,CNY,1,6,NA,0,,no
+1314,reciprocal,0,1315,swap,CHN-MYS,CHN,China,MYS,Malaysia,20/08/2018,19/08/2021,1,reactivate,1212,CNY,CNY,1,180,NA,0,,no
+1315,reciprocal,0,1314,swap,CHN-MYS,MYS,Malaysia,CHN,China,20/08/2018,19/08/2021,1,reactivate,1225,MYR,MYR,1,110,NA,0,,no
+1316,pooled fund,1,,swap,CHN-MYS,MYS,Malaysia,CHN,China,31/03/2021,31/12/9999,1,renew,810,USD/MYR,MYR,1,34.2,34.2,0,CMIM,no
+1317,pooled fund,1,,swap,CHN-MYS,CHN,China,MYS,Malaysia,31/03/2021,31/12/9999,1,renew,823,USD/CNY,CNY,1,22.76,22.76,0,CMIM,no
+1318,reciprocal,0,1319,swap,CHN-PAK,PAK,Pakistan,CHN,China,13/07/2021,13/07/2024,1,reactivate,975,PKR,PKR,1,730,NA,0,,no
+1319,reciprocal,0,1318,swap,CHN-PAK,CHN,China,PAK,Pakistan,13/07/2021,13/07/2024,1,reactivate,976,CNY,CNY,1,30,NA,0,,no
+1320,reciprocal,0,1321,swap,CHN-QAT,CHN,China,QAT,Qatar,06/01/2021,06/01/2024,1,reactivate,1473,CNY,CNY,1,35,NA,0,,no
+1321,reciprocal,0,1320,swap,CHN-QAT,QAT,Qatar,CHN,China,06/01/2021,06/01/2024,1,reactivate,1474,QAR,QAR,1,20.8,NA,0,,no
+1322,reciprocal,0,1323,swap,CHN-RUS,CHN,China,RUS,Russian Federation,22/11/2017,22/11/2020,1,reactivate,890,CNY,CNY,1,150,NA,0,,no
+1323,reciprocal,0,1322,swap,CHN-RUS,RUS,Russian Federation,CHN,China,22/11/2017,22/11/2020,1,reactivate,891,RUB,RUB,1,1325,NA,0,,no
+1324,reciprocal,0,1475,swap,CHN-RUS,RUS,Russian Federation,CHN,China,23/11/2020,23/11/2023,1,renew,1324,RUB,RUB,1,1750,NA,0,,no
+1325,reciprocal,0,1326,swap,CHN-ZAF,CHN,China,ZAF,South Africa,13/09/2021,13/09/2024,1,reactivate,1480,CNY,CNY,1,30,NA,0,,no
+1326,reciprocal,0,1325,swap,CHN-ZAF,ZAF,South Africa,CHN,China,13/09/2021,13/09/2024,1,reactivate,1481,ZAR,ZAR,1,68,NA,0,,no
+1327,reciprocal,0,1328,swap,CHN-SUR,CHN,China,SUR,Suriname,11/02/2019,11/02/2022,1,reactivate,904,CNY,CNY,1,1,NA,0,,no
+1328,reciprocal,0,1327,swap,CHN-SUR,SUR,Suriname,CHN,China,11/02/2019,11/02/2022,1,reactivate,905,SRD,SRD,1,1.1,NA,0,,no
+1329,reciprocal,0,1527,swap,CHE-CHN,CHN,China,CHE,Switzerland,21/07/2017,21/07/2020,1,renew,882,CNY,CNY,1,150,NA,0,,no
+1330,reciprocal,0,1482,swap,CHN-TUR,TUR,Turkey,CHN,China,06/06/2022,15/06/2024,1,renew,1284,TRY,TRY,1,85,NA,0,,no
+1331,unidirectional,0,,swap,BTN-IND,IND,India,BTN,Bhutan,17/03/2016,17/03/2019,1,renew,934,USD/EUR/INR,INR,1,0.1,0.1,0,SAARC,no
+1332,unidirectional,0,,swap,IND-LKA,IND,India,LKA,Sri Lanka,09/01/2019,27/07/2020,1,reactivate,907,USD/EUR/INR,INR,1,0.4,0.4,0,SAARC,no
+1333,reciprocal,0,1334,swap,CHN-ZWE,CHN,China,ZWE,Zimbabwe,23/01/2020,23/01/2023,0,NA,,,CNY,0,,NA,0,,yes
+1334,reciprocal,0,1333,swap,CHN-ZWE,ZWE,Zimbabwe,CHN,China,23/01/2020,23/01/2023,0,NA,,,ZWL,0,,NA,0,,yes
+1335,unidirectional,0,,swap,BGD-LKA,BGD,Bangladesh,LKA,Sri Lanka,31/03/2021,03/06/2021,0,NA,,USD,BDT,0,0.2,0.2,0,,no
+1336,unidirectional,1,,swap,IND-LKA,IND,India,LKA,Sri Lanka,15/11/2012,31/12/9999,0,NA,,USD/EUR/INR,INR,1,0.4,0.4,0,SAARC,no
+1337,unidirectional,1,,swap,AFG-IND,IND,India,AFG,Afghanistan,15/11/2012,31/12/9999,0,NA,,USD/EUR/INR,INR,1,0.1,0.1,0,SAARC,no
+1338,unidirectional,1,,swap,BGD-IND,IND,India,BGD,Bangladesh,15/11/2012,31/12/9999,0,NA,,USD/EUR/INR,INR,1,0.4,0.4,0,SAARC,no
+1339,unidirectional,0,,swap,IND-MDV,IND,India,MDV,Maldives,22/07/2019,22/07/2022,1,renew,1308,USD,INR,0,0.4,0.4,0,SAARC,yes
+1340,unidirectional,1,,swap,IND-NPL,IND,India,NPL,Nepal,15/11/2012,31/12/9999,0,NA,,USD/EUR/INR,INR,1,0.4,0.4,0,SAARC,no
+1341,unidirectional,1,,swap,IND-PAK,IND,India,PAK,Pakistan,15/11/2012,31/12/9999,0,NA,,USD/EUR/INR,INR,1,0.4,0.4,0,SAARC,no
+1342,unidirectional,0,,swap,BTN-IND,IND,India,BTN,Bhutan,01/03/2019,31/01/2020,1,renew,1331,USD/EUR/INR,INR,1,0.2,0.2,0,SAARC,yes
+1343,unidirectional,0,,swap,BTN-IND,IND,India,BTN,Bhutan,31/01/2020,31/01/2023,1,renew,1342,USD/EUR/INR,INR,1,0.2,0.2,0,SAARC,yes
+1344,unidirectional,0,,swap,BTN-IND,IND,India,BTN,Bhutan,16/11/2022,30/06/2023,1,supplement,,USD/EUR/INR,INR,1,0.2,0.2,0,SAARC,no
+1345,unidirectional,0,,swap,IND-MDV,IND,India,MDV,Maldives,08/12/2022,08/12/2025,1,reactivate,1339,USD,INR,0,0.2,0.2,0,SAARC,yes
+1346,pooled fund,1,,swap,BRA-RUS,BRA,Brazil,RUS,Russian Federation,21/06/2014,31/12/9999,0,NA,,USD,BRL,0,18,18,0,BRICS_CRA,no
+1347,pooled fund,1,,swap,BRA-CHN,BRA,Brazil,CHN,China,21/06/2014,31/12/9999,1,NA,,USD,BRL,0,18,18,0,BRICS_CRA,no
+1348,pooled fund,1,,swap,BRA-IND,BRA,Brazil,IND,India,21/06/2014,31/12/9999,0,NA,,USD,BRL,0,18,18,0,BRICS_CRA,no
+1349,pooled fund,1,,swap,BRA-ZAF,BRA,Brazil,ZAF,South Africa,21/06/2014,31/12/9999,0,NA,,USD,BRL,0,18,18,0,BRICS_CRA,no
+1350,pooled fund,1,,swap,BRA-RUS,RUS,Russian Federation,BRA,Brazil,21/06/2014,31/12/9999,0,NA,,USD,RUB,0,18,18,0,BRICS_CRA,no
+1351,pooled fund,1,,swap,CHN-RUS,RUS,Russian Federation,CHN,China,21/06/2014,31/12/9999,0,NA,,USD,RUB,0,18,18,0,BRICS_CRA,no
+1352,pooled fund,1,,swap,IND-RUS,RUS,Russian Federation,IND,India,21/06/2014,31/12/9999,0,NA,,USD,RUB,0,18,18,0,BRICS_CRA,no
+1353,pooled fund,1,,swap,RUS-ZAF,RUS,Russian Federation,ZAF,South Africa,21/06/2014,31/12/9999,0,NA,,USD,RUB,0,18,18,0,BRICS_CRA,no
+1354,pooled fund,1,,swap,CHN-RUS,CHN,China,RUS,Russian Federation,21/06/2014,31/12/9999,0,NA,,USD,CNY,0,20.5,20.5,0,BRICS_CRA,no
+1355,pooled fund,1,,swap,BRA-CHN,CHN,China,BRA,Brazil,21/06/2014,31/12/9999,1,NA,,USD,CNY,0,20.5,20.5,0,BRICS_CRA,no
+1356,pooled fund,1,,swap,CHN-IND,CHN,China,IND,India,21/06/2014,31/12/9999,0,NA,,USD,CNY,0,20.5,20.5,0,BRICS_CRA,no
+1357,pooled fund,1,,swap,CHN-ZAF,CHN,China,ZAF,South Africa,21/06/2014,31/12/9999,0,NA,,USD,CNY,0,20.5,20.5,0,BRICS_CRA,no
+1358,pooled fund,1,,swap,IND-RUS,IND,India,RUS,Russian Federation,21/06/2014,31/12/9999,0,NA,,USD,INR,0,18,18,0,BRICS_CRA,no
+1359,pooled fund,1,,swap,CHN-IND,IND,India,CHN,China,21/06/2014,31/12/9999,0,NA,,USD,INR,0,18,18,0,BRICS_CRA,no
+1360,pooled fund,1,,swap,BRA-IND,IND,India,BRA,Brazil,21/06/2014,31/12/9999,0,NA,,USD,INR,0,18,18,0,BRICS_CRA,no
+1361,pooled fund,1,,swap,IND-ZAF,IND,India,ZAF,South Africa,21/06/2014,31/12/9999,0,NA,,USD,INR,0,18,18,0,BRICS_CRA,no
+1362,pooled fund,1,,swap,RUS-ZAF,ZAF,South Africa,RUS,Russian Federation,21/06/2014,31/12/9999,0,NA,,USD,ZAR,0,10,10,0,BRICS_CRA,no
+1363,pooled fund,1,,swap,CHN-ZAF,ZAF,South Africa,CHN,China,21/06/2014,31/12/9999,0,NA,,USD,ZAR,0,10,10,0,BRICS_CRA,no
+1364,pooled fund,1,,swap,IND-ZAF,ZAF,South Africa,IND,India,21/06/2014,31/12/9999,0,NA,,USD,ZAR,0,10,10,0,BRICS_CRA,no
+1365,pooled fund,1,,swap,BRA-ZAF,ZAF,South Africa,BRA,Brazil,21/06/2014,31/12/9999,0,NA,,USD,ZAR,0,10,10,0,BRICS_CRA,no
+1366,reciprocal,0,1367,swap,CHN-EGY,EGY,Egypt,CHN,China,20/02/2023,20/02/2026,1,renew,1017,EGP,EGP,1,80.7,NA,0,,no
+1367,reciprocal,0,1366,swap,CHN-EGY,CHN,China,EGY,Egypt,20/02/2023,20/02/2026,1,renew,1018,CNY,CNY,1,18,NA,0,,no
+1368,reciprocal,0,1369,swap,ARG-CHN,CHN,China,ARG,Argentina,09/06/2023,09/06/2026,1,renew,994,CNY,CNY,1,130,NA,0,,no
+1369,reciprocal,0,1368,swap,ARG-CHN,ARG,Argentina,CHN,China,09/06/2023,09/06/2026,1,renew,992,ARS,ARS,1,4500,NA,0,,no
+1370,reciprocal,0,1371,swap,CHN-LAO,LAO,Lao People's Democratic Republic,CHN,China,12/07/2023,12/07/2026,1,reactivate,1312,LAK,LAK,1,15800,NA,0,,no
+1371,reciprocal,0,1370,swap,CHN-LAO,CHN,China,LAO,Lao People's Democratic Republic,12/07/2023,12/07/2026,1,reactivate,1313,CNY,CNY,1,6,NA,0,,no
+1372,reciprocal,0,1077,swap,CHN-MNG,MNG,Mongolia,CHN,China,31/07/2023,31/07/2026,1,renew,1076,MNT,MNT,1,7250,NA,0,,no
+1373,reciprocal,0,1374,swap,CHN-SAU,SAU,Saudi Arabia,CHN,China,20/11/2023,20/11/2026,0,NA,,SAR,SAR,1,26,NA,0,,no
+1374,reciprocal,0,1373,swap,CHN-SAU,CHN,China,SAU,Saudi Arabia,20/11/2023,20/11/2026,0,NA,,CNY,CNY,1,50,NA,0,,no
+1375,reciprocal,0,1376,swap,AUS-CHN,CHN,China,AUS,Australia,06/07/2021,06/07/2024,1,reactivate,1286,CNY,CNY,1,200,NA,0,,no
+1376,reciprocal,0,1375,swap,AUS-CHN,AUS,Australia,CHN,China,06/07/2021,06/07/2024,1,reactivate,1287,AUD,AUD,1,41,NA,0,,no
+1377,reciprocal,0,1377,swap,AUS-JPN,JPN,Japan,AUS,Australia,15/03/2019,15/03/2022,1,renew,935,JPY,JPY,1,1600,NA,0,,no
+1378,reciprocal,0,1378,swap,AUS-JPN,AUS,Australia,JPN,Japan,15/03/2019,15/03/2022,1,renew,936,AUD,AUD,1,20,NA,0,,no
+1379,reciprocal,0,1380,swap,AUS-JPN,JPN,Japan,AUS,Australia,17/03/2022,17/03/2025,1,renew,1377,JPY,JPY,1,1600,NA,0,,no
+1380,reciprocal,0,1379,swap,AUS-JPN,AUS,Australia,JPN,Japan,17/03/2022,17/03/2025,1,renew,1378,AUD,AUD,1,20,NA,0,,no
+1381,reciprocal,0,1382,swap,AUS-KOR,KOR,South Korea,AUS,Australia,06/02/2023,06/02/2026,1,renew,1015,KRW,KRW,1,9600,NA,0,,no
+1382,reciprocal,0,1381,swap,AUS-KOR,AUS,Australia,KOR,South Korea,06/02/2023,06/02/2026,1,renew,1016,AUD,AUD,1,12,NA,0,,no
+1383,reciprocal,0,1384,swap,IND-JPN,JPN,Japan,IND,India,28/02/2022,28/02/2025,1,renew,999,USD,JPY,0,75,75,0,,yes
+1384,reciprocal,0,1383,swap,IND-JPN,IND,India,JPN,Japan,28/02/2022,28/02/2025,1,renew,1000,USD,INR,0,75,75,0,,yes
+1385,unidirectional,0,,swap,NZL-USA,USA,USA,NZL,New Zealand,03/02/2009,30/10/2009,1,renew,310,USD,USD,1,15,15,0,,no
+1386,unidirectional,0,,swap,KOR-USA,USA,USA,KOR,South Korea,03/02/2009,30/10/2009,1,renew,311,USD,USD,1,30,30,0,,no
+1387,unidirectional,0,,swap,BRA-USA,USA,USA,BRA,Brazil,03/02/2009,30/10/2009,1,renew,312,USD,USD,1,30,30,0,,no
+1388,unidirectional,0,,swap,MEX-USA,USA,USA,MEX,Mexico,03/02/2009,30/10/2009,1,renew,313,USD,USD,1,30,30,0,,no
+1389,unidirectional,0,,swap,SGP-USA,USA,USA,SGP,Singapore,03/02/2009,30/10/2009,1,renew,314,USD,USD,1,30,30,0,,no
+1390,unidirectional,0,,swap,NZL-USA,USA,USA,NZL,New Zealand,25/06/2009,01/02/2010,1,renew,1385,USD,USD,1,15,15,0,,no
+1391,unidirectional,0,,swap,KOR-USA,USA,USA,KOR,South Korea,25/06/2009,01/02/2010,1,renew,1386,USD,USD,1,30,30,0,,no
+1392,unidirectional,0,,swap,BRA-USA,USA,USA,BRA,Brazil,25/06/2009,01/02/2010,1,renew,1387,USD,USD,1,30,30,0,,no
+1393,unidirectional,0,,swap,MEX-USA,USA,USA,MEX,Mexico,25/06/2009,01/02/2010,1,renew,1388,USD,USD,1,30,30,0,,no
+1394,unidirectional,0,,swap,SGP-USA,USA,USA,SGP,Singapore,25/06/2009,01/02/2010,1,renew,1389,USD,USD,1,30,30,0,,no
+1395,reciprocal,0,1396,swap,CAN-CHN,CAN,Canada,CHN,China,08/11/2017,08/11/2020,1,renew,894,CAD,CAD,1,30,NA,0,,no
+1396,reciprocal,0,1395,swap,CAN-CHN,CHN,China,CAN,Canada,08/11/2017,08/11/2020,1,renew,895,CNY,CNY,1,200,NA,0,,no
+1397,reciprocal,0,1311,swap,CHL-CHN,CHN,China,CHL,Chile,30/07/2020,25/05/2021,1,renew,1074,CNY,CNY,1,50,NA,0,,yes
+1398,reciprocal,0,1399,swap,CHL-CHN,CHL,Chile,CHN,China,20/08/2021,20/08/2026,1,renew,1311,CLP,CLP,1,6000,NA,0,,no
+1399,reciprocal,0,1398,swap,CHL-CHN,CHN,China,CHL,Chile,20/08/2021,20/08/2026,1,renew,1397,CNY,CNY,1,50,NA,0,,no
+1400,unidirectional,0,,swap,EA-HRV,EA,EA,HRV,Croatia,28/08/2020,30/06/2021,1,renew,1058,EUR,EUR,1,2,NA,0,,no
+1401,unidirectional,0,,swap,EA-HRV,EA,EA,HRV,Croatia,04/02/2021,31/03/2022,1,renew,1400,EUR,EUR,1,2,NA,0,,no
+1402,reciprocal,0,1403,swap,ARE-EGY,EGY,Egypt,ARE,United Arab Emirates,28/09/2023,28/09/2026,0,NA,,EGP,EGP,1,42,NA,0,,yes
+1403,reciprocal,0,1402,swap,ARE-EGY,ARE,United Arab Emirates,EGY,Egypt,28/09/2023,28/09/2026,0,NA,,AED,AED,1,5,NA,0,,yes
+1404,reciprocal,0,1405,swap,ARE-CHN,CHN,China,ARE,United Arab Emirates,28/11/2023,28/11/2028,1,reactivate,,CNY,CNY,1,35,NA,0,,no
+1405,reciprocal,0,1404,swap,ARE-CHN,ARE,United Arab Emirates,CHN,China,28/11/2023,28/11/2028,1,reactivate,,AED,AED,1,18,NA,0,,no
+1406,reciprocal,0,1407,swap,ARE-KOR,KOR,South Korea,ARE,United Arab Emirates,13/04/2022,13/04/2027,1,renew,1001,KRW,KRW,1,6100,NA,0,,no
+1407,reciprocal,0,1406,swap,ARE-KOR,ARE,United Arab Emirates,KOR,South Korea,13/04/2022,13/04/2027,1,renew,1002,AED,AED,1,20,NA,0,,no
+1408,unidirectional,0,,swap,CHN-HUN,CHN,China,HUN,Hungary,17/09/2020,10/12/2021,1,supplement,,CNY,CNY,1,40,NA,0,,no
+1409,unidirectional,0,,repo,EA-SMR,EA,EA,SMR,San Marino,28/03/2022,15/01/2023,1,renew,1072,EUR,EUR,1,0.1,0.1,0,EUREP,no
+1410,unidirectional,0,,repo,EA-MKD,EA,EA,MKD,North Macedonia,28/03/2022,15/01/2023,1,renew,1078,EUR,EUR,1,0.4,NA,0,EUREP,no
+1411,unidirectional,0,,repo,EA-ROU,EA,EA,ROU,Romania,27/04/2022,15/01/2023,1,renew,1069,EUR,EUR,1,4.5,NA,0,EUREP,no
+1412,unidirectional,0,,repo,AND-EA,EA,EA,AND,Andorra,22/07/2022,15/01/2023,0,NA,,EUR,EUR,1,0.035,NA,0,EUREP,no
+1413,unidirectional,0,,repo,EA-ROU,EA,EA,ROU,Romania,15/12/2022,15/01/2024,1,renew,1411,EUR,EUR,1,4.5,NA,0,EUREP,no
+1414,unidirectional,0,,repo,ALB-EA,EA,EA,ALB,Albania,15/12/2022,15/01/2024,1,renew,1303,EUR,EUR,1,0.4,NA,0,EUREP,no
+1415,unidirectional,0,,repo,AND-EA,EA,EA,AND,Andorra,15/12/2022,15/01/2024,1,renew,1412,EUR,EUR,1,0.035,NA,0,EUREP,no
+1416,unidirectional,0,,repo,EA-HUN,EA,EA,HUN,Hungary,15/12/2022,15/01/2024,1,renew,1304,EUR,EUR,1,4,NA,0,EUREP,no
+1417,unidirectional,0,,repo,EA-SMR,EA,EA,SMR,San Marino,15/12/2022,15/01/2024,1,renew,1409,EUR,EUR,1,0.1,0.1,0,EUREP,no
+1418,unidirectional,0,,swap,IDN-JPN,JPN,Japan,IDN,Indonesia,14/10/2021,14/10/2024,1,renew,972,USD/JPY,JPY,1,22.76,22.76,0,CMI_BSA,yes
+1419,reciprocal,0,1420,swap,IDN-MYS,IDN,Indonesia,MYS,Malaysia,27/09/2022,27/09/2025,1,renew,1007,IDR,IDR,1,28000,NA,0,,no
+1420,reciprocal,0,1419,swap,IDN-MYS,MYS,Malaysia,IDN,Indonesia,27/09/2022,27/09/2025,1,renew,1008,MYR,MYR,1,8,NA,0,,no
+1421,reciprocal,0,1423,swap,IDN-SGP,IDN,Indonesia,SGP,Singapore,05/11/2019,05/11/2020,1,renew,985,IDR,IDR,1,100000,NA,0,,no
+1422,reciprocal,0,1424,repo,IDN-SGP,IDN,Indonesia,SGP,Singapore,05/11/2019,05/11/2020,1,supplement,986,USD,IDR,0,3,3,0,,no
+1423,reciprocal,0,1421,swap,IDN-SGP,SGP,Singapore,IDN,Indonesia,05/11/2019,05/11/2020,1,renew,987,SGD,SGD,1,9.5,NA,0,,no
+1424,reciprocal,0,1422,repo,IDN-SGP,SGP,Singapore,IDN,Indonesia,05/11/2019,05/11/2020,1,supplement,988,USD,SGD,0,3,3,0,,no
+1425,reciprocal,0,1427,swap,IDN-SGP,IDN,Indonesia,SGP,Singapore,05/11/2020,05/11/2021,1,renew,1421,IDR,IDR,1,100000,NA,0,,no
+1426,reciprocal,0,1428,repo,IDN-SGP,IDN,Indonesia,SGP,Singapore,05/11/2020,05/11/2021,1,supplement,1422,USD,IDR,0,3,3,0,,no
+1427,reciprocal,0,1425,swap,IDN-SGP,SGP,Singapore,IDN,Indonesia,05/11/2020,05/11/2021,1,renew,1423,SGD,SGD,1,9.5,NA,0,,no
+1428,reciprocal,0,1426,repo,IDN-SGP,SGP,Singapore,IDN,Indonesia,05/11/2020,05/11/2021,1,supplement,1424,USD,SGD,0,3,3,0,,no
+1429,reciprocal,0,1431,swap,IDN-SGP,IDN,Indonesia,SGP,Singapore,05/11/2021,04/11/2022,1,renew,1425,IDR,IDR,1,100000,NA,0,,no
+1430,reciprocal,0,1432,repo,IDN-SGP,IDN,Indonesia,SGP,Singapore,05/11/2021,04/11/2022,1,supplement,1426,USD,IDR,0,3,3,0,,no
+1431,reciprocal,0,1429,swap,IDN-SGP,SGP,Singapore,IDN,Indonesia,05/11/2021,04/11/2022,1,renew,1427,SGD,SGD,1,9.5,NA,0,,no
+1432,reciprocal,0,1430,repo,IDN-SGP,SGP,Singapore,IDN,Indonesia,05/11/2021,04/11/2022,1,supplement,1428,USD,SGD,0,3,3,0,,no
+1433,reciprocal,0,1435,swap,IDN-SGP,IDN,Indonesia,SGP,Singapore,04/11/2022,03/11/2023,1,renew,1429,IDR,IDR,1,100000,NA,0,,no
+1434,reciprocal,0,1436,repo,IDN-SGP,IDN,Indonesia,SGP,Singapore,04/11/2022,03/11/2023,1,supplement,1430,USD,IDR,0,3,3,0,,no
+1435,reciprocal,0,1433,swap,IDN-SGP,SGP,Singapore,IDN,Indonesia,04/11/2022,03/11/2023,1,renew,1431,SGD,SGD,1,9.5,NA,0,,no
+1436,reciprocal,0,1434,repo,IDN-SGP,SGP,Singapore,IDN,Indonesia,04/11/2022,03/11/2023,1,supplement,1432,USD,SGD,0,3,3,0,,no
+1437,reciprocal,0,1439,swap,IDN-SGP,IDN,Indonesia,SGP,Singapore,03/11/2023,02/11/2024,1,renew,1433,IDR,IDR,1,100000,NA,0,,no
+1438,reciprocal,0,1440,repo,IDN-SGP,IDN,Indonesia,SGP,Singapore,03/11/2023,02/11/2024,1,supplement,1434,USD,IDR,0,3,3,0,,no
+1439,reciprocal,0,1437,swap,IDN-SGP,SGP,Singapore,IDN,Indonesia,03/11/2023,02/11/2024,1,renew,1435,SGD,SGD,1,9.5,NA,0,,no
+1440,reciprocal,0,1438,repo,IDN-SGP,SGP,Singapore,IDN,Indonesia,03/11/2023,02/11/2024,1,supplement,1436,USD,SGD,0,3,3,0,,no
+1441,reciprocal,0,1442,swap,IDN-KOR,KOR,South Korea,IDN,Indonesia,06/03/2017,06/03/2020,1,renew,655,KRW,KRW,1,10700,NA,0,,no
+1442,reciprocal,0,1441,swap,IDN-KOR,IDN,Indonesia,KOR,South Korea,06/03/2017,06/03/2020,1,renew,656,IDR,IDR,1,115000,NA,0,,no
+1443,reciprocal,0,1444,swap,IDN-KOR,KOR,South Korea,IDN,Indonesia,06/03/2020,05/03/2023,1,renew,1441,KRW,KRW,1,10700,NA,0,,no
+1444,reciprocal,0,1443,swap,IDN-KOR,IDN,Indonesia,KOR,South Korea,06/03/2020,05/03/2023,1,renew,1442,IDR,IDR,1,115000,NA,0,,no
+1445,reciprocal,0,1446,swap,IDN-KOR,KOR,South Korea,IDN,Indonesia,06/03/2023,06/03/2026,1,renew,1443,KRW,KRW,1,10700,NA,0,,no
+1446,reciprocal,0,1445,swap,IDN-KOR,IDN,Indonesia,KOR,South Korea,06/03/2023,06/03/2026,1,renew,1444,IDR,IDR,1,115000,NA,0,,no
+1447,reciprocal,0,1448,swap,CHN-JPN,JPN,Japan,CHN,China,25/10/2021,25/10/2024,1,renew,983,JPY,JPY,1,3400,NA,0,,no
+1448,reciprocal,0,1447,swap,CHN-JPN,CHN,China,JPN,Japan,25/10/2021,25/10/2024,1,renew,984,CNY,CNY,1,200,NA,0,,no
+1449,reciprocal,0,1450,swap,JPN-MYS,JPN,Japan,MYS,Malaysia,18/09/2020,18/09/2023,1,renew,952,USD,JPY,0,3,3,0,,no
+1450,reciprocal,0,1449,swap,JPN-MYS,MYS,Malaysia,JPN,Japan,18/09/2020,18/09/2023,1,renew,954,USD,MYR,0,3,3,0,,no
+1451,reciprocal,0,1452,swap,JPN-MYS,JPN,Japan,MYS,Malaysia,18/09/2023,18/09/2026,1,renew,1449,USD,JPY,0,3,3,0,,no
+1452,reciprocal,0,1451,swap,JPN-MYS,MYS,Malaysia,JPN,Japan,18/09/2023,18/09/2026,1,renew,1450,USD,MYR,0,3,3,0,,no
+1453,reciprocal,0,1454,swap,JPN-PHL,JPN,Japan,PHL,Philippines,06/10/2017,06/10/2020,1,renew,888,USD,JPY,0,12,12,0,,no
+1454,reciprocal,0,1453,swap,JPN-PHL,PHL,Philippines,JPN,Japan,06/10/2017,06/10/2020,1,renew,889,USD,PHP,0,0.5,0.5,0,,no
+1455,reciprocal,0,1456,swap,JPN-PHL,JPN,Japan,PHL,Philippines,01/01/2022,01/01/2025,1,reactivate,1453,USD/JPY,JPY,1,12,12,0,,no
+1456,reciprocal,0,1455,swap,JPN-PHL,PHL,Philippines,JPN,Japan,01/01/2022,01/01/2025,1,reactivate,1454,USD,PHP,0,0.5,0.5,0,,no
+1457,reciprocal,0,1458,swap,JPN-SGP,JPN,Japan,SGP,Singapore,29/11/2019,29/11/2022,1,supplement,944,JPY,JPY,1,1100,NA,0,,no
+1458,reciprocal,0,1457,swap,JPN-SGP,SGP,Singapore,JPN,Japan,29/11/2019,29/11/2022,1,supplement,945,SGD,SGD,1,15,NA,0,,no
+1459,reciprocal,0,1460,swap,JPN-SGP,JPN,Japan,SGP,Singapore,29/11/2022,29/11/2025,1,supplement,1457,JPY,JPY,1,1100,NA,0,,no
+1460,reciprocal,0,1459,swap,JPN-SGP,SGP,Singapore,JPN,Japan,29/11/2022,29/11/2025,1,supplement,1458,SGD,SGD,1,15,NA,0,,no
+1461,reciprocal,0,1462,swap,JPN-SGP,JPN,Japan,SGP,Singapore,21/05/2018,21/05/2021,1,renew,917,USD/JPY,JPY,1,3,3,0,CMI_BSA,no
+1462,reciprocal,0,1461,swap,JPN-SGP,SGP,Singapore,JPN,Japan,21/05/2018,21/05/2021,1,renew,918,USD,SGD,0,1,1,0,CMI_BSA,no
+1463,reciprocal,0,1464,swap,JPN-SGP,JPN,Japan,SGP,Singapore,21/05/2021,21/05/2024,1,renew,1461,USD/JPY,JPY,1,3,3,0,CMI_BSA,no
+1464,reciprocal,0,1463,swap,JPN-SGP,SGP,Singapore,JPN,Japan,21/05/2021,21/05/2024,1,renew,1462,USD,SGD,0,1,1,0,CMI_BSA,no
+1465,reciprocal,0,1466,swap,JPN-KOR,JPN,Japan,KOR,South Korea,31/12/2023,31/12/2026,1,NA,250,USD,JPY,0,10,10,0,,no
+1466,reciprocal,0,1465,swap,JPN-KOR,KOR,South Korea,JPN,Japan,31/12/2023,31/12/2026,1,NA,251,USD,KRW,0,10,10,0,,no
+1467,reciprocal,0,1315,swap,CHN-MYS,CHN,China,MYS,Malaysia,12/07/2021,12/07/2026,1,renew,1314,CNY,CNY,1,180,NA,0,,no
+1468,reciprocal,0,1314,swap,CHN-MYS,MYS,Malaysia,CHN,China,12/07/2021,12/07/2026,1,renew,1315,MYR,MYR,1,110,NA,0,,no
+1469,reciprocal,0,1076,swap,CHN-MNG,CHN,China,MNG,Mongolia,31/07/2023,31/07/2026,1,renew,1077,CNY,CNY,1,15,NA,0,,no
+1470,reciprocal,0,1471,repo,HKG-NZL,HKG,Hong Kong,NZL,New Zealand,26/03/1997,31/03/2024,0,NA,,USD,HKD,0,0.25,0.25,0,,yes
+1471,reciprocal,0,1470,repo,HKG-NZL,NZL,New Zealand,HKG,Hong Kong,26/03/1997,31/03/2024,0,NA,,USD,NZD,0,0.25,0.25,0,,yes
+1472,unidirectional,0,,swap,EA-POL,EA,EA,POL,Poland,15/12/2022,15/01/2024,1,reactivate,1298,EUR,EUR,1,10,NA,0,,no
+1473,reciprocal,0,1474,swap,CHN-QAT,CHN,China,QAT,Qatar,02/11/2017,02/11/2020,1,renew,892,CNY,CNY,1,35,NA,0,,no
+1474,reciprocal,0,1473,swap,CHN-QAT,QAT,Qatar,CHN,China,02/11/2017,02/11/2020,1,renew,893,QAR,QAR,1,20.8,NA,0,,no
+1475,reciprocal,0,1324,swap,CHN-RUS,CHN,China,RUS,Russian Federation,23/11/2020,23/11/2023,1,renew,1322,CNY,CNY,1,150,NA,0,,no
+1476,unidirectional,0,,repo,EA-MKD,EA,EA,MKD,North Macedonia,15/12/2022,15/01/2024,1,renew,1410,EUR,EUR,1,0.4,NA,0,EUREP,no
+1477,unidirectional,0,,repo,ALB-EA,EA,EA,ALB,Albania,29/01/2024,31/01/2025,1,renew,1414,EUR,EUR,1,0.4,NA,0,EUREP,no
+1478,reciprocal,0,1479,swap,CHN-SGP,CHN,China,SGP,Singapore,07/03/2016,07/03/2019,1,renew,639,CNY,CNY,1,300,NA,0,,no
+1479,reciprocal,0,1478,swap,CHN-SGP,SGP,Singapore,CHN,China,07/03/2016,07/03/2019,1,renew,640,SGD,SGD,1,60,NA,0,,no
+1480,reciprocal,0,1481,swap,CHN-ZAF,CHN,China,ZAF,South Africa,11/04/2018,11/04/2021,1,renew,911,CNY,CNY,1,30,NA,0,,no
+1481,reciprocal,0,1480,swap,CHN-ZAF,ZAF,South Africa,CHN,China,11/04/2018,11/04/2021,1,renew,912,ZAR,ZAR,1,54,NA,0,,no
+1482,reciprocal,0,1330,swap,CHN-TUR,CHN,China,TUR,Turkey,06/06/2022,15/06/2024,1,renew,1285,CNY,CNY,1,35,NA,0,,no
+1483,reciprocal,0,1484,swap,CHN-THA,CHN,CHina,THA,Thailand,08/01/2021,08/01/2026,1,renew,964,CNY,CNY,1,70,NA,0,,no
+1484,reciprocal,0,1483,swap,CHN-THA,THA,Thailand,CHN,China,08/01/2021,08/01/2026,1,renew,965,THB,THB,1,370,NA,0,,no
+1485,reciprocal,0,1486,swap,JPN-THA,JPN,Japan,THA,Thailand,30/03/2023,30/03/2026,1,supplement,1056,JPY,JPY,1,800,NA,0,,no
+1486,reciprocal,0,1485,swap,JPN-THA,THA,Thailand,JPN,Japan,30/03/2023,30/03/2026,1,supplement,1057,THB,THB,0,240,NA,0,,no
+1487,reciprocal,0,1438,swap,JPN-THA,JPN,Japan,THA,Thailand,23/07/2021,23/07/2024,1,renew,979,USD/JPY,JPY,0,3,3,0,,yes
+1488,reciprocal,0,1437,swap,JPN-THA,THA,Thailand,JPN,Japan,23/07/2021,23/07/2024,1,renew,980,USD,THB,0,3,3,0,,yes
+1489,unidirectional,0,,swap,CHE-EA,CHE,Switzerland,EA,EA,16/01/2009,30/04/2009,1,renew,307,CHF,CHF,1,25,NA,0,,no
+1490,unidirectional,0,,swap,CHE-EA,CHE,Switzerland,EA,EA,27/04/2009,31/07/2009,1,renew,1489,CHF,CHF,1,25,NA,0,,no
+1491,unidirectional,0,,swap,CHE-EA,CHE,Switzerland,EA,EA,25/06/2009,31/10/2009,1,renew,1490,CHF,CHF,1,25,NA,0,,no
+1492,unidirectional,0,,swap,CHE-EA,CHE,Switzerland,EA,EA,24/09/2009,31/01/2010,1,renew,1491,CHF,CHF,1,25,NA,0,,no
+1493,unidirectional,0,,swap,EA-GBR,GBR,UK,EA,EA,25/08/2011,28/09/2012,1,renew,554,GBP,GBP,1,10,NA,0,,no
+1494,unidirectional,0,,swap,EA-GBR,GBR,UK,EA,EA,12/09/2012,30/09/2013,1,renew,1493,GBP,GBP,1,10,NA,0,,no
+1495,unidirectional,0,,swap,EA-GBR,GBR,UK,EA,EA,16/09/2013,30/09/2014,1,renew,1494,GBP,GBP,1,10,NA,0,,no
+1496,reciprocal,0,1497,swap,CHN-GBR,GBR,UK,CHN,China,12/11/2018,12/11/2021,1,renew,925,GBP,GBP,1,40,NA,0,,no
+1497,reciprocal,0,1496,swap,CHN-GBR,CHN,China,GBR,UK,12/11/2018,12/11/2021,1,renew,926,CNY,CNY,1,350,NA,0,,no
+1498,reciprocal,0,1499,swap,CHN-GBR,GBR,UK,CHN,China,12/11/2021,12/11/2026,1,renew,1496,GBP,GBP,1,40,NA,0,,no
+1499,reciprocal,0,1498,swap,CHN-GBR,CHN,China,GBR,UK,12/11/2021,12/11/2026,1,renew,1497,CNY,CNY,1,350,NA,0,,no
+1500,reciprocal,0,1504,swap,CAN-GBR,CAN,Canada,GBR,UK,13/12/2012,01/02/2014,1,renew,586,CAD,CAD,1,NA,NA,1,,no
+1501,reciprocal,0,1508,swap,CAN-JPN,CAN,Canada,JPN,Japan,13/12/2012,01/02/2014,1,renew,587,CAD,CAD,1,NA,NA,1,,no
+1502,reciprocal,0,1512,swap,CAN-EA,CAN,Canada,EA,EA,13/12/2012,01/02/2014,1,renew,588,CAD,CAD,1,NA,NA,1,,no
+1503,reciprocal,0,1516,swap,CAN-CHE,CAN,Canada,CHE,Switzerland,13/12/2012,01/02/2014,1,renew,590,CAD,CAD,1,NA,NA,1,,no
+1504,reciprocal,0,1500,swap,CAN-GBR,GBR,UK,CAN,Canada,13/12/2012,01/02/2014,1,renew,591,GBP,GBP,1,NA,NA,1,,no
+1505,reciprocal,0,1509,swap,GBR-JPN,GBR,UK,JPN,Japan,13/12/2012,01/02/2014,1,renew,592,GBP,GBP,1,NA,NA,1,,no
+1506,reciprocal,0,1513,swap,EA-GBR,GBR,UK,EA,EA,13/12/2012,01/02/2014,1,renew,593,GBP,GBP,1,NA,NA,1,,no
+1507,reciprocal,0,1517,swap,CHE-GBR,GBR,UK,CHE,Switzerland,13/12/2012,01/02/2014,1,renew,595,GBP,GBP,1,NA,NA,1,,no
+1508,reciprocal,0,1501,swap,CAN-JPN,JPN,Japan,CAN,Canada,13/12/2012,01/02/2014,1,renew,596,JPY,JPY,1,NA,NA,1,,no
+1509,reciprocal,0,1505,swap,GBR-JPN,JPN,Japan,GBR,UK,13/12/2012,01/02/2014,1,renew,597,JPY,JPY,1,NA,NA,1,,no
+1510,reciprocal,0,1514,swap,EA-JPN,JPN,Japan,EA,EA,13/12/2012,01/02/2014,1,renew,598,JPY,JPY,1,NA,NA,1,,no
+1511,reciprocal,0,1518,swap,CHE-JPN,JPN,Japan,CHE,Switzerland,13/12/2012,01/02/2014,1,renew,600,JPY,JPY,1,NA,NA,1,,no
+1512,reciprocal,0,1502,swap,CAN-EA,EA,EA,CAN,Canada,13/12/2012,01/02/2014,1,renew,601,EUR,EUR,1,NA,NA,1,,no
+1513,reciprocal,0,1506,swap,EA-GBR,EA,EA,GBR,UK,13/12/2012,01/02/2014,1,renew,602,EUR,EUR,1,NA,NA,1,,no
+1514,reciprocal,0,1510,swap,EA-JPN,EA,EA,JPN,Japan,13/12/2012,01/02/2014,1,renew,603,EUR,EUR,1,NA,NA,1,,no
+1515,reciprocal,0,1519,swap,CHE-EA,EA,EA,CHE,Switzerland,13/12/2012,01/02/2014,1,renew,605,EUR,EUR,1,NA,NA,1,,no
+1516,reciprocal,0,1503,swap,CAN-CHE,CHE,Switzerland,CAN,Canada,13/12/2012,01/02/2014,1,renew,606,CHF,CHF,1,NA,NA,1,,no
+1517,reciprocal,0,1507,swap,CHE-GBR,CHE,Switzerland,GBR,UK,13/12/2012,01/02/2014,1,renew,607,CHF,CHF,1,NA,NA,1,,no
+1518,reciprocal,0,1511,swap,CHE-JPN,CHE,Switzerland,JPN,Japan,13/12/2012,01/02/2014,1,renew,608,CHF,CHF,1,NA,NA,1,,no
+1519,reciprocal,0,1515,swap,CHE-EA,CHE,Switzerland,EA,EA,13/12/2012,01/02/2014,1,renew,609,CHF,CHF,1,NA,NA,1,,no
+1520,unidirectional,0,,swap,CHE-POL,CHE,Switzerland,POL,Poland,16/01/2009,30/04/2009,1,renew,316,CHF,CHF,1,NA,NA,1,,no
+1521,unidirectional,0,,swap,CHE-POL,CHE,Switzerland,POL,Poland,27/04/2009,31/07/2009,1,renew,1520,CHF,CHF,1,NA,NA,1,,no
+1522,unidirectional,0,,swap,CHE-POL,CHE,Switzerland,POL,Poland,25/06/2009,31/10/2009,1,renew,1521,CHF,CHF,1,NA,NA,1,,no
+1523,unidirectional,0,,swap,CHE-POL,CHE,Switzerland,POL,Poland,24/09/2009,31/01/2010,1,renew,1522,CHF,CHF,1,NA,NA,1,,no
+1524,unidirectional,0,,swap,CHE-HUN,CHE,Switzerland,HUN,Hungary,27/04/2009,31/07/2009,1,renew,326,CHF,CHF,1,NA,NA,1,,no
+1525,unidirectional,0,,swap,CHE-HUN,CHE,Switzerland,HUN,Hungary,25/06/2009,31/10/2009,1,renew,1524,CHF,CHF,1,NA,NA,1,,no
+1526,unidirectional,0,,swap,CHE-HUN,CHE,Switzerland,HUN,Hungary,24/09/2009,31/01/2010,1,renew,1525,CHF,CHF,1,NA,NA,1,,no
+1527,reciprocal,0,1329,swap,CHE-CHN,CHE,Switzerland,CHN,China,21/07/2017,21/07/2020,1,renew,883,CHF,CHF,1,21,NA,0,,no
+1528,reciprocal,0,1529,swap,CHE-CHN,CHN,China,CHE,Switzerland,21/07/2020,21/07/2023,1,renew,1329,CNY,CNY,1,150,NA,0,,no
+1529,reciprocal,0,1528,swap,CHE-CHN,CHE,Switzerland,CHN,China,21/07/2020,21/07/2023,1,renew,1527,CHF,CHF,1,20,NA,0,,no
+1530,reciprocal,0,1531,swap,CHE-KOR,KOR,South Korea,CHE,Switzerland,01/03/2021,01/03/2026,1,renew,966,KRW,KRW,1,11200,NA,0,,no
+1531,reciprocal,0,1530,swap,CHE-KOR,CHE,Switzerland,KOR,South Korea,01/03/2021,01/03/2026,1,renew,967,CHF,CHF,1,10,NA,0,,no
+1532,unidirectional,0,,repo,EA-HUN,EA,EA,HUN,Hungary,29/01/2024,31/01/2025,1,renew,1416,EUR,EUR,1,4,NA,0,EUREP,no
+1533,unidirectional,0,,repo,AND-EA,EA,EA,AND,Andorra,29/01/2024,31/01/2025,1,renew,1415,EUR,EUR,1,0.035,NA,0,EUREP,no
+1534,unidirectional,0,,repo,EA-MKD,EA,EA,MKD,North Macedonia,29/01/2024,31/01/2025,1,renew,1476,EUR,EUR,1,0.4,NA,0,EUREP,no
+1535,unidirectional,0,,repo,EA-MNE,EA,EA,MNE,Montenegro,29/01/2024,31/01/2025,1,renew,1599,EUR,EUR,1,0.25,NA,0,EUREP,no
+1536,unidirectional,0,,repo,EA-XKX,EA,EA,XKX,Kosovo,29/01/2024,31/01/2025,0,NA,,EUR,EUR,1,0.1,NA,0,EUREP,no
+1537,unidirectional,0,,repo,EA-SMR,EA,EA,SMR,San Marino,07/02/2024,31/01/2025,1,renew,1417,EUR,EUR,1,0.1,0.1,0,EUREP,no
+1538,reciprocal,0,1539,swap,CHN-EA,EA,EA,CHN,China,27/09/2016,08/10/2019,1,renew,653,EUR,EUR,1,45,NA,0,,no
+1539,reciprocal,0,1538,swap,CHN-EA,CHN,China,EA,EA,27/09/2016,08/10/2019,1,renew,654,CNY,CNY,1,350,NA,0,,no
+1540,reciprocal,0,1541,swap,CHN-EA,EA,EA,CHN,China,08/10/2019,08/10/2022,1,renew,1538,EUR,EUR,1,45,NA,0,,no
+1541,reciprocal,0,1540,swap,CHN-EA,CHN,China,EA,EA,08/10/2019,08/10/2022,1,renew,1539,CNY,CNY,1,350,NA,0,,no
+1542,reciprocal,0,1543,swap,CHN-EA,EA,EA,CHN,China,10/10/2022,10/10/2025,1,renew,1540,EUR,EUR,1,45,NA,0,,no
+1543,reciprocal,0,1542,swap,CHN-EA,CHN,China,EA,EA,10/10/2022,10/10/2025,1,renew,1541,CNY,CNY,1,350,NA,0,,no
+1544,reciprocal,0,1545,swap,CHN-KOR,KOR,South Korea,CHN,China,11/10/2014,11/10/2017,1,renew,580,KRW,KRW,1,64000,NA,0,,no
+1545,reciprocal,0,1544,swap,CHN-KOR,CHN,China,KOR,South Korea,11/10/2014,11/10/2017,1,renew,581,CNY,CNY,1,360,NA,0,,no
+1546,reciprocal,0,1547,swap,CHN-KOR,KOR,South Korea,CHN,China,11/10/2017,11/10/2020,1,renew,1544,KRW,KRW,1,64000,NA,0,,no
+1547,reciprocal,0,1546,swap,CHN-KOR,CHN,China,KOR,South Korea,11/10/2017,11/10/2020,1,renew,1545,CNY,CNY,1,360,NA,0,,no
+1548,reciprocal,0,1549,swap,KOR-MYS,KOR,South Korea,MYS,Malaysia,25/01/2017,25/01/2020,1,reactivate,659,KRW,KRW,1,5000,NA,0,,no
+1549,reciprocal,0,1548,swap,KOR-MYS,MYS,Malaysia,KOR,South Korea,25/01/2017,25/01/2020,1,reactivate,660,MYR,MYR,1,15,NA,0,,no
+1550,reciprocal,0,1551,swap,KOR-MYS,KOR,South Korea,MYS,Malaysia,03/02/2020,03/02/2023,1,reactivate,1548,KRW,KRW,1,5000,NA,0,,no
+1551,reciprocal,0,1550,swap,KOR-MYS,MYS,Malaysia,KOR,South Korea,03/02/2020,03/02/2023,1,reactivate,1549,MYR,MYR,1,15,NA,0,,no
+1552,reciprocal,0,1553,swap,KOR-PHL,KOR,South Korea,PHL,Philippines,31/03/2009,24/03/2010,1,renew,244,USD,KRW,0,2,2,0,CMI_BSA,yes
+1553,reciprocal,0,1552,swap,KOR-PHL,PHL,Philippines,KOR,South Korea,31/03/2009,24/03/2010,1,renew,245,USD,PHP,0,2,2,0,CMI_BSA,yes
+1554,unidirectional,0,,repo,CHL-USA,USA,USA,CHL,Chile,03/06/2020,31/12/9999,0,NA,,USD,USD,1,,,0,FIMA,yes
+1555,unidirectional,0,,repo,COL-USA,USA,USA,COL,Colombia,06/04/2020,31/12/9999,0,NA,,USD,USD,1,,,0,FIMA,yes
+1556,unidirectional,0,,repo,GHA-USA,USA,USA,GHA,Ghana,15/05/2020,31/12/9999,0,NA,,USD,USD,1,1,1,0,FIMA,yes
+1557,unidirectional,0,,repo,IDN-USA,USA,USA,IDN,Indonesia,07/04/2020,31/12/9999,0,NA,,USD,USD,1,60,60,0,FIMA,yes
+1558,unidirectional,0,,repo,LKA-USA,USA,USA,LKA,Sri Lanka,24/06/2020,31/12/9999,0,NA,,USD,USD,1,1,1,0,FIMA,yes
+1559,unidirectional,0,,repo,HKG-USA,USA,USA,HKG,Hong Kong,22/04/2020,31/12/9999,0,NA,,USD,USD,1,10,10,0,FIMA,yes
+1560,unidirectional,0,,repo,SWE-USA,USA,USA,SWE,Sweden,20/12/2021,31/12/9999,1,NA,,USD,USD,1,,,0,FIMA,yes
+1561,unidirectional,0,,repo,KOR-USA,USA,USA,KOR,South Korea,23/12/2021,31/12/9999,1,NA,,USD,USD,1,60,60,0,FIMA,yes
+1562,reciprocal,0,1563,swap,CHN-MUS,CHN,China,MUS,Mauritius,30/08/2024,30/08/2027,0,NA,,CNY,CNY,1,2,NA,0,,no
+1563,reciprocal,0,1562,swap,CHN-MUS,MUS,Mauritius,CHN,China,30/08/2024,30/08/2027,0,NA,,MUR,MUR,1,13,NA,0,,no
+1564,reciprocal,0,1565,swap,CHN-PAK,CHN,China,PAK,Pakistan,16/10/2024,16/10/2027,1,reactivate,1319,CNY,CNY,1,30,NA,0,,no
+1565,reciprocal,0,1564,swap,CHN-PAK,PAK,Pakistan,CHN,China,16/10/2024,16/10/2027,1,reactivate,1318,PKR,PKR,1,1180,NA,0,,no
+1566,reciprocal,0,1567,swap,CHN-JPN,JPN,Japan,CHN,China,25/10/2024,25/10/2027,1,renew,1447,JPY,JPY,1,3400,NA,0,,no
+1567,reciprocal,0,1566,swap,CHN-JPN,CHN,China,JPN,Japan,25/10/2024,25/10/2027,1,renew,1448,CNY,CNY,1,200,NA,0,,no
+1568,reciprocal,0,1569,swap,CHN-NGA,NGA,Nigeria,CHN,China,27/12/2024,27/12/2027,1,reactivate,1282,NGN,NGN,1,3280,NA,0,,no
+1569,reciprocal,0,1568,swap,CHN-NGA,CHN,China,NGA,Nigeria,27/12/2024,27/12/2027,1,reactivate,1283,CNY,CNY,1,15,NA,0,,no
+1570,reciprocal,0,1571,swap,JPN-SGP,JPN,Japan,SGP,Singapore,21/05/2024,21/05/2027,1,renew,1463,USD/JPY,JPY,1,3,3,0,CMI_BSA,yes
+1571,reciprocal,0,1570,swap,JPN-SGP,SGP,Singapore,JPN,Japan,21/05/2024,21/05/2027,1,renew,1464,USD,SGD,0,1,1,0,CMI_BSA,yes
+1572,reciprocal,0,1573,swap,JPN-THA,JPN,Japan,THA,Thailand,23/07/2024,23/07/2027,1,renew,1487,USD/JPY,JPY,1,3,3,0,,yes
+1573,reciprocal,0,1572,swap,JPN-THA,THA,Thailand,JPN,Japan,23/07/2024,23/07/2027,1,renew,1488,USD,THB,0,3,3,0,,yes
+1574,unidirectional,0,,swap,IDN-JPN,JPN,Japan,IDN,Indonesia,14/10/2024,14/10/2027,1,renew,1418,USD/JPY,JPY,1,22.76,22.76,0,CMI_BSA,yes
+1575,reciprocal,0,1576,swap,JPN-PHL,JPN,Japan,PHL,Philippines,01/01/2025,01/01/2028,1,renew,1455,USD/JPY,JPY,1,12,12,0,,yes
+1576,reciprocal,0,1575,swap,JPN-PHL,PHL,Philippines,JPN,Japan,01/01/2025,01/01/2028,1,renew,1456,USD,PHP,0,0.5,0.5,0,,yes
+1577,reciprocal,0,1578,swap,KOR-TUR,KOR,South Korea,TUR,Turkey,12/08/2024,12/08/2027,1,NA,1288,KRW,KRW,1,2300,NA,0,,no
+1578,reciprocal,0,1577,swap,KOR-TUR,TUR,Turkey,KOR,South Korea,12/08/2024,12/08/2027,1,NA,1289,TRY,TRY,1,56,NA,0,,no
+1579,reciprocal,0,1580,swap,KOR-MYS,KOR,South Korea,MYS,Malaysia,13/05/2024,13/05/2027,1,reactivate,1550,KRW,KRW,1,5000,NA,0,,no
+1580,reciprocal,0,1579,swap,KOR-MYS,MYS,Malaysia,KOR,South Korea,13/05/2024,13/05/2027,1,reactivate,1551,MYR,MYR,1,15,NA,0,,no
+1581,unidirectional,0,,repo,EA-ROU,EA,EA,ROU,Romania,01/08/2024,31/01/2025,1,reactivate,1413,EUR,EUR,1,4.5,NA,0,EUREP,yes
+1582,reciprocal,0,1584,swap,IDN-SGP,IDN,Indonesia,SGP,Singapore,04/11/2024,01/11/2027,1,renew,1437,IDR,IDR,1,100000,NA,0,,no
+1583,reciprocal,0,1585,repo,IDN-SGP,IDN,Indonesia,SGP,Singapore,04/11/2024,01/11/2027,1,supplement,1438,USD,IDR,0,3,3,0,,no
+1584,reciprocal,0,1582,swap,IDN-SGP,SGP,Singapore,IDN,Indonesia,04/11/2024,01/11/2027,1,renew,1439,SGD,SGD,1,9.5,NA,0,,no
+1585,reciprocal,0,1583,repo,IDN-SGP,SGP,Singapore,IDN,Indonesia,04/11/2024,01/11/2027,1,supplement,1440,USD,SGD,0,3,3,0,,no
+1586,reciprocal,0,1587,swap,IDN-MYS,IDN,Indonesia,MYS,Malaysia,27/09/2024,27/09/2029,1,renew,1419,IDR,IDR,1,82000,NA,0,,no
+1587,reciprocal,0,1586,swap,IDN-MYS,MYS,Malaysia,IDN,Indonesia,27/09/2024,27/09/2029,1,renew,1420,MYR,MYR,1,24,NA,0,,no
+1588,reciprocal,0,1589,swap,CHN-LKA,CHN,China,LKA,Sri Lanka,31/12/2024,31/12/2027,1,reactivate,1098,CNY,CNY,1,10,NA,0,,yes
+1589,reciprocal,0,1588,swap,CHN-LKA,LKA,Sri Lanka,CHN,China,31/12/2024,31/12/2027,1,reactivate,1099,LKR,LKR,1,410,NA,0,,yes
+1590,unidirectional,0,,repo,EA-ROU,EA,EA,ROU,Romania,07/02/2025,31/01/2027,1,renew,1581,EUR,EUR,1,4.5,NA,0,EUREP,yes
+1591,unidirectional,0,,repo,EA-HUN,EA,EA,HUN,Hungary,07/02/2025,31/01/2027,1,renew,1532,EUR,EUR,1,4,NA,0,EUREP,yes
+1592,unidirectional,0,,repo,ALB-EA,EA,EA,ALB,Albania,07/02/2025,31/01/2027,1,renew,1477,EUR,EUR,1,0.4,NA,0,EUREP,yes
+1593,unidirectional,0,,repo,AND-EA,EA,EA,AND,Andorra,07/02/2025,31/01/2027,1,renew,1533,EUR,EUR,1,0.035,NA,0,EUREP,yes
+1594,unidirectional,0,,repo,EA-MKD,EA,EA,MKD,North Macedonia,07/02/2025,31/01/2027,1,renew,1534,EUR,EUR,1,0.4,NA,0,EUREP,yes
+1595,unidirectional,0,,repo,EA-SMR,EA,EA,SMR,San Marino,07/02/2025,31/01/2027,1,renew,1537,EUR,EUR,1,0.1,NA,0,EUREP,yes
+1596,unidirectional,0,,repo,EA-MNE,EA,EA,MNE,Montenegro,07/02/2025,31/01/2027,1,renew,1535,EUR,EUR,1,0.25,NA,0,EUREP,yes
+1597,unidirectional,0,,repo,EA-XKX,EA,EA,XKX,Kosovo,07/02/2025,31/01/2027,1,renew,1536,EUR,EUR,1,0.1,NA,0,EUREP,yes
+1598,unidirectional,0,,repo,EA-MNE,EA,EA,MNE,Montenegro,01/06/2020,15/01/2023,0,NA,,EUR,EUR,1,0.25,NA,0,EUREP,yes
+1599,unidirectional,0,,repo,EA-MNE,EA,EA,MNE,Montenegro,15/12/2022,15/01/2024,1,renew,1598,EUR,EUR,1,0.25,NA,0,EUREP,yes
+1600,reciprocal,0,1601,swap,CHN-EA,EA,EA,CHN,China,08/09/2025,08/10/2028,1,renew,1542,EUR,EUR,1,45,NA,0,,no
+1601,reciprocal,0,1600,swap,CHN-EA,CHN,China,EA,EA,08/09/2025,08/10/2028,1,renew,1543,CNY,CNY,1,350,NA,0,,no
+1602,reciprocal,0,1603,swap,CHN-KOR,KOR,South Korea,CHN,China,03/11/2025,03/11/2030,1,renew,1086,KRW,KRW,1,70000,NA,0,,no
+1603,reciprocal,0,1602,swap,CHN-KOR,CHN,China,KOR,South Korea,03/11/2025,03/11/2030,1,renew,1087,CNY,CNY,1,400,NA,0,,no
+1604,reciprocal,0,1605,swap,CHN-ISL,CHN,China,ISL,Iceland,15/10/2025,15/10/2030,1,reactivate,1089,CNY,CNY,1,3.5,NA,0,,no
+1605,reciprocal,0,1604,swap,CHN-ISL,ISL,Iceland,CHN,China,15/10/2025,15/10/2030,1,reactivate,1088,ISK,ISK,1,70,NA,0,,no
+1606,reciprocal,0,1607,swap,CHE-CHN,CHN,China,CHE,Switzerland,07/09/2025,07/09/2028,1,reactivate,1528,CNY,CNY,1,150,NA,0,,no
+1607,reciprocal,0,1606,swap,CHE-CHN,CHE,Switzerland,CHN,China,07/09/2025,07/09/2028,1,reactivate,1529,CHF,CHF,1,17,NA,0,,no
+1608,reciprocal,0,1609,swap,CHN-HUN,CHN,China,HUN,Hungary,08/09/2025,08/09/2030,1,renew,1085,CNY,CNY,1,40,NA,0,,no
+1609,reciprocal,0,1608,swap,CHN-HUN,HUN,Hungary,CHN,China,08/09/2025,08/09/2030,1,renew,1084,HUF,HUF,1,1900,NA,0,,no
+1610,reciprocal,0,1611,swap,CHN-NZL,CHN,China,NZL,New Zealand,28/08/2025,28/08/2030,1,reactivate,1082,CNY,CNY,1,25,NA,0,,no
+1611,reciprocal,0,1610,swap,CHN-NZL,NZL,New Zealand,CHN,China,28/08/2025,28/08/2030,1,reactivate,1083,NZD,NZD,1,5,NA,0,,no
+1612,reciprocal,0,1613,swap,CHN-THA,CHN,China,THA,Thailand,18/08/2025,18/08/2030,1,renew,1483,CNY,CNY,1,70,NA,0,,no
+1613,reciprocal,0,1612,swap,CHN-THA,THA,Thailand,CHN,China,18/08/2025,18/08/2030,1,renew,1484,THB,THB,1,370,NA,0,,no
+1614,reciprocal,0,1615,swap,CHN-TUR,CHN,China,TUR,Turkey,13/06/2025,13/06/2028,1,reactivate,1482,CNY,CNY,1,35,NA,0,,no
+1615,reciprocal,0,1614,swap,CHN-TUR,TUR,Turkey,CHN,China,13/06/2025,13/06/2028,1,reactivate,1330,TRY,TRY,1,189,NA,0,,no
+1616,reciprocal,0,1617,swap,BRA-CHN,CHN,China,BRA,Brazil,13/05/2025,13/05/2030,1,reactivate,642,CNY,CNY,1,190,NA,0,,no
+1617,reciprocal,0,1616,swap,BRA-CHN,BRA,Brazil,CHN,China,13/05/2025,13/05/2030,1,reactivate,641,BRL,BRL,1,157,NA,0,,no
+1618,reciprocal,0,1619,swap,CHN-IDN,CHN,China,IDN,Indonesia,07/02/2025,07/02/2030,1,renew,1293,CNY,CNY,1,400,NA,0,,no
+1619,reciprocal,0,1618,swap,CHN-IDN,IDN,Indonesia,CHN,China,07/02/2025,07/02/2030,1,renew,1292,IDR,IDR,1,878000,NA,0,,no
+1620,reciprocal,0,1621,swap,CHN-MAC,CHN,China,MAC,Macao,05/12/2025,31/12/9999,1,renew,1306,CNY,CNY,1,50,NA,0,,no
+1621,reciprocal,0,1620,swap,CHN-MAC,MAC,Macao,CHN,China,05/12/2025,31/12/9999,1,renew,1305,MOP,MOP,1,57,NA,0,,no
+1622,reciprocal,0,1623,swap,AUS-JPN,JPN,Japan,AUS,Australia,17/03/2025,17/03/2028,1,renew,1379,JPY,JPY,1,1600,NA,0,,no
+1623,reciprocal,0,1622,swap,AUS-JPN,AUS,Australia,JPN,Japan,17/03/2025,17/03/2028,1,renew,1380,AUD,AUD,1,20,NA,0,,no
+1624,reciprocal,0,1625,swap,AUS-IDN,IDN,Indonesia,AUS,Australia,04/03/2025,04/03/2030,1,renew,1296,IDR,IDR,1,100000,NA,0,,no
+1625,reciprocal,0,1624,swap,AUS-IDN,AUS,Australia,IDN,Indonesia,04/03/2025,04/03/2030,1,renew,1297,AUD,AUD,1,10,NA,0,,no
+1626,reciprocal,0,1627,swap,JPN-SGP,JPN,Japan,SGP,Singapore,28/11/2025,29/11/2028,1,renew,1459,JPY,JPY,1,1100,NA,0,,no
+1627,reciprocal,0,1626,swap,JPN-SGP,SGP,Singapore,JPN,Japan,28/11/2025,29/11/2028,1,renew,1460,SGD,SGD,1,15,NA,0,,no
+1628,reciprocal,0,1628,swap,IND-JPN,JPN,Japan,IND,India,28/02/2025,28/02/2028,1,renew,1383,USD,JPY,0,75,75,0,,yes
+1629,reciprocal,0,1629,swap,IND-JPN,IND,India,JPN,Japan,28/02/2025,28/02/2028,1,renew,1384,USD,INR,0,75,75,0,,yes
+1630,reciprocal,0,1631,swap,ARE-TUR,TUR,Turkey,ARE,United Arab Emirates,02/10/2025,02/10/2028,1,renew,1290,TRY,TRY,1,198,NA,0,,yes
+1631,reciprocal,0,1630,swap,ARE-TUR,ARE,United Arab Emirates,TUR,Turkey,02/10/2025,02/10/2028,1,renew,1291,AED,AED,1,18,NA,0,,yes
+1632,reciprocal,0,1633,swap,KAZ-TUR,TUR,Turkey,KAZ,Kazakhstan,24/04/2025,24/04/2028,0,NA,,TRY,TRY,1,28,NA,0,,no
+1633,reciprocal,0,1632,swap,KAZ-TUR,KAZ,Kazakhstan,TUR,Turkey,24/04/2025,24/04/2028,0,NA,,KZT,KZT,1,423,NA,0,,no
+1634,reciprocal,0,1635,swap,ARE-ETH,ARE,United Arab Emirates,ETH,Ethiopia,16/07/2024,16/07/2027,0,NA,,AED,AED,1,3,NA,0,,yes
+1635,reciprocal,0,1634,swap,ARE-ETH,ETH,Ethiopia,ARE,United Arab Emirates,16/07/2024,16/07/2027,0,NA,,ETB,ETB,1,46,NA,0,,yes
+1636,unidirectional,0,,swap,ARG-CHN,CHN,China,ARG,Argentina,08/01/2023,12/06/2024,1,supplement,,CNY,CNY,1,35,NA,0,,yes
+1637,unidirectional,0,,swap,ARG-CHN,CHN,China,ARG,Argentina,18/10/2023,09/06/2026,1,supplement,,CNY,CNY,1,47,NA,0,,yes
+1638,unidirectional,0,,swap,ARG-CHN,CHN,China,ARG,Argentina,12/06/2024,01/07/2026,1,supplement,1636,CNY,CNY,1,35,NA,0,,yes
+1639,unidirectional,0,,swap,ARG-CHN,CHN,China,ARG,Argentina,10/04/2025,10/04/2026,1,supplement,1638,CNY,CNY,1,35,NA,0,,yes
+1640,unidirectional,0,,swap,IND-MDV,IND,India,MDV,Maldives,07/10/2024,18/06/2027,1,renew,1345,USD,INR,0,0.4,0.4,0,SAARC,no
