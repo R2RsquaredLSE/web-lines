@@ -135,21 +135,21 @@ Data for replication: [Excel](Map_network_xlsx.zip), [csv](Map_network_csv.zip),
 ---
 
 ## Geographical coverage of the USD bilateral liquidity lines by degree
-![Map of USD lines](network_bilateral2025_USA.png)
+![Map of USD lines](network_bilateral2025_USA.pdf)
 
 Data for replication: [Excel](/network_bilateral2023_USA.xlsx), [csv](/network_bilateral2023_USA.csv), [dta](/network_bilateral2023_USA.dta) 
 
 ---
 
 ## Geographical coverage of the EUR bilateral liquidity lines by degree
-![Map of EUR lines](network_bilateral2025_EA.png)
+![Map of EUR lines](network_bilateral2025_EA.pdf)
 
 Data for replication: [Excel](network_bilateral2023_EA.xlsx), [csv](network_bilateral2023_EA.csv), [dta](network_bilateral2023_EA.dta) 
 
 ---
 
 ## Geographical coverage of the RMB bilateral liquidity lines by degree
-![Map of RMB lines](network_bilateral2025_CHN.png)
+![Map of RMB lines](network_bilateral2025_CHN.pdf)
 
 Data for replication: [Excel](network_bilateral2023_CHN.xlsx), [csv](network_bilateral2023_CHN.csv), [dta](network_bilateral2023_CHN.dta) 
 
