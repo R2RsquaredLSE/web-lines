@@ -4,7 +4,7 @@ A central bank cross-border liquidity line is an agreement between two central b
 a long time, but have risen in prominence since the global financial crisis. This dataset provides a comprehensive (to the best of our knowledge and ability) repository for all lines in place since 2000. This dataset was collated from public sources, so it can be **freely used** by other researchers.
 
 The dataset will be updated regularly to reflect the latest data.
-- **Vintage 1:** The dataset was last updated in May 2024 to cover lines in place until December 2023. 
+- **Vintage 1:** The dataset was last updated in May 2024 to cover lines in place until December 2025. 
 
 ---
 
