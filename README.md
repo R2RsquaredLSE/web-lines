@@ -29,7 +29,7 @@ Download in three formats:
 ---
 
 # Variables
-The data is at the agreement level: by date and duration (2000-23), by source currency (USD,EUR, RMB, others), by type (bilateral or multilateral), by funding structure (pooled or
+The data is at the agreement level: by date and duration (2000-25), by source currency (USD,EUR, RMB, others), by type (bilateral or multilateral), by funding structure (pooled or
 by individual bank), by counterparties (central banks), and by some terms (like collateral).
 
 <table>
@@ -125,7 +125,7 @@ by individual bank), by counterparties (central banks), and by some terms (like 
 
 ---
 
-# Latest Figures (as of 2023)
+# Latest Figures (as of 2025)
 
 ## Geographical coverage of the liquidity lines
 ![Map of the lines](map_temp_2023_edit.png)
@@ -135,21 +135,21 @@ Data for replication: [Excel](Map_network_xlsx.zip), [csv](Map_network_csv.zip),
 ---
 
 ## Geographical coverage of the USD bilateral liquidity lines by degree
-![Map of USD lines](network_bilateral2023_USA.png)
+![Map of USD lines](network_bilateral2025_USA.png)
 
 Data for replication: [Excel](/network_bilateral2023_USA.xlsx), [csv](/network_bilateral2023_USA.csv), [dta](/network_bilateral2023_USA.dta) 
 
 ---
 
 ## Geographical coverage of the EUR bilateral liquidity lines by degree
-![Map of EUR lines](network_bilateral2023_EA.png)
+![Map of EUR lines](network_bilateral2025_EA.png)
 
 Data for replication: [Excel](network_bilateral2023_EA.xlsx), [csv](network_bilateral2023_EA.csv), [dta](network_bilateral2023_EA.dta) 
 
 ---
 
 ## Geographical coverage of the RMB bilateral liquidity lines by degree
-![Map of RMB lines](network_bilateral2023_CHN.png)
+![Map of RMB lines](network_bilateral2025_CHN.png)
 
 Data for replication: [Excel](network_bilateral2023_CHN.xlsx), [csv](network_bilateral2023_CHN.csv), [dta](network_bilateral2023_CHN.dta) 
 
