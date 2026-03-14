@@ -9,6 +9,11 @@ The dataset will be updated regularly to reflect the latest data.
 - **Vintage 3:** The dataset was last updated in January 2026 to cover lines in place until December 2025.
 
 ---
+# Replication Package 
+
+[Download the replication package](REPLICATION_upload.zip)
+---
+
 
 # Authors and Reference:
 [The Global Network of Liquidity Lines](https://r2rsquaredlse.github.io/web-lines/DP19070.pdf) (2024), CEPR discussion paper 19070. 
